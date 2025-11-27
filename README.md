@@ -127,10 +127,10 @@ AOV = DIVIDE([Total Sales], [Total Orders])
 ## 📸 Dashboard Preview
 
 ### **Page 1 – Sales Performance**
-![Dashboard Page 1](Images/page1.png)
+![Dashboard Page 1](Images/dashboard_page_1.png)
 
 ### **Page 2 – Customer & Category Insights**
-![Dashboard Page 2](Images/page2.png)
+![Dashboard Page 2](Images/dashboard_page_2.png)
 
 ---
 
