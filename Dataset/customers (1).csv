@@ -1,0 +1,2001 @@
+customer_id,customer_name,customer_state,customer_city,customer_segment,signup_date
+CUST0001,Customer_1,Gujarat,Ahmedabad,Regular,2022-10-17
+CUST0002,Customer_2,Tamil Nadu,Bangalore,First-time,2021-04-25
+CUST0003,Customer_3,Maharashtra,Ahmedabad,Bulk Buyer,2021-01-26
+CUST0004,Customer_4,Gujarat,Mumbai,Prime,2023-01-30
+CUST0005,Customer_5,Karnataka,Hyderabad,Bulk Buyer,2021-10-09
+CUST0006,Customer_6,West Bengal,Delhi,Prime,2021-09-08
+CUST0007,Customer_7,Maharashtra,Mumbai,Bulk Buyer,2021-08-17
+CUST0008,Customer_8,Maharashtra,Pune,Regular,2021-05-23
+CUST0009,Customer_9,Gujarat,Pune,First-time,2023-01-25
+CUST0010,Customer_10,Telangana,Ahmedabad,First-time,2021-04-15
+CUST0011,Customer_11,Karnataka,Kolkata,Regular,2022-11-24
+CUST0012,Customer_12,Gujarat,Vizag,Prime,2023-01-29
+CUST0013,Customer_13,Karnataka,Kolkata,Prime,2022-07-13
+CUST0014,Customer_14,Karnataka,Kolkata,Prime,2021-03-31
+CUST0015,Customer_15,West Bengal,Delhi,Regular,2022-08-28
+CUST0016,Customer_16,Maharashtra,Hyderabad,Prime,2022-03-09
+CUST0017,Customer_17,Tamil Nadu,Delhi,Regular,2021-02-02
+CUST0018,Customer_18,West Bengal,Mumbai,Bulk Buyer,2021-01-31
+CUST0019,Customer_19,West Bengal,Pune,Bulk Buyer,2021-04-06
+CUST0020,Customer_20,Karnataka,Delhi,Regular,2021-08-12
+CUST0021,Customer_21,Delhi,Mumbai,First-time,2021-08-27
+CUST0022,Customer_22,Maharashtra,Delhi,Bulk Buyer,2022-06-02
+CUST0023,Customer_23,Telangana,Kolkata,Prime,2022-09-09
+CUST0024,Customer_24,West Bengal,Bangalore,Regular,2021-01-28
+CUST0025,Customer_25,Tamil Nadu,Ahmedabad,Prime,2022-07-29
+CUST0026,Customer_26,Delhi,Vizag,Prime,2021-07-23
+CUST0027,Customer_27,Delhi,Delhi,First-time,2023-01-04
+CUST0028,Customer_28,Telangana,Vizag,Prime,2022-10-28
+CUST0029,Customer_29,West Bengal,Chennai,First-time,2022-12-20
+CUST0030,Customer_30,Tamil Nadu,Delhi,Bulk Buyer,2022-07-13
+CUST0031,Customer_31,Maharashtra,Bangalore,Regular,2022-03-06
+CUST0032,Customer_32,Andhra Pradesh,Vizag,Prime,2021-08-14
+CUST0033,Customer_33,Tamil Nadu,Delhi,Regular,2022-04-05
+CUST0034,Customer_34,Telangana,Hyderabad,Prime,2022-08-27
+CUST0035,Customer_35,Delhi,Ahmedabad,Regular,2021-10-12
+CUST0036,Customer_36,Maharashtra,Bangalore,Prime,2023-04-09
+CUST0037,Customer_37,Tamil Nadu,Vizag,Prime,2023-06-10
+CUST0038,Customer_38,Andhra Pradesh,Bangalore,Prime,2021-01-07
+CUST0039,Customer_39,Andhra Pradesh,Mumbai,Prime,2023-02-17
+CUST0040,Customer_40,Karnataka,Ahmedabad,Prime,2023-04-06
+CUST0041,Customer_41,Karnataka,Delhi,Prime,2021-06-13
+CUST0042,Customer_42,Gujarat,Delhi,Prime,2022-12-16
+CUST0043,Customer_43,Telangana,Delhi,Prime,2022-03-09
+CUST0044,Customer_44,West Bengal,Ahmedabad,Prime,2021-12-15
+CUST0045,Customer_45,Tamil Nadu,Hyderabad,Regular,2021-10-12
+CUST0046,Customer_46,Tamil Nadu,Chennai,First-time,2021-06-09
+CUST0047,Customer_47,West Bengal,Pune,Prime,2021-08-09
+CUST0048,Customer_48,Gujarat,Kolkata,First-time,2023-02-21
+CUST0049,Customer_49,Delhi,Vizag,Prime,2021-12-11
+CUST0050,Customer_50,Delhi,Hyderabad,Prime,2021-04-15
+CUST0051,Customer_51,Gujarat,Vizag,Regular,2021-04-05
+CUST0052,Customer_52,Delhi,Delhi,Bulk Buyer,2022-01-25
+CUST0053,Customer_53,Karnataka,Bangalore,Bulk Buyer,2021-04-10
+CUST0054,Customer_54,Tamil Nadu,Vizag,Regular,2022-01-03
+CUST0055,Customer_55,Gujarat,Delhi,First-time,2023-05-18
+CUST0056,Customer_56,Tamil Nadu,Vizag,Bulk Buyer,2021-12-19
+CUST0057,Customer_57,West Bengal,Bangalore,Regular,2022-09-11
+CUST0058,Customer_58,Andhra Pradesh,Delhi,Regular,2021-09-28
+CUST0059,Customer_59,Karnataka,Chennai,Bulk Buyer,2023-04-07
+CUST0060,Customer_60,Maharashtra,Hyderabad,First-time,2021-02-14
+CUST0061,Customer_61,Karnataka,Mumbai,Regular,2023-01-18
+CUST0062,Customer_62,Gujarat,Kolkata,Prime,2022-04-16
+CUST0063,Customer_63,Maharashtra,Ahmedabad,First-time,2022-07-04
+CUST0064,Customer_64,Andhra Pradesh,Kolkata,First-time,2021-05-08
+CUST0065,Customer_65,Gujarat,Kolkata,Bulk Buyer,2022-01-23
+CUST0066,Customer_66,Telangana,Delhi,Bulk Buyer,2021-03-22
+CUST0067,Customer_67,Tamil Nadu,Chennai,Prime,2022-07-20
+CUST0068,Customer_68,Andhra Pradesh,Mumbai,Regular,2021-10-28
+CUST0069,Customer_69,Tamil Nadu,Hyderabad,Bulk Buyer,2023-04-30
+CUST0070,Customer_70,Delhi,Hyderabad,Bulk Buyer,2022-10-06
+CUST0071,Customer_71,Telangana,Bangalore,First-time,2022-09-26
+CUST0072,Customer_72,Telangana,Ahmedabad,Bulk Buyer,2023-06-02
+CUST0073,Customer_73,Andhra Pradesh,Vizag,Bulk Buyer,2022-01-06
+CUST0074,Customer_74,Telangana,Chennai,Bulk Buyer,2022-08-15
+CUST0075,Customer_75,Maharashtra,Vizag,Bulk Buyer,2021-07-16
+CUST0076,Customer_76,Telangana,Mumbai,First-time,2022-12-23
+CUST0077,Customer_77,Tamil Nadu,Kolkata,Prime,2021-03-13
+CUST0078,Customer_78,Tamil Nadu,Hyderabad,Prime,2021-02-16
+CUST0079,Customer_79,Gujarat,Mumbai,Regular,2022-11-09
+CUST0080,Customer_80,Tamil Nadu,Kolkata,Bulk Buyer,2021-08-22
+CUST0081,Customer_81,Gujarat,Hyderabad,First-time,2023-03-03
+CUST0082,Customer_82,Tamil Nadu,Kolkata,Regular,2021-10-24
+CUST0083,Customer_83,Maharashtra,Ahmedabad,Regular,2021-03-23
+CUST0084,Customer_84,West Bengal,Chennai,Prime,2023-05-26
+CUST0085,Customer_85,Gujarat,Mumbai,First-time,2021-08-27
+CUST0086,Customer_86,Karnataka,Mumbai,First-time,2023-06-07
+CUST0087,Customer_87,Delhi,Pune,First-time,2021-04-14
+CUST0088,Customer_88,Andhra Pradesh,Delhi,Prime,2022-01-25
+CUST0089,Customer_89,Tamil Nadu,Ahmedabad,Prime,2021-10-12
+CUST0090,Customer_90,Telangana,Ahmedabad,Prime,2022-04-10
+CUST0091,Customer_91,West Bengal,Vizag,Prime,2022-10-13
+CUST0092,Customer_92,Tamil Nadu,Kolkata,Prime,2023-05-05
+CUST0093,Customer_93,Telangana,Delhi,Bulk Buyer,2022-01-09
+CUST0094,Customer_94,Delhi,Chennai,Bulk Buyer,2021-06-16
+CUST0095,Customer_95,Delhi,Chennai,First-time,2022-01-15
+CUST0096,Customer_96,Delhi,Ahmedabad,Regular,2021-12-30
+CUST0097,Customer_97,Telangana,Chennai,First-time,2021-08-03
+CUST0098,Customer_98,Tamil Nadu,Pune,Regular,2022-11-18
+CUST0099,Customer_99,Delhi,Mumbai,Prime,2021-10-01
+CUST0100,Customer_100,Maharashtra,Bangalore,Regular,2022-12-20
+CUST0101,Customer_101,Gujarat,Vizag,First-time,2022-12-01
+CUST0102,Customer_102,Telangana,Kolkata,First-time,2022-10-26
+CUST0103,Customer_103,Telangana,Kolkata,Regular,2021-03-15
+CUST0104,Customer_104,Tamil Nadu,Hyderabad,Bulk Buyer,2022-09-16
+CUST0105,Customer_105,Telangana,Bangalore,Prime,2022-10-13
+CUST0106,Customer_106,Telangana,Ahmedabad,Prime,2021-06-25
+CUST0107,Customer_107,Delhi,Pune,First-time,2022-07-01
+CUST0108,Customer_108,Tamil Nadu,Mumbai,Bulk Buyer,2023-01-17
+CUST0109,Customer_109,Delhi,Mumbai,Regular,2021-09-08
+CUST0110,Customer_110,Gujarat,Pune,Prime,2021-06-17
+CUST0111,Customer_111,West Bengal,Delhi,Bulk Buyer,2022-04-19
+CUST0112,Customer_112,Gujarat,Hyderabad,Prime,2022-01-24
+CUST0113,Customer_113,West Bengal,Kolkata,Bulk Buyer,2021-10-04
+CUST0114,Customer_114,Delhi,Bangalore,Bulk Buyer,2022-10-18
+CUST0115,Customer_115,Gujarat,Chennai,First-time,2022-12-06
+CUST0116,Customer_116,Tamil Nadu,Hyderabad,Prime,2022-07-25
+CUST0117,Customer_117,Andhra Pradesh,Bangalore,Regular,2021-08-13
+CUST0118,Customer_118,Delhi,Vizag,First-time,2022-12-03
+CUST0119,Customer_119,West Bengal,Vizag,First-time,2021-11-29
+CUST0120,Customer_120,Maharashtra,Hyderabad,Regular,2023-05-14
+CUST0121,Customer_121,West Bengal,Ahmedabad,First-time,2023-02-26
+CUST0122,Customer_122,Maharashtra,Bangalore,Bulk Buyer,2023-03-06
+CUST0123,Customer_123,Telangana,Bangalore,Bulk Buyer,2021-02-27
+CUST0124,Customer_124,Gujarat,Pune,Prime,2021-08-23
+CUST0125,Customer_125,Maharashtra,Ahmedabad,Prime,2023-04-22
+CUST0126,Customer_126,West Bengal,Kolkata,Regular,2021-02-02
+CUST0127,Customer_127,Telangana,Kolkata,Prime,2023-04-05
+CUST0128,Customer_128,Andhra Pradesh,Chennai,Bulk Buyer,2021-11-20
+CUST0129,Customer_129,Tamil Nadu,Mumbai,Regular,2022-02-15
+CUST0130,Customer_130,Tamil Nadu,Vizag,Regular,2021-10-02
+CUST0131,Customer_131,Tamil Nadu,Kolkata,Prime,2021-03-09
+CUST0132,Customer_132,Maharashtra,Ahmedabad,Bulk Buyer,2021-08-05
+CUST0133,Customer_133,Andhra Pradesh,Bangalore,Regular,2022-08-04
+CUST0134,Customer_134,Maharashtra,Kolkata,Bulk Buyer,2023-06-17
+CUST0135,Customer_135,Gujarat,Bangalore,Bulk Buyer,2023-01-06
+CUST0136,Customer_136,Maharashtra,Kolkata,Bulk Buyer,2021-11-19
+CUST0137,Customer_137,Andhra Pradesh,Vizag,Prime,2021-08-06
+CUST0138,Customer_138,Andhra Pradesh,Kolkata,First-time,2022-11-03
+CUST0139,Customer_139,Gujarat,Ahmedabad,First-time,2022-05-27
+CUST0140,Customer_140,Andhra Pradesh,Kolkata,Regular,2022-02-10
+CUST0141,Customer_141,West Bengal,Mumbai,Bulk Buyer,2022-10-21
+CUST0142,Customer_142,Andhra Pradesh,Vizag,Prime,2022-04-15
+CUST0143,Customer_143,Tamil Nadu,Ahmedabad,Bulk Buyer,2021-05-27
+CUST0144,Customer_144,West Bengal,Pune,Bulk Buyer,2021-09-29
+CUST0145,Customer_145,West Bengal,Ahmedabad,Prime,2021-05-23
+CUST0146,Customer_146,Gujarat,Mumbai,First-time,2021-09-10
+CUST0147,Customer_147,Karnataka,Vizag,Bulk Buyer,2023-02-02
+CUST0148,Customer_148,Karnataka,Pune,Bulk Buyer,2022-07-29
+CUST0149,Customer_149,Andhra Pradesh,Mumbai,First-time,2022-07-06
+CUST0150,Customer_150,West Bengal,Mumbai,Prime,2021-09-27
+CUST0151,Customer_151,Karnataka,Hyderabad,Regular,2023-02-04
+CUST0152,Customer_152,Karnataka,Vizag,First-time,2022-08-22
+CUST0153,Customer_153,Andhra Pradesh,Ahmedabad,Regular,2022-03-15
+CUST0154,Customer_154,Karnataka,Bangalore,Regular,2022-08-21
+CUST0155,Customer_155,Maharashtra,Bangalore,First-time,2022-02-13
+CUST0156,Customer_156,Telangana,Ahmedabad,Bulk Buyer,2022-01-06
+CUST0157,Customer_157,Gujarat,Ahmedabad,Regular,2021-08-13
+CUST0158,Customer_158,Telangana,Vizag,Regular,2021-05-22
+CUST0159,Customer_159,Andhra Pradesh,Ahmedabad,Prime,2022-06-06
+CUST0160,Customer_160,Tamil Nadu,Hyderabad,Bulk Buyer,2022-05-21
+CUST0161,Customer_161,Gujarat,Pune,Regular,2021-04-04
+CUST0162,Customer_162,Andhra Pradesh,Ahmedabad,Prime,2023-02-13
+CUST0163,Customer_163,West Bengal,Bangalore,Bulk Buyer,2021-02-18
+CUST0164,Customer_164,Tamil Nadu,Ahmedabad,First-time,2023-06-01
+CUST0165,Customer_165,Telangana,Hyderabad,First-time,2021-04-23
+CUST0166,Customer_166,Andhra Pradesh,Kolkata,Prime,2021-06-06
+CUST0167,Customer_167,West Bengal,Kolkata,First-time,2022-10-05
+CUST0168,Customer_168,Gujarat,Mumbai,Regular,2021-06-13
+CUST0169,Customer_169,Gujarat,Chennai,Bulk Buyer,2023-03-23
+CUST0170,Customer_170,Delhi,Pune,Regular,2022-11-28
+CUST0171,Customer_171,West Bengal,Delhi,Regular,2022-03-09
+CUST0172,Customer_172,Maharashtra,Mumbai,First-time,2022-09-03
+CUST0173,Customer_173,Karnataka,Kolkata,Regular,2021-03-07
+CUST0174,Customer_174,Tamil Nadu,Bangalore,First-time,2022-01-30
+CUST0175,Customer_175,West Bengal,Delhi,Bulk Buyer,2022-01-26
+CUST0176,Customer_176,Delhi,Mumbai,Bulk Buyer,2022-09-03
+CUST0177,Customer_177,Karnataka,Delhi,Regular,2022-04-25
+CUST0178,Customer_178,Karnataka,Vizag,Prime,2022-06-26
+CUST0179,Customer_179,Andhra Pradesh,Chennai,First-time,2021-09-15
+CUST0180,Customer_180,Karnataka,Vizag,First-time,2022-07-21
+CUST0181,Customer_181,Maharashtra,Delhi,Regular,2023-06-01
+CUST0182,Customer_182,Gujarat,Vizag,First-time,2021-01-12
+CUST0183,Customer_183,Delhi,Hyderabad,First-time,2022-11-28
+CUST0184,Customer_184,Karnataka,Kolkata,Prime,2023-01-09
+CUST0185,Customer_185,Andhra Pradesh,Hyderabad,Prime,2021-04-28
+CUST0186,Customer_186,Maharashtra,Ahmedabad,Regular,2022-11-30
+CUST0187,Customer_187,Telangana,Vizag,Prime,2022-07-04
+CUST0188,Customer_188,Gujarat,Ahmedabad,Regular,2023-02-08
+CUST0189,Customer_189,Gujarat,Bangalore,Bulk Buyer,2021-10-01
+CUST0190,Customer_190,Delhi,Pune,Regular,2023-02-27
+CUST0191,Customer_191,Gujarat,Bangalore,Bulk Buyer,2022-10-19
+CUST0192,Customer_192,Karnataka,Delhi,Regular,2021-12-15
+CUST0193,Customer_193,Andhra Pradesh,Kolkata,First-time,2021-04-25
+CUST0194,Customer_194,Gujarat,Vizag,Prime,2021-10-28
+CUST0195,Customer_195,Gujarat,Mumbai,Bulk Buyer,2022-03-22
+CUST0196,Customer_196,Telangana,Pune,Regular,2021-06-11
+CUST0197,Customer_197,Telangana,Chennai,Prime,2022-04-10
+CUST0198,Customer_198,Tamil Nadu,Chennai,Regular,2021-01-04
+CUST0199,Customer_199,Maharashtra,Chennai,Prime,2023-01-10
+CUST0200,Customer_200,Karnataka,Vizag,Prime,2023-06-16
+CUST0201,Customer_201,Gujarat,Chennai,Regular,2023-01-07
+CUST0202,Customer_202,West Bengal,Hyderabad,Bulk Buyer,2021-09-27
+CUST0203,Customer_203,Gujarat,Pune,Bulk Buyer,2022-05-28
+CUST0204,Customer_204,Andhra Pradesh,Hyderabad,First-time,2023-02-20
+CUST0205,Customer_205,Tamil Nadu,Pune,Prime,2021-07-02
+CUST0206,Customer_206,Maharashtra,Hyderabad,First-time,2022-06-04
+CUST0207,Customer_207,West Bengal,Pune,First-time,2021-04-19
+CUST0208,Customer_208,Tamil Nadu,Ahmedabad,Regular,2023-06-11
+CUST0209,Customer_209,Delhi,Vizag,Regular,2022-10-03
+CUST0210,Customer_210,Maharashtra,Vizag,Regular,2021-11-02
+CUST0211,Customer_211,Gujarat,Chennai,Prime,2023-05-12
+CUST0212,Customer_212,Gujarat,Bangalore,Regular,2022-10-17
+CUST0213,Customer_213,Maharashtra,Chennai,Regular,2022-06-04
+CUST0214,Customer_214,Gujarat,Delhi,Prime,2022-09-16
+CUST0215,Customer_215,Karnataka,Hyderabad,Prime,2021-07-23
+CUST0216,Customer_216,Maharashtra,Pune,Bulk Buyer,2021-06-06
+CUST0217,Customer_217,Tamil Nadu,Bangalore,Regular,2022-01-18
+CUST0218,Customer_218,Maharashtra,Delhi,Regular,2023-02-20
+CUST0219,Customer_219,West Bengal,Vizag,Regular,2021-06-15
+CUST0220,Customer_220,Gujarat,Vizag,Bulk Buyer,2022-07-07
+CUST0221,Customer_221,Karnataka,Chennai,Regular,2023-03-09
+CUST0222,Customer_222,Karnataka,Hyderabad,Bulk Buyer,2022-06-28
+CUST0223,Customer_223,Delhi,Bangalore,First-time,2021-01-01
+CUST0224,Customer_224,Tamil Nadu,Kolkata,Bulk Buyer,2022-09-06
+CUST0225,Customer_225,Telangana,Delhi,First-time,2021-11-28
+CUST0226,Customer_226,Telangana,Delhi,Regular,2022-05-16
+CUST0227,Customer_227,Maharashtra,Chennai,First-time,2021-01-20
+CUST0228,Customer_228,Delhi,Vizag,Bulk Buyer,2021-04-25
+CUST0229,Customer_229,Andhra Pradesh,Chennai,Prime,2022-01-07
+CUST0230,Customer_230,Maharashtra,Pune,First-time,2023-06-19
+CUST0231,Customer_231,Delhi,Bangalore,First-time,2023-05-02
+CUST0232,Customer_232,Tamil Nadu,Hyderabad,Regular,2023-04-07
+CUST0233,Customer_233,Tamil Nadu,Ahmedabad,Bulk Buyer,2021-11-11
+CUST0234,Customer_234,Tamil Nadu,Mumbai,First-time,2021-09-03
+CUST0235,Customer_235,Tamil Nadu,Mumbai,First-time,2021-03-01
+CUST0236,Customer_236,Tamil Nadu,Chennai,First-time,2021-09-04
+CUST0237,Customer_237,Delhi,Pune,First-time,2023-06-19
+CUST0238,Customer_238,Delhi,Bangalore,Prime,2022-08-04
+CUST0239,Customer_239,Karnataka,Kolkata,Bulk Buyer,2021-03-22
+CUST0240,Customer_240,West Bengal,Mumbai,Regular,2021-03-29
+CUST0241,Customer_241,Telangana,Bangalore,Regular,2023-01-20
+CUST0242,Customer_242,Gujarat,Hyderabad,Prime,2022-05-13
+CUST0243,Customer_243,Tamil Nadu,Pune,Bulk Buyer,2023-04-16
+CUST0244,Customer_244,Andhra Pradesh,Vizag,First-time,2021-03-12
+CUST0245,Customer_245,Gujarat,Bangalore,Prime,2023-02-18
+CUST0246,Customer_246,Delhi,Hyderabad,Bulk Buyer,2022-06-30
+CUST0247,Customer_247,Andhra Pradesh,Kolkata,First-time,2023-02-24
+CUST0248,Customer_248,Andhra Pradesh,Ahmedabad,Prime,2021-05-09
+CUST0249,Customer_249,Andhra Pradesh,Vizag,Bulk Buyer,2021-05-12
+CUST0250,Customer_250,Karnataka,Ahmedabad,Regular,2022-11-07
+CUST0251,Customer_251,Delhi,Kolkata,Regular,2022-05-02
+CUST0252,Customer_252,Andhra Pradesh,Hyderabad,Bulk Buyer,2022-07-17
+CUST0253,Customer_253,Tamil Nadu,Mumbai,Regular,2021-06-19
+CUST0254,Customer_254,Maharashtra,Ahmedabad,Bulk Buyer,2021-09-29
+CUST0255,Customer_255,Andhra Pradesh,Vizag,First-time,2022-06-25
+CUST0256,Customer_256,Karnataka,Chennai,Bulk Buyer,2023-06-13
+CUST0257,Customer_257,Gujarat,Delhi,First-time,2022-09-14
+CUST0258,Customer_258,Delhi,Bangalore,Prime,2022-03-10
+CUST0259,Customer_259,West Bengal,Mumbai,Bulk Buyer,2021-08-05
+CUST0260,Customer_260,Karnataka,Ahmedabad,Prime,2022-07-07
+CUST0261,Customer_261,Andhra Pradesh,Bangalore,Regular,2023-02-13
+CUST0262,Customer_262,Delhi,Chennai,First-time,2023-01-18
+CUST0263,Customer_263,Maharashtra,Kolkata,Bulk Buyer,2022-12-08
+CUST0264,Customer_264,Andhra Pradesh,Delhi,Prime,2021-07-25
+CUST0265,Customer_265,Karnataka,Hyderabad,First-time,2023-01-01
+CUST0266,Customer_266,Telangana,Chennai,First-time,2021-11-16
+CUST0267,Customer_267,Tamil Nadu,Chennai,Regular,2022-02-13
+CUST0268,Customer_268,West Bengal,Kolkata,Regular,2022-11-19
+CUST0269,Customer_269,Gujarat,Pune,First-time,2022-10-28
+CUST0270,Customer_270,Karnataka,Kolkata,First-time,2022-01-18
+CUST0271,Customer_271,Delhi,Pune,Bulk Buyer,2022-03-25
+CUST0272,Customer_272,West Bengal,Pune,First-time,2022-06-14
+CUST0273,Customer_273,West Bengal,Mumbai,Bulk Buyer,2022-04-08
+CUST0274,Customer_274,West Bengal,Mumbai,First-time,2021-05-04
+CUST0275,Customer_275,Andhra Pradesh,Vizag,Regular,2021-09-11
+CUST0276,Customer_276,Tamil Nadu,Ahmedabad,Bulk Buyer,2021-08-19
+CUST0277,Customer_277,Andhra Pradesh,Ahmedabad,Prime,2021-03-07
+CUST0278,Customer_278,Delhi,Hyderabad,Regular,2021-12-13
+CUST0279,Customer_279,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-01-22
+CUST0280,Customer_280,Telangana,Mumbai,Bulk Buyer,2022-08-26
+CUST0281,Customer_281,Tamil Nadu,Vizag,Prime,2022-07-22
+CUST0282,Customer_282,Tamil Nadu,Vizag,Bulk Buyer,2021-08-24
+CUST0283,Customer_283,Delhi,Pune,First-time,2022-08-26
+CUST0284,Customer_284,Gujarat,Kolkata,Prime,2021-08-14
+CUST0285,Customer_285,Telangana,Hyderabad,Regular,2021-01-08
+CUST0286,Customer_286,Karnataka,Pune,Regular,2021-03-14
+CUST0287,Customer_287,Andhra Pradesh,Kolkata,First-time,2022-12-26
+CUST0288,Customer_288,Maharashtra,Ahmedabad,Regular,2022-10-09
+CUST0289,Customer_289,Andhra Pradesh,Pune,Bulk Buyer,2021-03-02
+CUST0290,Customer_290,West Bengal,Bangalore,Bulk Buyer,2021-08-23
+CUST0291,Customer_291,Andhra Pradesh,Ahmedabad,First-time,2021-03-11
+CUST0292,Customer_292,Karnataka,Kolkata,Regular,2021-02-02
+CUST0293,Customer_293,Andhra Pradesh,Hyderabad,Regular,2023-05-31
+CUST0294,Customer_294,Telangana,Kolkata,First-time,2021-12-05
+CUST0295,Customer_295,Telangana,Pune,Prime,2021-03-14
+CUST0296,Customer_296,Tamil Nadu,Pune,Regular,2022-06-11
+CUST0297,Customer_297,Delhi,Chennai,Prime,2021-09-01
+CUST0298,Customer_298,Gujarat,Hyderabad,Regular,2021-10-13
+CUST0299,Customer_299,Maharashtra,Ahmedabad,Regular,2022-11-17
+CUST0300,Customer_300,West Bengal,Vizag,Regular,2022-05-13
+CUST0301,Customer_301,Andhra Pradesh,Hyderabad,Regular,2021-08-08
+CUST0302,Customer_302,Andhra Pradesh,Vizag,Bulk Buyer,2022-07-07
+CUST0303,Customer_303,Karnataka,Hyderabad,Prime,2021-05-16
+CUST0304,Customer_304,Delhi,Hyderabad,Prime,2023-01-11
+CUST0305,Customer_305,Telangana,Kolkata,Regular,2022-08-08
+CUST0306,Customer_306,Maharashtra,Hyderabad,Regular,2022-08-14
+CUST0307,Customer_307,Tamil Nadu,Chennai,Prime,2022-04-30
+CUST0308,Customer_308,Telangana,Pune,Bulk Buyer,2021-09-06
+CUST0309,Customer_309,West Bengal,Delhi,First-time,2023-03-15
+CUST0310,Customer_310,Delhi,Vizag,First-time,2022-04-30
+CUST0311,Customer_311,West Bengal,Pune,Prime,2023-04-07
+CUST0312,Customer_312,Gujarat,Delhi,Regular,2022-02-21
+CUST0313,Customer_313,Tamil Nadu,Vizag,Regular,2021-07-14
+CUST0314,Customer_314,Gujarat,Vizag,Bulk Buyer,2021-04-07
+CUST0315,Customer_315,Karnataka,Delhi,First-time,2021-04-10
+CUST0316,Customer_316,West Bengal,Hyderabad,Bulk Buyer,2022-11-06
+CUST0317,Customer_317,Karnataka,Ahmedabad,First-time,2022-03-18
+CUST0318,Customer_318,Andhra Pradesh,Bangalore,Prime,2021-12-29
+CUST0319,Customer_319,Gujarat,Pune,First-time,2022-03-10
+CUST0320,Customer_320,Delhi,Kolkata,Bulk Buyer,2022-02-25
+CUST0321,Customer_321,West Bengal,Pune,Bulk Buyer,2022-04-24
+CUST0322,Customer_322,Maharashtra,Kolkata,Bulk Buyer,2023-06-04
+CUST0323,Customer_323,Tamil Nadu,Delhi,Prime,2023-01-17
+CUST0324,Customer_324,Telangana,Kolkata,First-time,2021-02-25
+CUST0325,Customer_325,Delhi,Vizag,First-time,2022-11-21
+CUST0326,Customer_326,Delhi,Ahmedabad,Bulk Buyer,2022-11-01
+CUST0327,Customer_327,Karnataka,Ahmedabad,First-time,2022-10-24
+CUST0328,Customer_328,Gujarat,Vizag,Regular,2021-04-11
+CUST0329,Customer_329,West Bengal,Chennai,Regular,2021-03-04
+CUST0330,Customer_330,West Bengal,Delhi,Regular,2022-02-17
+CUST0331,Customer_331,Andhra Pradesh,Chennai,First-time,2023-01-16
+CUST0332,Customer_332,Andhra Pradesh,Chennai,Prime,2021-12-14
+CUST0333,Customer_333,Tamil Nadu,Pune,Prime,2023-03-31
+CUST0334,Customer_334,Karnataka,Pune,Prime,2023-06-02
+CUST0335,Customer_335,Delhi,Bangalore,Prime,2021-04-22
+CUST0336,Customer_336,West Bengal,Kolkata,Regular,2021-09-12
+CUST0337,Customer_337,Maharashtra,Vizag,Regular,2021-07-16
+CUST0338,Customer_338,Karnataka,Pune,Bulk Buyer,2021-07-14
+CUST0339,Customer_339,Tamil Nadu,Delhi,First-time,2022-07-04
+CUST0340,Customer_340,Tamil Nadu,Kolkata,First-time,2022-04-05
+CUST0341,Customer_341,Karnataka,Bangalore,Prime,2021-05-24
+CUST0342,Customer_342,Tamil Nadu,Bangalore,Regular,2022-03-09
+CUST0343,Customer_343,Karnataka,Delhi,Prime,2021-07-07
+CUST0344,Customer_344,Telangana,Chennai,Bulk Buyer,2021-10-13
+CUST0345,Customer_345,Karnataka,Ahmedabad,First-time,2022-04-19
+CUST0346,Customer_346,Gujarat,Delhi,First-time,2021-09-13
+CUST0347,Customer_347,Karnataka,Mumbai,Prime,2023-06-15
+CUST0348,Customer_348,Tamil Nadu,Delhi,Bulk Buyer,2021-03-19
+CUST0349,Customer_349,West Bengal,Bangalore,First-time,2022-03-30
+CUST0350,Customer_350,Gujarat,Vizag,Bulk Buyer,2023-04-08
+CUST0351,Customer_351,Tamil Nadu,Pune,Bulk Buyer,2023-06-02
+CUST0352,Customer_352,Andhra Pradesh,Vizag,Prime,2023-05-27
+CUST0353,Customer_353,Andhra Pradesh,Bangalore,Regular,2022-07-18
+CUST0354,Customer_354,West Bengal,Pune,Prime,2021-04-11
+CUST0355,Customer_355,West Bengal,Mumbai,Regular,2021-02-21
+CUST0356,Customer_356,Gujarat,Ahmedabad,Bulk Buyer,2022-10-30
+CUST0357,Customer_357,Telangana,Kolkata,Regular,2022-07-08
+CUST0358,Customer_358,West Bengal,Bangalore,Bulk Buyer,2023-05-07
+CUST0359,Customer_359,Andhra Pradesh,Bangalore,First-time,2021-01-16
+CUST0360,Customer_360,Karnataka,Bangalore,First-time,2021-04-06
+CUST0361,Customer_361,Tamil Nadu,Pune,First-time,2023-02-11
+CUST0362,Customer_362,Andhra Pradesh,Hyderabad,Prime,2023-05-20
+CUST0363,Customer_363,Andhra Pradesh,Delhi,Prime,2021-08-31
+CUST0364,Customer_364,Telangana,Hyderabad,Bulk Buyer,2021-06-20
+CUST0365,Customer_365,Gujarat,Mumbai,First-time,2022-02-21
+CUST0366,Customer_366,Gujarat,Ahmedabad,Prime,2022-05-13
+CUST0367,Customer_367,Delhi,Chennai,First-time,2022-05-08
+CUST0368,Customer_368,Telangana,Mumbai,Prime,2021-08-07
+CUST0369,Customer_369,Karnataka,Chennai,Regular,2023-06-05
+CUST0370,Customer_370,Gujarat,Chennai,Regular,2022-02-15
+CUST0371,Customer_371,Tamil Nadu,Ahmedabad,First-time,2021-03-02
+CUST0372,Customer_372,West Bengal,Vizag,Bulk Buyer,2021-06-18
+CUST0373,Customer_373,Telangana,Hyderabad,Prime,2022-01-24
+CUST0374,Customer_374,West Bengal,Bangalore,Prime,2021-01-03
+CUST0375,Customer_375,Andhra Pradesh,Kolkata,Regular,2022-02-04
+CUST0376,Customer_376,Tamil Nadu,Chennai,Regular,2021-09-29
+CUST0377,Customer_377,Tamil Nadu,Mumbai,Bulk Buyer,2023-03-14
+CUST0378,Customer_378,Andhra Pradesh,Vizag,Bulk Buyer,2023-03-15
+CUST0379,Customer_379,Telangana,Chennai,Bulk Buyer,2022-04-11
+CUST0380,Customer_380,Andhra Pradesh,Vizag,First-time,2021-10-20
+CUST0381,Customer_381,West Bengal,Vizag,Regular,2022-03-10
+CUST0382,Customer_382,Delhi,Chennai,First-time,2022-12-15
+CUST0383,Customer_383,Tamil Nadu,Pune,Regular,2023-01-19
+CUST0384,Customer_384,Maharashtra,Delhi,Regular,2023-03-14
+CUST0385,Customer_385,Maharashtra,Bangalore,Prime,2022-07-24
+CUST0386,Customer_386,West Bengal,Bangalore,Regular,2022-11-09
+CUST0387,Customer_387,Karnataka,Pune,Regular,2023-01-06
+CUST0388,Customer_388,Gujarat,Bangalore,First-time,2022-05-14
+CUST0389,Customer_389,Andhra Pradesh,Vizag,Regular,2021-06-08
+CUST0390,Customer_390,Andhra Pradesh,Ahmedabad,First-time,2021-07-14
+CUST0391,Customer_391,Karnataka,Mumbai,Bulk Buyer,2021-10-31
+CUST0392,Customer_392,Karnataka,Hyderabad,Regular,2021-08-11
+CUST0393,Customer_393,West Bengal,Bangalore,Regular,2021-03-01
+CUST0394,Customer_394,West Bengal,Ahmedabad,First-time,2022-08-17
+CUST0395,Customer_395,Karnataka,Chennai,Bulk Buyer,2023-01-24
+CUST0396,Customer_396,Tamil Nadu,Delhi,Prime,2022-07-10
+CUST0397,Customer_397,West Bengal,Vizag,Bulk Buyer,2021-03-04
+CUST0398,Customer_398,Delhi,Delhi,First-time,2023-02-05
+CUST0399,Customer_399,West Bengal,Mumbai,Bulk Buyer,2021-11-18
+CUST0400,Customer_400,Andhra Pradesh,Mumbai,First-time,2021-02-28
+CUST0401,Customer_401,West Bengal,Pune,First-time,2021-02-21
+CUST0402,Customer_402,Tamil Nadu,Kolkata,Prime,2022-08-22
+CUST0403,Customer_403,Karnataka,Pune,Regular,2022-05-04
+CUST0404,Customer_404,Andhra Pradesh,Ahmedabad,First-time,2022-05-30
+CUST0405,Customer_405,West Bengal,Delhi,First-time,2023-05-24
+CUST0406,Customer_406,Tamil Nadu,Kolkata,Prime,2022-06-28
+CUST0407,Customer_407,Delhi,Chennai,First-time,2021-06-11
+CUST0408,Customer_408,West Bengal,Vizag,Regular,2021-02-28
+CUST0409,Customer_409,Tamil Nadu,Delhi,Prime,2022-06-05
+CUST0410,Customer_410,Delhi,Pune,Regular,2021-03-24
+CUST0411,Customer_411,Karnataka,Hyderabad,Regular,2023-05-22
+CUST0412,Customer_412,West Bengal,Kolkata,Prime,2021-07-10
+CUST0413,Customer_413,Delhi,Kolkata,First-time,2021-03-12
+CUST0414,Customer_414,Andhra Pradesh,Vizag,Regular,2022-09-02
+CUST0415,Customer_415,Karnataka,Bangalore,Regular,2021-03-11
+CUST0416,Customer_416,Andhra Pradesh,Mumbai,Regular,2022-11-23
+CUST0417,Customer_417,Maharashtra,Mumbai,Regular,2023-06-02
+CUST0418,Customer_418,Telangana,Hyderabad,Prime,2021-08-29
+CUST0419,Customer_419,West Bengal,Ahmedabad,Prime,2022-02-18
+CUST0420,Customer_420,Delhi,Ahmedabad,Bulk Buyer,2021-05-03
+CUST0421,Customer_421,Telangana,Chennai,Bulk Buyer,2022-08-07
+CUST0422,Customer_422,Telangana,Delhi,Regular,2021-09-10
+CUST0423,Customer_423,Delhi,Bangalore,First-time,2022-08-16
+CUST0424,Customer_424,Karnataka,Pune,Regular,2022-09-01
+CUST0425,Customer_425,West Bengal,Kolkata,First-time,2021-02-10
+CUST0426,Customer_426,Maharashtra,Hyderabad,Regular,2022-09-27
+CUST0427,Customer_427,Andhra Pradesh,Mumbai,Bulk Buyer,2021-03-25
+CUST0428,Customer_428,Tamil Nadu,Chennai,Bulk Buyer,2022-03-06
+CUST0429,Customer_429,Andhra Pradesh,Ahmedabad,First-time,2022-11-05
+CUST0430,Customer_430,Tamil Nadu,Hyderabad,Regular,2022-08-21
+CUST0431,Customer_431,Andhra Pradesh,Kolkata,First-time,2022-08-02
+CUST0432,Customer_432,Delhi,Pune,Bulk Buyer,2022-06-20
+CUST0433,Customer_433,Maharashtra,Chennai,Regular,2021-11-20
+CUST0434,Customer_434,West Bengal,Kolkata,Regular,2021-09-25
+CUST0435,Customer_435,Tamil Nadu,Mumbai,First-time,2021-07-29
+CUST0436,Customer_436,West Bengal,Mumbai,Prime,2022-11-17
+CUST0437,Customer_437,West Bengal,Mumbai,First-time,2023-01-04
+CUST0438,Customer_438,West Bengal,Hyderabad,Bulk Buyer,2021-11-18
+CUST0439,Customer_439,Gujarat,Hyderabad,Bulk Buyer,2021-09-02
+CUST0440,Customer_440,Karnataka,Ahmedabad,Bulk Buyer,2021-09-29
+CUST0441,Customer_441,Andhra Pradesh,Ahmedabad,Bulk Buyer,2022-02-10
+CUST0442,Customer_442,West Bengal,Pune,Bulk Buyer,2021-05-15
+CUST0443,Customer_443,Andhra Pradesh,Chennai,Prime,2022-11-19
+CUST0444,Customer_444,West Bengal,Vizag,Regular,2022-10-23
+CUST0445,Customer_445,Tamil Nadu,Vizag,First-time,2021-11-04
+CUST0446,Customer_446,Karnataka,Kolkata,First-time,2022-04-14
+CUST0447,Customer_447,Karnataka,Mumbai,Bulk Buyer,2021-11-20
+CUST0448,Customer_448,Delhi,Chennai,First-time,2023-02-09
+CUST0449,Customer_449,Gujarat,Hyderabad,Bulk Buyer,2021-03-16
+CUST0450,Customer_450,Delhi,Delhi,Prime,2021-01-10
+CUST0451,Customer_451,Delhi,Bangalore,Prime,2022-04-15
+CUST0452,Customer_452,Delhi,Pune,Regular,2022-09-29
+CUST0453,Customer_453,Delhi,Mumbai,Prime,2022-07-31
+CUST0454,Customer_454,Delhi,Mumbai,Prime,2021-04-13
+CUST0455,Customer_455,Maharashtra,Mumbai,Regular,2021-03-17
+CUST0456,Customer_456,Karnataka,Hyderabad,First-time,2022-07-05
+CUST0457,Customer_457,Delhi,Hyderabad,Bulk Buyer,2021-08-07
+CUST0458,Customer_458,West Bengal,Bangalore,Bulk Buyer,2022-06-03
+CUST0459,Customer_459,Karnataka,Chennai,First-time,2021-09-29
+CUST0460,Customer_460,Karnataka,Mumbai,Regular,2021-05-16
+CUST0461,Customer_461,Telangana,Vizag,First-time,2021-12-24
+CUST0462,Customer_462,Maharashtra,Ahmedabad,Prime,2021-03-12
+CUST0463,Customer_463,Delhi,Vizag,Regular,2023-06-20
+CUST0464,Customer_464,Andhra Pradesh,Kolkata,Regular,2021-09-08
+CUST0465,Customer_465,Tamil Nadu,Vizag,Regular,2022-01-14
+CUST0466,Customer_466,Gujarat,Kolkata,Bulk Buyer,2021-10-19
+CUST0467,Customer_467,West Bengal,Delhi,First-time,2021-06-11
+CUST0468,Customer_468,Andhra Pradesh,Ahmedabad,Regular,2022-03-25
+CUST0469,Customer_469,Maharashtra,Vizag,Regular,2023-05-04
+CUST0470,Customer_470,Tamil Nadu,Delhi,Regular,2022-07-11
+CUST0471,Customer_471,Maharashtra,Pune,First-time,2022-12-22
+CUST0472,Customer_472,West Bengal,Chennai,Bulk Buyer,2021-11-06
+CUST0473,Customer_473,Karnataka,Delhi,Prime,2022-09-19
+CUST0474,Customer_474,Tamil Nadu,Chennai,Bulk Buyer,2023-04-07
+CUST0475,Customer_475,Karnataka,Vizag,Regular,2022-11-01
+CUST0476,Customer_476,West Bengal,Delhi,Bulk Buyer,2022-06-26
+CUST0477,Customer_477,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-01-09
+CUST0478,Customer_478,West Bengal,Vizag,Prime,2022-11-15
+CUST0479,Customer_479,Andhra Pradesh,Mumbai,First-time,2023-04-17
+CUST0480,Customer_480,Tamil Nadu,Hyderabad,First-time,2022-07-22
+CUST0481,Customer_481,Tamil Nadu,Delhi,Bulk Buyer,2021-11-03
+CUST0482,Customer_482,Delhi,Ahmedabad,Bulk Buyer,2022-11-11
+CUST0483,Customer_483,Maharashtra,Pune,First-time,2021-04-17
+CUST0484,Customer_484,Delhi,Mumbai,First-time,2023-06-19
+CUST0485,Customer_485,Maharashtra,Pune,Prime,2021-05-18
+CUST0486,Customer_486,Delhi,Vizag,Regular,2021-09-28
+CUST0487,Customer_487,Karnataka,Hyderabad,Bulk Buyer,2021-04-29
+CUST0488,Customer_488,Tamil Nadu,Delhi,First-time,2021-04-20
+CUST0489,Customer_489,Andhra Pradesh,Delhi,Bulk Buyer,2023-01-31
+CUST0490,Customer_490,Maharashtra,Vizag,Bulk Buyer,2022-07-21
+CUST0491,Customer_491,West Bengal,Vizag,First-time,2021-06-09
+CUST0492,Customer_492,Maharashtra,Hyderabad,Prime,2021-10-06
+CUST0493,Customer_493,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-10-16
+CUST0494,Customer_494,Delhi,Ahmedabad,Prime,2022-09-12
+CUST0495,Customer_495,Maharashtra,Hyderabad,First-time,2021-08-04
+CUST0496,Customer_496,Gujarat,Ahmedabad,Regular,2023-01-05
+CUST0497,Customer_497,Karnataka,Kolkata,Regular,2021-12-18
+CUST0498,Customer_498,Tamil Nadu,Chennai,Bulk Buyer,2021-07-28
+CUST0499,Customer_499,Andhra Pradesh,Hyderabad,First-time,2022-12-05
+CUST0500,Customer_500,Tamil Nadu,Hyderabad,Prime,2022-10-12
+CUST0501,Customer_501,Gujarat,Bangalore,Bulk Buyer,2023-05-24
+CUST0502,Customer_502,Maharashtra,Mumbai,First-time,2021-09-28
+CUST0503,Customer_503,Maharashtra,Mumbai,First-time,2022-06-02
+CUST0504,Customer_504,West Bengal,Kolkata,Prime,2022-05-16
+CUST0505,Customer_505,Gujarat,Vizag,Bulk Buyer,2021-09-15
+CUST0506,Customer_506,Andhra Pradesh,Vizag,First-time,2023-05-17
+CUST0507,Customer_507,West Bengal,Pune,First-time,2021-02-22
+CUST0508,Customer_508,Karnataka,Kolkata,First-time,2021-04-05
+CUST0509,Customer_509,West Bengal,Hyderabad,Prime,2022-10-12
+CUST0510,Customer_510,Telangana,Kolkata,Bulk Buyer,2022-03-10
+CUST0511,Customer_511,Andhra Pradesh,Kolkata,Bulk Buyer,2023-04-30
+CUST0512,Customer_512,Telangana,Kolkata,Bulk Buyer,2021-10-11
+CUST0513,Customer_513,Gujarat,Mumbai,Bulk Buyer,2021-02-15
+CUST0514,Customer_514,Delhi,Kolkata,Regular,2021-01-04
+CUST0515,Customer_515,Telangana,Chennai,Regular,2021-12-08
+CUST0516,Customer_516,Karnataka,Vizag,Bulk Buyer,2023-03-01
+CUST0517,Customer_517,West Bengal,Pune,Prime,2021-05-14
+CUST0518,Customer_518,Delhi,Chennai,Regular,2022-10-15
+CUST0519,Customer_519,West Bengal,Pune,First-time,2021-09-26
+CUST0520,Customer_520,Telangana,Bangalore,Regular,2021-06-15
+CUST0521,Customer_521,West Bengal,Pune,First-time,2023-01-30
+CUST0522,Customer_522,Gujarat,Vizag,Bulk Buyer,2022-03-29
+CUST0523,Customer_523,Delhi,Vizag,Regular,2022-07-19
+CUST0524,Customer_524,Gujarat,Kolkata,Prime,2022-12-24
+CUST0525,Customer_525,Telangana,Delhi,Regular,2022-03-14
+CUST0526,Customer_526,Gujarat,Bangalore,Regular,2022-07-29
+CUST0527,Customer_527,Karnataka,Hyderabad,Regular,2021-01-10
+CUST0528,Customer_528,Telangana,Ahmedabad,Bulk Buyer,2021-04-25
+CUST0529,Customer_529,Telangana,Pune,Prime,2021-03-19
+CUST0530,Customer_530,Telangana,Delhi,Regular,2022-12-09
+CUST0531,Customer_531,Andhra Pradesh,Kolkata,Prime,2021-06-02
+CUST0532,Customer_532,West Bengal,Mumbai,Bulk Buyer,2022-07-13
+CUST0533,Customer_533,Andhra Pradesh,Hyderabad,First-time,2021-02-06
+CUST0534,Customer_534,Andhra Pradesh,Delhi,Regular,2023-05-05
+CUST0535,Customer_535,Karnataka,Mumbai,Prime,2022-01-14
+CUST0536,Customer_536,Delhi,Bangalore,Prime,2022-08-20
+CUST0537,Customer_537,West Bengal,Kolkata,Bulk Buyer,2022-07-20
+CUST0538,Customer_538,Gujarat,Hyderabad,Regular,2021-06-01
+CUST0539,Customer_539,Maharashtra,Hyderabad,First-time,2022-03-17
+CUST0540,Customer_540,Telangana,Hyderabad,Prime,2021-05-11
+CUST0541,Customer_541,Gujarat,Bangalore,Regular,2021-02-12
+CUST0542,Customer_542,Telangana,Pune,First-time,2021-11-12
+CUST0543,Customer_543,Karnataka,Bangalore,Prime,2022-01-09
+CUST0544,Customer_544,Telangana,Ahmedabad,Prime,2023-03-27
+CUST0545,Customer_545,Andhra Pradesh,Vizag,First-time,2023-06-01
+CUST0546,Customer_546,West Bengal,Kolkata,First-time,2021-02-10
+CUST0547,Customer_547,Maharashtra,Bangalore,Bulk Buyer,2022-01-02
+CUST0548,Customer_548,Tamil Nadu,Mumbai,Regular,2021-08-04
+CUST0549,Customer_549,Telangana,Ahmedabad,Regular,2022-11-30
+CUST0550,Customer_550,Gujarat,Vizag,Bulk Buyer,2021-09-13
+CUST0551,Customer_551,Andhra Pradesh,Pune,Prime,2022-11-14
+CUST0552,Customer_552,Tamil Nadu,Mumbai,First-time,2021-04-16
+CUST0553,Customer_553,Maharashtra,Kolkata,First-time,2021-12-29
+CUST0554,Customer_554,Tamil Nadu,Mumbai,First-time,2023-03-10
+CUST0555,Customer_555,Andhra Pradesh,Vizag,Prime,2022-07-28
+CUST0556,Customer_556,West Bengal,Mumbai,First-time,2023-06-15
+CUST0557,Customer_557,West Bengal,Chennai,First-time,2022-02-21
+CUST0558,Customer_558,Delhi,Delhi,Bulk Buyer,2022-09-28
+CUST0559,Customer_559,West Bengal,Pune,Prime,2023-02-07
+CUST0560,Customer_560,Delhi,Vizag,Regular,2021-06-08
+CUST0561,Customer_561,Tamil Nadu,Mumbai,Bulk Buyer,2021-08-31
+CUST0562,Customer_562,Karnataka,Delhi,Bulk Buyer,2023-06-05
+CUST0563,Customer_563,Gujarat,Delhi,Regular,2021-06-16
+CUST0564,Customer_564,Gujarat,Mumbai,Bulk Buyer,2023-03-31
+CUST0565,Customer_565,Tamil Nadu,Kolkata,Prime,2023-04-11
+CUST0566,Customer_566,Telangana,Chennai,First-time,2021-07-01
+CUST0567,Customer_567,Telangana,Bangalore,Prime,2022-02-27
+CUST0568,Customer_568,West Bengal,Chennai,Regular,2021-01-26
+CUST0569,Customer_569,Gujarat,Mumbai,Regular,2021-07-03
+CUST0570,Customer_570,Gujarat,Pune,Bulk Buyer,2023-01-25
+CUST0571,Customer_571,Delhi,Bangalore,Prime,2021-12-07
+CUST0572,Customer_572,Karnataka,Vizag,Prime,2023-03-13
+CUST0573,Customer_573,Andhra Pradesh,Chennai,Regular,2022-02-26
+CUST0574,Customer_574,Telangana,Mumbai,Prime,2023-04-02
+CUST0575,Customer_575,Gujarat,Chennai,Regular,2022-11-17
+CUST0576,Customer_576,Delhi,Bangalore,Prime,2023-06-04
+CUST0577,Customer_577,Maharashtra,Ahmedabad,Prime,2023-01-23
+CUST0578,Customer_578,Delhi,Chennai,Prime,2023-04-11
+CUST0579,Customer_579,Telangana,Vizag,Regular,2021-09-12
+CUST0580,Customer_580,Telangana,Vizag,Bulk Buyer,2021-10-01
+CUST0581,Customer_581,Delhi,Hyderabad,Prime,2021-06-13
+CUST0582,Customer_582,Andhra Pradesh,Chennai,Regular,2023-03-18
+CUST0583,Customer_583,Tamil Nadu,Kolkata,Regular,2022-12-20
+CUST0584,Customer_584,Telangana,Delhi,Prime,2021-04-21
+CUST0585,Customer_585,Delhi,Delhi,Prime,2022-01-27
+CUST0586,Customer_586,Gujarat,Delhi,Bulk Buyer,2023-06-13
+CUST0587,Customer_587,Delhi,Ahmedabad,Regular,2021-02-09
+CUST0588,Customer_588,Karnataka,Hyderabad,Regular,2023-05-30
+CUST0589,Customer_589,Tamil Nadu,Ahmedabad,First-time,2022-04-27
+CUST0590,Customer_590,Maharashtra,Chennai,Regular,2021-08-16
+CUST0591,Customer_591,Andhra Pradesh,Chennai,Bulk Buyer,2021-07-24
+CUST0592,Customer_592,West Bengal,Chennai,First-time,2023-04-17
+CUST0593,Customer_593,Maharashtra,Pune,First-time,2022-04-17
+CUST0594,Customer_594,Tamil Nadu,Delhi,First-time,2021-12-25
+CUST0595,Customer_595,Tamil Nadu,Pune,Prime,2021-11-09
+CUST0596,Customer_596,Tamil Nadu,Hyderabad,Prime,2023-04-21
+CUST0597,Customer_597,Maharashtra,Ahmedabad,Regular,2023-03-26
+CUST0598,Customer_598,Gujarat,Delhi,First-time,2023-06-12
+CUST0599,Customer_599,Tamil Nadu,Pune,Bulk Buyer,2021-08-22
+CUST0600,Customer_600,Delhi,Pune,Prime,2021-08-17
+CUST0601,Customer_601,Maharashtra,Mumbai,Bulk Buyer,2021-01-25
+CUST0602,Customer_602,West Bengal,Pune,Bulk Buyer,2022-11-07
+CUST0603,Customer_603,Tamil Nadu,Kolkata,Prime,2021-07-17
+CUST0604,Customer_604,Delhi,Kolkata,Prime,2022-02-13
+CUST0605,Customer_605,Gujarat,Ahmedabad,Prime,2021-12-03
+CUST0606,Customer_606,Karnataka,Kolkata,Prime,2021-10-13
+CUST0607,Customer_607,Gujarat,Ahmedabad,First-time,2023-06-05
+CUST0608,Customer_608,West Bengal,Ahmedabad,First-time,2021-03-13
+CUST0609,Customer_609,Tamil Nadu,Hyderabad,First-time,2023-03-03
+CUST0610,Customer_610,West Bengal,Mumbai,First-time,2021-10-13
+CUST0611,Customer_611,Maharashtra,Chennai,Regular,2021-12-26
+CUST0612,Customer_612,Telangana,Vizag,First-time,2022-10-19
+CUST0613,Customer_613,Tamil Nadu,Ahmedabad,Prime,2022-06-06
+CUST0614,Customer_614,Telangana,Bangalore,Bulk Buyer,2022-02-14
+CUST0615,Customer_615,Delhi,Chennai,First-time,2022-11-27
+CUST0616,Customer_616,Karnataka,Delhi,Regular,2023-05-14
+CUST0617,Customer_617,Andhra Pradesh,Kolkata,Prime,2022-07-04
+CUST0618,Customer_618,West Bengal,Vizag,Bulk Buyer,2021-12-06
+CUST0619,Customer_619,Gujarat,Bangalore,Bulk Buyer,2021-01-29
+CUST0620,Customer_620,Karnataka,Chennai,First-time,2021-04-29
+CUST0621,Customer_621,Tamil Nadu,Hyderabad,Bulk Buyer,2023-06-18
+CUST0622,Customer_622,Telangana,Delhi,First-time,2021-09-25
+CUST0623,Customer_623,Gujarat,Vizag,First-time,2021-07-02
+CUST0624,Customer_624,Telangana,Mumbai,Prime,2022-08-18
+CUST0625,Customer_625,Maharashtra,Hyderabad,Prime,2021-09-29
+CUST0626,Customer_626,Telangana,Bangalore,Regular,2021-02-09
+CUST0627,Customer_627,Maharashtra,Vizag,Prime,2021-04-22
+CUST0628,Customer_628,Delhi,Hyderabad,Prime,2022-09-03
+CUST0629,Customer_629,Gujarat,Delhi,First-time,2022-03-21
+CUST0630,Customer_630,Gujarat,Mumbai,Prime,2021-12-20
+CUST0631,Customer_631,Andhra Pradesh,Hyderabad,First-time,2023-01-17
+CUST0632,Customer_632,Tamil Nadu,Pune,First-time,2023-03-17
+CUST0633,Customer_633,Maharashtra,Mumbai,Prime,2021-11-18
+CUST0634,Customer_634,Andhra Pradesh,Bangalore,Regular,2022-03-23
+CUST0635,Customer_635,Telangana,Delhi,Regular,2022-09-13
+CUST0636,Customer_636,Telangana,Kolkata,Bulk Buyer,2022-06-08
+CUST0637,Customer_637,Andhra Pradesh,Kolkata,Bulk Buyer,2021-04-29
+CUST0638,Customer_638,Gujarat,Kolkata,Prime,2022-01-30
+CUST0639,Customer_639,Telangana,Vizag,Regular,2022-08-14
+CUST0640,Customer_640,West Bengal,Bangalore,First-time,2021-07-14
+CUST0641,Customer_641,Delhi,Delhi,Bulk Buyer,2021-09-18
+CUST0642,Customer_642,Delhi,Mumbai,First-time,2021-02-15
+CUST0643,Customer_643,West Bengal,Vizag,Bulk Buyer,2022-12-27
+CUST0644,Customer_644,Andhra Pradesh,Bangalore,Prime,2022-03-23
+CUST0645,Customer_645,West Bengal,Pune,Regular,2021-01-02
+CUST0646,Customer_646,Maharashtra,Delhi,Bulk Buyer,2022-06-17
+CUST0647,Customer_647,Maharashtra,Kolkata,Regular,2023-04-06
+CUST0648,Customer_648,Andhra Pradesh,Hyderabad,First-time,2022-07-06
+CUST0649,Customer_649,West Bengal,Delhi,Prime,2022-12-05
+CUST0650,Customer_650,Maharashtra,Ahmedabad,Regular,2023-01-07
+CUST0651,Customer_651,Gujarat,Bangalore,Prime,2023-01-30
+CUST0652,Customer_652,West Bengal,Chennai,Regular,2023-01-25
+CUST0653,Customer_653,Gujarat,Pune,First-time,2022-11-18
+CUST0654,Customer_654,Maharashtra,Delhi,First-time,2021-07-21
+CUST0655,Customer_655,Delhi,Chennai,Prime,2022-01-08
+CUST0656,Customer_656,Maharashtra,Ahmedabad,First-time,2022-03-18
+CUST0657,Customer_657,Gujarat,Mumbai,Bulk Buyer,2021-03-13
+CUST0658,Customer_658,Karnataka,Hyderabad,Regular,2022-11-12
+CUST0659,Customer_659,Tamil Nadu,Chennai,First-time,2021-12-05
+CUST0660,Customer_660,Telangana,Bangalore,Bulk Buyer,2022-10-01
+CUST0661,Customer_661,West Bengal,Kolkata,Prime,2021-11-18
+CUST0662,Customer_662,Karnataka,Ahmedabad,Bulk Buyer,2022-11-11
+CUST0663,Customer_663,Maharashtra,Hyderabad,Prime,2023-05-19
+CUST0664,Customer_664,Delhi,Pune,Prime,2021-05-08
+CUST0665,Customer_665,Andhra Pradesh,Kolkata,Regular,2023-01-08
+CUST0666,Customer_666,Maharashtra,Delhi,Regular,2021-11-04
+CUST0667,Customer_667,Delhi,Chennai,Bulk Buyer,2022-06-04
+CUST0668,Customer_668,Tamil Nadu,Hyderabad,Regular,2021-11-13
+CUST0669,Customer_669,Maharashtra,Vizag,Regular,2022-11-14
+CUST0670,Customer_670,Gujarat,Mumbai,Regular,2022-02-23
+CUST0671,Customer_671,Andhra Pradesh,Mumbai,Bulk Buyer,2021-12-01
+CUST0672,Customer_672,Delhi,Ahmedabad,First-time,2022-02-17
+CUST0673,Customer_673,Delhi,Pune,Regular,2022-12-15
+CUST0674,Customer_674,Delhi,Ahmedabad,Regular,2021-10-30
+CUST0675,Customer_675,Tamil Nadu,Vizag,Bulk Buyer,2022-07-22
+CUST0676,Customer_676,Maharashtra,Bangalore,First-time,2021-05-11
+CUST0677,Customer_677,Tamil Nadu,Pune,Regular,2021-07-16
+CUST0678,Customer_678,West Bengal,Bangalore,Prime,2022-03-07
+CUST0679,Customer_679,Telangana,Pune,Bulk Buyer,2022-11-12
+CUST0680,Customer_680,Telangana,Pune,Regular,2022-01-24
+CUST0681,Customer_681,West Bengal,Vizag,Regular,2022-11-25
+CUST0682,Customer_682,Maharashtra,Delhi,Prime,2023-02-06
+CUST0683,Customer_683,Gujarat,Vizag,Prime,2021-06-28
+CUST0684,Customer_684,Tamil Nadu,Pune,Bulk Buyer,2022-09-23
+CUST0685,Customer_685,Andhra Pradesh,Hyderabad,Bulk Buyer,2022-08-06
+CUST0686,Customer_686,Delhi,Bangalore,Prime,2021-11-05
+CUST0687,Customer_687,Delhi,Vizag,Bulk Buyer,2022-02-20
+CUST0688,Customer_688,Maharashtra,Delhi,Prime,2022-07-16
+CUST0689,Customer_689,Gujarat,Chennai,Regular,2023-05-04
+CUST0690,Customer_690,Telangana,Ahmedabad,Prime,2021-01-01
+CUST0691,Customer_691,Telangana,Pune,Prime,2021-11-08
+CUST0692,Customer_692,Delhi,Chennai,First-time,2021-10-21
+CUST0693,Customer_693,Maharashtra,Mumbai,Prime,2021-08-04
+CUST0694,Customer_694,Tamil Nadu,Kolkata,Prime,2022-03-17
+CUST0695,Customer_695,Telangana,Delhi,First-time,2023-03-16
+CUST0696,Customer_696,Tamil Nadu,Kolkata,Bulk Buyer,2022-08-17
+CUST0697,Customer_697,Gujarat,Delhi,First-time,2022-09-14
+CUST0698,Customer_698,Telangana,Hyderabad,Regular,2022-11-02
+CUST0699,Customer_699,Telangana,Ahmedabad,First-time,2021-11-26
+CUST0700,Customer_700,Karnataka,Chennai,Regular,2022-04-22
+CUST0701,Customer_701,Telangana,Bangalore,Bulk Buyer,2022-03-29
+CUST0702,Customer_702,West Bengal,Delhi,First-time,2022-03-29
+CUST0703,Customer_703,Andhra Pradesh,Bangalore,First-time,2022-11-23
+CUST0704,Customer_704,West Bengal,Ahmedabad,Bulk Buyer,2021-08-07
+CUST0705,Customer_705,Maharashtra,Pune,Regular,2022-06-08
+CUST0706,Customer_706,Maharashtra,Mumbai,First-time,2022-04-30
+CUST0707,Customer_707,Tamil Nadu,Chennai,Regular,2023-03-24
+CUST0708,Customer_708,West Bengal,Ahmedabad,First-time,2023-03-27
+CUST0709,Customer_709,West Bengal,Ahmedabad,Prime,2023-01-24
+CUST0710,Customer_710,West Bengal,Hyderabad,First-time,2021-06-23
+CUST0711,Customer_711,Gujarat,Kolkata,Bulk Buyer,2022-11-06
+CUST0712,Customer_712,Telangana,Mumbai,Bulk Buyer,2021-03-28
+CUST0713,Customer_713,Andhra Pradesh,Chennai,Regular,2021-10-18
+CUST0714,Customer_714,Tamil Nadu,Pune,First-time,2022-06-12
+CUST0715,Customer_715,West Bengal,Pune,Regular,2022-11-11
+CUST0716,Customer_716,West Bengal,Vizag,Regular,2022-10-11
+CUST0717,Customer_717,Karnataka,Ahmedabad,Prime,2022-09-27
+CUST0718,Customer_718,Tamil Nadu,Delhi,Prime,2021-12-10
+CUST0719,Customer_719,West Bengal,Hyderabad,Bulk Buyer,2021-04-06
+CUST0720,Customer_720,Tamil Nadu,Mumbai,Regular,2023-04-19
+CUST0721,Customer_721,Telangana,Pune,Bulk Buyer,2023-02-09
+CUST0722,Customer_722,Karnataka,Chennai,First-time,2021-08-29
+CUST0723,Customer_723,Tamil Nadu,Vizag,Regular,2022-11-20
+CUST0724,Customer_724,Andhra Pradesh,Chennai,Regular,2021-11-14
+CUST0725,Customer_725,Andhra Pradesh,Hyderabad,First-time,2021-08-19
+CUST0726,Customer_726,Maharashtra,Delhi,First-time,2023-04-06
+CUST0727,Customer_727,Karnataka,Vizag,Bulk Buyer,2021-07-23
+CUST0728,Customer_728,Karnataka,Vizag,Bulk Buyer,2021-05-31
+CUST0729,Customer_729,Maharashtra,Kolkata,First-time,2021-01-26
+CUST0730,Customer_730,Tamil Nadu,Mumbai,Bulk Buyer,2021-02-17
+CUST0731,Customer_731,Karnataka,Vizag,First-time,2021-09-08
+CUST0732,Customer_732,Andhra Pradesh,Kolkata,Regular,2022-05-02
+CUST0733,Customer_733,Andhra Pradesh,Kolkata,Regular,2022-09-18
+CUST0734,Customer_734,West Bengal,Hyderabad,Prime,2023-05-21
+CUST0735,Customer_735,Telangana,Bangalore,Regular,2023-02-26
+CUST0736,Customer_736,Karnataka,Chennai,First-time,2021-03-16
+CUST0737,Customer_737,Tamil Nadu,Delhi,Bulk Buyer,2022-04-12
+CUST0738,Customer_738,Maharashtra,Chennai,Prime,2022-03-01
+CUST0739,Customer_739,Maharashtra,Vizag,Bulk Buyer,2022-10-07
+CUST0740,Customer_740,Tamil Nadu,Delhi,First-time,2022-08-13
+CUST0741,Customer_741,Gujarat,Pune,Regular,2021-07-19
+CUST0742,Customer_742,Delhi,Bangalore,Prime,2023-01-06
+CUST0743,Customer_743,Telangana,Pune,First-time,2022-12-15
+CUST0744,Customer_744,Maharashtra,Pune,Prime,2022-01-29
+CUST0745,Customer_745,Karnataka,Mumbai,Prime,2022-05-22
+CUST0746,Customer_746,Telangana,Chennai,Regular,2022-02-14
+CUST0747,Customer_747,Karnataka,Hyderabad,First-time,2021-09-07
+CUST0748,Customer_748,Gujarat,Pune,Bulk Buyer,2021-06-01
+CUST0749,Customer_749,Andhra Pradesh,Vizag,Prime,2022-11-03
+CUST0750,Customer_750,Telangana,Bangalore,Prime,2022-12-06
+CUST0751,Customer_751,West Bengal,Ahmedabad,Bulk Buyer,2021-01-06
+CUST0752,Customer_752,Maharashtra,Pune,First-time,2023-02-08
+CUST0753,Customer_753,Telangana,Bangalore,Prime,2023-06-01
+CUST0754,Customer_754,Telangana,Delhi,Prime,2023-02-28
+CUST0755,Customer_755,Telangana,Chennai,Prime,2021-04-20
+CUST0756,Customer_756,Delhi,Kolkata,First-time,2023-03-09
+CUST0757,Customer_757,Telangana,Mumbai,First-time,2022-03-12
+CUST0758,Customer_758,Karnataka,Bangalore,Bulk Buyer,2021-08-13
+CUST0759,Customer_759,Andhra Pradesh,Vizag,First-time,2021-06-30
+CUST0760,Customer_760,Gujarat,Vizag,First-time,2023-04-04
+CUST0761,Customer_761,Tamil Nadu,Bangalore,Regular,2022-12-14
+CUST0762,Customer_762,Telangana,Vizag,Bulk Buyer,2022-06-15
+CUST0763,Customer_763,Maharashtra,Chennai,Prime,2022-04-21
+CUST0764,Customer_764,Telangana,Vizag,First-time,2021-02-21
+CUST0765,Customer_765,Maharashtra,Kolkata,Prime,2022-07-25
+CUST0766,Customer_766,Karnataka,Vizag,Prime,2021-09-13
+CUST0767,Customer_767,Maharashtra,Kolkata,Regular,2023-05-19
+CUST0768,Customer_768,West Bengal,Pune,First-time,2021-05-05
+CUST0769,Customer_769,Tamil Nadu,Hyderabad,Bulk Buyer,2022-04-13
+CUST0770,Customer_770,Andhra Pradesh,Chennai,First-time,2021-05-17
+CUST0771,Customer_771,Maharashtra,Hyderabad,Prime,2023-04-01
+CUST0772,Customer_772,Maharashtra,Pune,Bulk Buyer,2022-04-21
+CUST0773,Customer_773,Andhra Pradesh,Chennai,First-time,2022-11-15
+CUST0774,Customer_774,Tamil Nadu,Bangalore,Prime,2022-06-28
+CUST0775,Customer_775,Telangana,Bangalore,Prime,2022-07-27
+CUST0776,Customer_776,Maharashtra,Kolkata,Regular,2022-09-02
+CUST0777,Customer_777,Andhra Pradesh,Pune,Regular,2021-11-21
+CUST0778,Customer_778,West Bengal,Kolkata,Regular,2023-02-13
+CUST0779,Customer_779,West Bengal,Mumbai,Prime,2022-03-30
+CUST0780,Customer_780,Karnataka,Vizag,First-time,2022-09-20
+CUST0781,Customer_781,Andhra Pradesh,Ahmedabad,Regular,2023-04-15
+CUST0782,Customer_782,Karnataka,Mumbai,First-time,2023-01-07
+CUST0783,Customer_783,West Bengal,Vizag,Regular,2022-06-01
+CUST0784,Customer_784,Tamil Nadu,Chennai,Bulk Buyer,2022-03-13
+CUST0785,Customer_785,Telangana,Kolkata,Bulk Buyer,2023-05-01
+CUST0786,Customer_786,Andhra Pradesh,Chennai,Regular,2022-07-16
+CUST0787,Customer_787,Gujarat,Chennai,Prime,2022-04-02
+CUST0788,Customer_788,West Bengal,Vizag,Regular,2021-06-12
+CUST0789,Customer_789,West Bengal,Pune,Regular,2023-02-01
+CUST0790,Customer_790,Gujarat,Vizag,Prime,2023-06-02
+CUST0791,Customer_791,Delhi,Delhi,Bulk Buyer,2022-05-02
+CUST0792,Customer_792,West Bengal,Bangalore,First-time,2022-04-06
+CUST0793,Customer_793,Maharashtra,Bangalore,Regular,2021-09-23
+CUST0794,Customer_794,Tamil Nadu,Mumbai,Prime,2023-02-09
+CUST0795,Customer_795,Andhra Pradesh,Bangalore,Regular,2021-09-11
+CUST0796,Customer_796,Gujarat,Vizag,Prime,2023-05-11
+CUST0797,Customer_797,Maharashtra,Kolkata,First-time,2022-10-15
+CUST0798,Customer_798,Gujarat,Vizag,First-time,2021-10-11
+CUST0799,Customer_799,Andhra Pradesh,Vizag,Bulk Buyer,2023-02-24
+CUST0800,Customer_800,Karnataka,Ahmedabad,Prime,2023-03-08
+CUST0801,Customer_801,Andhra Pradesh,Kolkata,Prime,2022-06-18
+CUST0802,Customer_802,Delhi,Delhi,Bulk Buyer,2022-05-12
+CUST0803,Customer_803,Andhra Pradesh,Bangalore,Bulk Buyer,2022-10-04
+CUST0804,Customer_804,Andhra Pradesh,Kolkata,Prime,2021-09-02
+CUST0805,Customer_805,Delhi,Bangalore,Bulk Buyer,2021-10-09
+CUST0806,Customer_806,Tamil Nadu,Mumbai,First-time,2022-03-27
+CUST0807,Customer_807,West Bengal,Kolkata,Regular,2021-03-21
+CUST0808,Customer_808,Andhra Pradesh,Bangalore,First-time,2023-01-01
+CUST0809,Customer_809,Delhi,Delhi,Bulk Buyer,2021-10-20
+CUST0810,Customer_810,Maharashtra,Hyderabad,Prime,2021-08-29
+CUST0811,Customer_811,Karnataka,Chennai,Prime,2021-10-06
+CUST0812,Customer_812,Karnataka,Chennai,First-time,2021-12-10
+CUST0813,Customer_813,Andhra Pradesh,Delhi,Prime,2021-11-24
+CUST0814,Customer_814,Tamil Nadu,Ahmedabad,Bulk Buyer,2022-07-08
+CUST0815,Customer_815,Tamil Nadu,Hyderabad,First-time,2021-03-24
+CUST0816,Customer_816,Maharashtra,Mumbai,Prime,2021-05-22
+CUST0817,Customer_817,Andhra Pradesh,Delhi,Regular,2021-06-04
+CUST0818,Customer_818,Karnataka,Chennai,Regular,2021-08-25
+CUST0819,Customer_819,Tamil Nadu,Chennai,Bulk Buyer,2022-01-28
+CUST0820,Customer_820,Andhra Pradesh,Chennai,Prime,2022-12-12
+CUST0821,Customer_821,Gujarat,Pune,Bulk Buyer,2021-06-06
+CUST0822,Customer_822,Tamil Nadu,Delhi,First-time,2022-12-25
+CUST0823,Customer_823,Delhi,Vizag,Regular,2021-08-08
+CUST0824,Customer_824,Gujarat,Mumbai,First-time,2021-03-07
+CUST0825,Customer_825,West Bengal,Chennai,Prime,2022-03-01
+CUST0826,Customer_826,Tamil Nadu,Bangalore,Bulk Buyer,2022-02-22
+CUST0827,Customer_827,Karnataka,Delhi,Bulk Buyer,2021-12-05
+CUST0828,Customer_828,Telangana,Pune,Bulk Buyer,2022-07-10
+CUST0829,Customer_829,Gujarat,Delhi,First-time,2022-04-23
+CUST0830,Customer_830,West Bengal,Mumbai,Regular,2022-03-02
+CUST0831,Customer_831,Maharashtra,Pune,First-time,2021-03-05
+CUST0832,Customer_832,Maharashtra,Mumbai,First-time,2021-07-31
+CUST0833,Customer_833,Karnataka,Delhi,Prime,2023-05-03
+CUST0834,Customer_834,Tamil Nadu,Vizag,Prime,2022-03-07
+CUST0835,Customer_835,Andhra Pradesh,Mumbai,Prime,2022-02-03
+CUST0836,Customer_836,Tamil Nadu,Pune,Regular,2023-02-28
+CUST0837,Customer_837,Karnataka,Pune,Regular,2022-08-22
+CUST0838,Customer_838,Maharashtra,Mumbai,Prime,2022-12-14
+CUST0839,Customer_839,Tamil Nadu,Delhi,Prime,2021-01-21
+CUST0840,Customer_840,Maharashtra,Ahmedabad,Regular,2023-05-28
+CUST0841,Customer_841,Gujarat,Delhi,Bulk Buyer,2023-02-23
+CUST0842,Customer_842,West Bengal,Mumbai,Regular,2022-08-13
+CUST0843,Customer_843,Andhra Pradesh,Hyderabad,Regular,2022-01-25
+CUST0844,Customer_844,Gujarat,Mumbai,Regular,2022-05-04
+CUST0845,Customer_845,Maharashtra,Vizag,Prime,2021-01-07
+CUST0846,Customer_846,Maharashtra,Mumbai,Bulk Buyer,2021-12-27
+CUST0847,Customer_847,Telangana,Mumbai,Regular,2021-11-02
+CUST0848,Customer_848,Telangana,Vizag,Prime,2023-02-11
+CUST0849,Customer_849,Gujarat,Mumbai,First-time,2022-02-04
+CUST0850,Customer_850,Delhi,Chennai,First-time,2023-05-24
+CUST0851,Customer_851,Gujarat,Hyderabad,Regular,2023-05-06
+CUST0852,Customer_852,Telangana,Bangalore,First-time,2022-03-06
+CUST0853,Customer_853,Maharashtra,Hyderabad,Bulk Buyer,2022-07-06
+CUST0854,Customer_854,Karnataka,Mumbai,First-time,2023-02-05
+CUST0855,Customer_855,Gujarat,Chennai,First-time,2023-01-23
+CUST0856,Customer_856,Maharashtra,Delhi,Bulk Buyer,2022-07-14
+CUST0857,Customer_857,Karnataka,Mumbai,Regular,2023-03-31
+CUST0858,Customer_858,Karnataka,Chennai,Regular,2022-09-10
+CUST0859,Customer_859,Telangana,Vizag,Bulk Buyer,2021-08-14
+CUST0860,Customer_860,Gujarat,Chennai,Bulk Buyer,2022-05-15
+CUST0861,Customer_861,Tamil Nadu,Vizag,Bulk Buyer,2021-08-13
+CUST0862,Customer_862,Andhra Pradesh,Ahmedabad,First-time,2021-10-07
+CUST0863,Customer_863,Telangana,Bangalore,Bulk Buyer,2022-03-23
+CUST0864,Customer_864,Telangana,Kolkata,Prime,2022-05-13
+CUST0865,Customer_865,Tamil Nadu,Chennai,First-time,2021-01-30
+CUST0866,Customer_866,Andhra Pradesh,Pune,Regular,2022-02-03
+CUST0867,Customer_867,Maharashtra,Mumbai,Regular,2021-12-11
+CUST0868,Customer_868,Delhi,Hyderabad,Regular,2022-11-16
+CUST0869,Customer_869,Gujarat,Kolkata,First-time,2022-11-27
+CUST0870,Customer_870,Delhi,Hyderabad,Prime,2023-03-29
+CUST0871,Customer_871,Maharashtra,Ahmedabad,Bulk Buyer,2022-02-19
+CUST0872,Customer_872,West Bengal,Kolkata,Bulk Buyer,2023-01-12
+CUST0873,Customer_873,Telangana,Kolkata,Regular,2021-06-19
+CUST0874,Customer_874,Andhra Pradesh,Hyderabad,Regular,2023-05-11
+CUST0875,Customer_875,Telangana,Vizag,First-time,2022-04-24
+CUST0876,Customer_876,Karnataka,Hyderabad,Prime,2021-05-11
+CUST0877,Customer_877,Telangana,Vizag,Bulk Buyer,2022-09-30
+CUST0878,Customer_878,Telangana,Ahmedabad,First-time,2022-07-01
+CUST0879,Customer_879,Maharashtra,Mumbai,Bulk Buyer,2021-01-28
+CUST0880,Customer_880,Maharashtra,Delhi,Regular,2022-02-08
+CUST0881,Customer_881,Maharashtra,Vizag,Bulk Buyer,2022-08-30
+CUST0882,Customer_882,Delhi,Ahmedabad,Prime,2022-08-01
+CUST0883,Customer_883,Karnataka,Pune,Prime,2022-11-10
+CUST0884,Customer_884,West Bengal,Ahmedabad,Regular,2021-01-28
+CUST0885,Customer_885,West Bengal,Hyderabad,Prime,2021-03-27
+CUST0886,Customer_886,Maharashtra,Hyderabad,Prime,2022-10-21
+CUST0887,Customer_887,Andhra Pradesh,Delhi,First-time,2022-03-15
+CUST0888,Customer_888,Delhi,Ahmedabad,Bulk Buyer,2021-05-19
+CUST0889,Customer_889,Tamil Nadu,Bangalore,Regular,2023-06-07
+CUST0890,Customer_890,Andhra Pradesh,Mumbai,Regular,2022-04-18
+CUST0891,Customer_891,Gujarat,Hyderabad,Regular,2021-07-06
+CUST0892,Customer_892,Gujarat,Delhi,Regular,2021-02-21
+CUST0893,Customer_893,Andhra Pradesh,Mumbai,Regular,2021-09-24
+CUST0894,Customer_894,Maharashtra,Ahmedabad,Prime,2022-01-24
+CUST0895,Customer_895,Tamil Nadu,Ahmedabad,First-time,2021-12-02
+CUST0896,Customer_896,Tamil Nadu,Kolkata,Regular,2021-08-05
+CUST0897,Customer_897,Delhi,Delhi,First-time,2022-04-11
+CUST0898,Customer_898,Tamil Nadu,Hyderabad,First-time,2021-12-01
+CUST0899,Customer_899,Gujarat,Bangalore,Prime,2021-12-12
+CUST0900,Customer_900,Karnataka,Ahmedabad,Regular,2023-02-19
+CUST0901,Customer_901,Maharashtra,Bangalore,Prime,2023-06-20
+CUST0902,Customer_902,Tamil Nadu,Ahmedabad,Regular,2022-01-24
+CUST0903,Customer_903,Delhi,Hyderabad,Prime,2021-10-12
+CUST0904,Customer_904,Gujarat,Mumbai,First-time,2023-02-10
+CUST0905,Customer_905,Karnataka,Chennai,Regular,2023-05-02
+CUST0906,Customer_906,Telangana,Mumbai,Bulk Buyer,2022-03-08
+CUST0907,Customer_907,Telangana,Ahmedabad,First-time,2021-09-16
+CUST0908,Customer_908,Karnataka,Chennai,Bulk Buyer,2023-05-05
+CUST0909,Customer_909,Gujarat,Chennai,First-time,2021-03-25
+CUST0910,Customer_910,Delhi,Bangalore,Prime,2022-04-27
+CUST0911,Customer_911,Karnataka,Delhi,Regular,2021-01-20
+CUST0912,Customer_912,Maharashtra,Bangalore,First-time,2023-02-07
+CUST0913,Customer_913,Maharashtra,Bangalore,Prime,2022-07-07
+CUST0914,Customer_914,Telangana,Mumbai,Regular,2021-02-23
+CUST0915,Customer_915,Tamil Nadu,Mumbai,Regular,2021-12-25
+CUST0916,Customer_916,Delhi,Pune,First-time,2021-08-18
+CUST0917,Customer_917,Telangana,Ahmedabad,Regular,2022-10-28
+CUST0918,Customer_918,Tamil Nadu,Pune,First-time,2021-03-12
+CUST0919,Customer_919,Tamil Nadu,Hyderabad,Regular,2023-03-11
+CUST0920,Customer_920,West Bengal,Ahmedabad,Bulk Buyer,2022-10-30
+CUST0921,Customer_921,Maharashtra,Ahmedabad,Prime,2021-02-11
+CUST0922,Customer_922,Gujarat,Kolkata,Bulk Buyer,2023-02-12
+CUST0923,Customer_923,Andhra Pradesh,Kolkata,First-time,2021-02-01
+CUST0924,Customer_924,Gujarat,Vizag,Bulk Buyer,2021-09-11
+CUST0925,Customer_925,Andhra Pradesh,Vizag,First-time,2021-07-24
+CUST0926,Customer_926,Karnataka,Bangalore,Regular,2023-05-10
+CUST0927,Customer_927,Maharashtra,Hyderabad,Regular,2021-01-21
+CUST0928,Customer_928,Tamil Nadu,Chennai,First-time,2022-09-29
+CUST0929,Customer_929,Delhi,Chennai,Bulk Buyer,2021-06-06
+CUST0930,Customer_930,Andhra Pradesh,Kolkata,Regular,2021-09-02
+CUST0931,Customer_931,Gujarat,Kolkata,Prime,2021-05-10
+CUST0932,Customer_932,Tamil Nadu,Kolkata,Regular,2022-04-30
+CUST0933,Customer_933,Andhra Pradesh,Delhi,Prime,2022-11-17
+CUST0934,Customer_934,Andhra Pradesh,Vizag,Bulk Buyer,2021-04-28
+CUST0935,Customer_935,West Bengal,Mumbai,Prime,2022-08-01
+CUST0936,Customer_936,Andhra Pradesh,Chennai,Prime,2021-08-12
+CUST0937,Customer_937,Delhi,Ahmedabad,Prime,2022-04-22
+CUST0938,Customer_938,Maharashtra,Vizag,Prime,2022-12-18
+CUST0939,Customer_939,Delhi,Pune,Regular,2021-09-20
+CUST0940,Customer_940,Telangana,Mumbai,Prime,2023-02-25
+CUST0941,Customer_941,Tamil Nadu,Vizag,Regular,2022-01-13
+CUST0942,Customer_942,Maharashtra,Hyderabad,Prime,2021-06-21
+CUST0943,Customer_943,West Bengal,Ahmedabad,First-time,2022-09-13
+CUST0944,Customer_944,Maharashtra,Vizag,Bulk Buyer,2022-09-14
+CUST0945,Customer_945,Maharashtra,Delhi,Prime,2023-02-05
+CUST0946,Customer_946,Gujarat,Kolkata,First-time,2023-01-06
+CUST0947,Customer_947,Maharashtra,Kolkata,Prime,2021-04-28
+CUST0948,Customer_948,West Bengal,Ahmedabad,Prime,2023-03-08
+CUST0949,Customer_949,Delhi,Kolkata,Prime,2023-04-19
+CUST0950,Customer_950,Maharashtra,Vizag,First-time,2021-06-17
+CUST0951,Customer_951,Karnataka,Pune,Bulk Buyer,2021-11-15
+CUST0952,Customer_952,Tamil Nadu,Chennai,First-time,2021-04-21
+CUST0953,Customer_953,Maharashtra,Chennai,Bulk Buyer,2022-08-16
+CUST0954,Customer_954,Tamil Nadu,Mumbai,Prime,2021-01-27
+CUST0955,Customer_955,Karnataka,Bangalore,Regular,2021-11-16
+CUST0956,Customer_956,Karnataka,Hyderabad,Prime,2022-08-13
+CUST0957,Customer_957,Tamil Nadu,Ahmedabad,Bulk Buyer,2022-11-25
+CUST0958,Customer_958,Andhra Pradesh,Mumbai,First-time,2022-01-20
+CUST0959,Customer_959,Telangana,Bangalore,Prime,2022-02-11
+CUST0960,Customer_960,Gujarat,Delhi,First-time,2023-01-03
+CUST0961,Customer_961,Andhra Pradesh,Delhi,First-time,2021-07-23
+CUST0962,Customer_962,Andhra Pradesh,Hyderabad,First-time,2021-03-19
+CUST0963,Customer_963,Delhi,Kolkata,Prime,2022-08-30
+CUST0964,Customer_964,Gujarat,Vizag,First-time,2022-12-09
+CUST0965,Customer_965,Gujarat,Mumbai,First-time,2023-05-01
+CUST0966,Customer_966,Andhra Pradesh,Mumbai,Prime,2022-10-05
+CUST0967,Customer_967,Maharashtra,Ahmedabad,First-time,2021-09-06
+CUST0968,Customer_968,Delhi,Ahmedabad,Prime,2021-04-15
+CUST0969,Customer_969,Delhi,Delhi,Bulk Buyer,2022-12-15
+CUST0970,Customer_970,Karnataka,Delhi,Bulk Buyer,2023-03-03
+CUST0971,Customer_971,West Bengal,Pune,Bulk Buyer,2021-11-05
+CUST0972,Customer_972,Gujarat,Pune,First-time,2023-05-21
+CUST0973,Customer_973,Andhra Pradesh,Kolkata,Regular,2022-12-02
+CUST0974,Customer_974,Karnataka,Pune,Regular,2022-09-07
+CUST0975,Customer_975,Tamil Nadu,Vizag,First-time,2023-04-05
+CUST0976,Customer_976,Telangana,Vizag,Regular,2021-05-04
+CUST0977,Customer_977,West Bengal,Mumbai,Prime,2023-03-27
+CUST0978,Customer_978,West Bengal,Chennai,Regular,2022-08-03
+CUST0979,Customer_979,West Bengal,Vizag,First-time,2023-03-13
+CUST0980,Customer_980,Delhi,Bangalore,First-time,2021-02-12
+CUST0981,Customer_981,Tamil Nadu,Delhi,Prime,2021-12-22
+CUST0982,Customer_982,West Bengal,Ahmedabad,Bulk Buyer,2022-06-30
+CUST0983,Customer_983,Tamil Nadu,Pune,First-time,2022-03-15
+CUST0984,Customer_984,Maharashtra,Mumbai,Prime,2022-11-09
+CUST0985,Customer_985,West Bengal,Hyderabad,Regular,2022-01-15
+CUST0986,Customer_986,Telangana,Ahmedabad,Regular,2021-03-12
+CUST0987,Customer_987,Tamil Nadu,Bangalore,Prime,2022-06-03
+CUST0988,Customer_988,Tamil Nadu,Pune,Prime,2022-10-26
+CUST0989,Customer_989,Telangana,Bangalore,First-time,2021-12-16
+CUST0990,Customer_990,West Bengal,Delhi,Regular,2021-01-13
+CUST0991,Customer_991,Telangana,Delhi,Prime,2023-05-20
+CUST0992,Customer_992,Tamil Nadu,Kolkata,Regular,2022-03-07
+CUST0993,Customer_993,Telangana,Mumbai,Prime,2023-04-23
+CUST0994,Customer_994,Tamil Nadu,Ahmedabad,Regular,2022-05-17
+CUST0995,Customer_995,Tamil Nadu,Ahmedabad,Bulk Buyer,2021-04-19
+CUST0996,Customer_996,Maharashtra,Hyderabad,First-time,2022-03-20
+CUST0997,Customer_997,Andhra Pradesh,Mumbai,Regular,2022-01-06
+CUST0998,Customer_998,Tamil Nadu,Bangalore,Bulk Buyer,2022-10-13
+CUST0999,Customer_999,West Bengal,Hyderabad,Regular,2023-04-29
+CUST1000,Customer_1000,Karnataka,Chennai,Regular,2022-04-16
+CUST1001,Customer_1001,Delhi,Ahmedabad,Bulk Buyer,2022-12-26
+CUST1002,Customer_1002,Gujarat,Bangalore,Regular,2021-06-06
+CUST1003,Customer_1003,Andhra Pradesh,Vizag,Regular,2022-03-22
+CUST1004,Customer_1004,Andhra Pradesh,Kolkata,First-time,2021-06-30
+CUST1005,Customer_1005,Andhra Pradesh,Mumbai,Bulk Buyer,2023-01-22
+CUST1006,Customer_1006,Maharashtra,Delhi,Bulk Buyer,2022-06-19
+CUST1007,Customer_1007,Tamil Nadu,Vizag,Prime,2022-10-29
+CUST1008,Customer_1008,Maharashtra,Kolkata,Regular,2021-10-04
+CUST1009,Customer_1009,Tamil Nadu,Kolkata,First-time,2022-09-23
+CUST1010,Customer_1010,West Bengal,Chennai,Regular,2023-04-08
+CUST1011,Customer_1011,Maharashtra,Chennai,Regular,2022-07-06
+CUST1012,Customer_1012,Maharashtra,Pune,Prime,2023-03-05
+CUST1013,Customer_1013,Delhi,Pune,Regular,2022-05-11
+CUST1014,Customer_1014,Karnataka,Hyderabad,First-time,2022-04-22
+CUST1015,Customer_1015,Maharashtra,Kolkata,First-time,2022-03-23
+CUST1016,Customer_1016,Delhi,Vizag,Prime,2023-04-26
+CUST1017,Customer_1017,Telangana,Mumbai,Regular,2023-01-19
+CUST1018,Customer_1018,Karnataka,Kolkata,First-time,2022-08-30
+CUST1019,Customer_1019,West Bengal,Chennai,Regular,2021-10-02
+CUST1020,Customer_1020,Maharashtra,Bangalore,Regular,2021-11-27
+CUST1021,Customer_1021,Gujarat,Delhi,Regular,2023-05-23
+CUST1022,Customer_1022,Andhra Pradesh,Pune,Prime,2021-09-09
+CUST1023,Customer_1023,Telangana,Ahmedabad,Regular,2023-05-01
+CUST1024,Customer_1024,Telangana,Bangalore,First-time,2021-03-30
+CUST1025,Customer_1025,West Bengal,Mumbai,Regular,2021-10-13
+CUST1026,Customer_1026,Delhi,Chennai,First-time,2022-04-07
+CUST1027,Customer_1027,Telangana,Chennai,Regular,2021-09-07
+CUST1028,Customer_1028,Karnataka,Chennai,First-time,2023-02-08
+CUST1029,Customer_1029,Maharashtra,Ahmedabad,First-time,2022-04-21
+CUST1030,Customer_1030,Maharashtra,Pune,Regular,2022-08-07
+CUST1031,Customer_1031,Gujarat,Bangalore,Regular,2022-09-17
+CUST1032,Customer_1032,West Bengal,Mumbai,First-time,2022-11-16
+CUST1033,Customer_1033,Andhra Pradesh,Pune,Bulk Buyer,2022-01-24
+CUST1034,Customer_1034,Delhi,Mumbai,Prime,2021-12-11
+CUST1035,Customer_1035,Andhra Pradesh,Pune,Bulk Buyer,2021-01-30
+CUST1036,Customer_1036,Telangana,Ahmedabad,Bulk Buyer,2022-05-22
+CUST1037,Customer_1037,West Bengal,Delhi,Regular,2023-05-22
+CUST1038,Customer_1038,Gujarat,Mumbai,Prime,2021-11-29
+CUST1039,Customer_1039,Andhra Pradesh,Pune,Bulk Buyer,2021-07-06
+CUST1040,Customer_1040,Karnataka,Chennai,Regular,2022-05-15
+CUST1041,Customer_1041,Maharashtra,Kolkata,Bulk Buyer,2021-08-06
+CUST1042,Customer_1042,Telangana,Chennai,Bulk Buyer,2021-12-30
+CUST1043,Customer_1043,Gujarat,Hyderabad,Regular,2023-03-28
+CUST1044,Customer_1044,Andhra Pradesh,Delhi,Regular,2021-09-22
+CUST1045,Customer_1045,Delhi,Delhi,Regular,2021-12-15
+CUST1046,Customer_1046,Karnataka,Chennai,Prime,2021-10-14
+CUST1047,Customer_1047,Karnataka,Bangalore,Bulk Buyer,2022-09-03
+CUST1048,Customer_1048,Andhra Pradesh,Ahmedabad,Regular,2022-12-20
+CUST1049,Customer_1049,Maharashtra,Mumbai,First-time,2021-10-10
+CUST1050,Customer_1050,Andhra Pradesh,Delhi,Bulk Buyer,2022-07-24
+CUST1051,Customer_1051,Telangana,Chennai,First-time,2021-01-11
+CUST1052,Customer_1052,Andhra Pradesh,Chennai,Prime,2022-06-14
+CUST1053,Customer_1053,Karnataka,Ahmedabad,Regular,2021-07-15
+CUST1054,Customer_1054,Gujarat,Ahmedabad,First-time,2021-03-29
+CUST1055,Customer_1055,Andhra Pradesh,Vizag,Prime,2021-09-05
+CUST1056,Customer_1056,Maharashtra,Vizag,Regular,2023-01-08
+CUST1057,Customer_1057,West Bengal,Bangalore,First-time,2022-02-21
+CUST1058,Customer_1058,Gujarat,Bangalore,First-time,2022-05-16
+CUST1059,Customer_1059,Delhi,Hyderabad,Prime,2022-07-23
+CUST1060,Customer_1060,Tamil Nadu,Bangalore,Regular,2023-02-16
+CUST1061,Customer_1061,Andhra Pradesh,Pune,Regular,2021-09-04
+CUST1062,Customer_1062,Maharashtra,Ahmedabad,First-time,2022-12-09
+CUST1063,Customer_1063,Gujarat,Pune,First-time,2022-05-03
+CUST1064,Customer_1064,Maharashtra,Mumbai,First-time,2022-10-24
+CUST1065,Customer_1065,Delhi,Chennai,Regular,2022-12-30
+CUST1066,Customer_1066,Karnataka,Bangalore,Prime,2022-05-18
+CUST1067,Customer_1067,Maharashtra,Chennai,Prime,2022-04-04
+CUST1068,Customer_1068,Gujarat,Delhi,Regular,2023-03-23
+CUST1069,Customer_1069,Maharashtra,Hyderabad,Bulk Buyer,2021-01-18
+CUST1070,Customer_1070,Maharashtra,Delhi,Prime,2021-04-06
+CUST1071,Customer_1071,Maharashtra,Hyderabad,First-time,2021-10-29
+CUST1072,Customer_1072,Telangana,Vizag,Bulk Buyer,2021-08-15
+CUST1073,Customer_1073,Telangana,Chennai,Bulk Buyer,2022-02-19
+CUST1074,Customer_1074,Karnataka,Hyderabad,Prime,2022-12-10
+CUST1075,Customer_1075,Andhra Pradesh,Kolkata,Bulk Buyer,2021-09-07
+CUST1076,Customer_1076,Maharashtra,Pune,Bulk Buyer,2021-11-10
+CUST1077,Customer_1077,Delhi,Hyderabad,Prime,2022-11-11
+CUST1078,Customer_1078,Andhra Pradesh,Hyderabad,Prime,2022-08-19
+CUST1079,Customer_1079,Delhi,Pune,Bulk Buyer,2022-01-13
+CUST1080,Customer_1080,Andhra Pradesh,Chennai,First-time,2022-04-30
+CUST1081,Customer_1081,Karnataka,Chennai,Regular,2022-07-21
+CUST1082,Customer_1082,Maharashtra,Pune,Bulk Buyer,2022-06-28
+CUST1083,Customer_1083,Maharashtra,Delhi,Bulk Buyer,2021-12-19
+CUST1084,Customer_1084,Tamil Nadu,Kolkata,First-time,2022-03-12
+CUST1085,Customer_1085,Delhi,Mumbai,Bulk Buyer,2023-02-03
+CUST1086,Customer_1086,Andhra Pradesh,Kolkata,Bulk Buyer,2022-07-18
+CUST1087,Customer_1087,Andhra Pradesh,Chennai,Regular,2021-12-05
+CUST1088,Customer_1088,West Bengal,Vizag,Regular,2021-12-27
+CUST1089,Customer_1089,West Bengal,Bangalore,Regular,2022-12-21
+CUST1090,Customer_1090,Telangana,Hyderabad,Prime,2022-04-10
+CUST1091,Customer_1091,Tamil Nadu,Pune,Prime,2021-10-05
+CUST1092,Customer_1092,Gujarat,Pune,Regular,2021-11-10
+CUST1093,Customer_1093,West Bengal,Hyderabad,Regular,2021-09-15
+CUST1094,Customer_1094,Gujarat,Bangalore,Prime,2021-08-25
+CUST1095,Customer_1095,Telangana,Mumbai,First-time,2021-05-04
+CUST1096,Customer_1096,Telangana,Bangalore,Bulk Buyer,2023-01-09
+CUST1097,Customer_1097,Telangana,Bangalore,Bulk Buyer,2021-07-17
+CUST1098,Customer_1098,Delhi,Bangalore,Regular,2021-11-20
+CUST1099,Customer_1099,Delhi,Mumbai,First-time,2021-05-03
+CUST1100,Customer_1100,Karnataka,Mumbai,Prime,2023-01-31
+CUST1101,Customer_1101,Karnataka,Chennai,Regular,2022-07-03
+CUST1102,Customer_1102,Telangana,Hyderabad,First-time,2023-02-20
+CUST1103,Customer_1103,Tamil Nadu,Mumbai,First-time,2022-12-08
+CUST1104,Customer_1104,Andhra Pradesh,Mumbai,First-time,2021-07-09
+CUST1105,Customer_1105,Delhi,Chennai,Prime,2021-07-16
+CUST1106,Customer_1106,Tamil Nadu,Pune,Prime,2021-08-10
+CUST1107,Customer_1107,Maharashtra,Chennai,Bulk Buyer,2023-01-27
+CUST1108,Customer_1108,Delhi,Delhi,Bulk Buyer,2022-05-11
+CUST1109,Customer_1109,Delhi,Delhi,First-time,2021-10-11
+CUST1110,Customer_1110,Karnataka,Vizag,First-time,2023-01-12
+CUST1111,Customer_1111,Andhra Pradesh,Bangalore,Prime,2022-08-27
+CUST1112,Customer_1112,Andhra Pradesh,Hyderabad,Bulk Buyer,2023-02-18
+CUST1113,Customer_1113,West Bengal,Ahmedabad,First-time,2022-06-22
+CUST1114,Customer_1114,Gujarat,Kolkata,Bulk Buyer,2022-09-04
+CUST1115,Customer_1115,Gujarat,Chennai,Bulk Buyer,2021-10-17
+CUST1116,Customer_1116,Gujarat,Pune,First-time,2021-04-13
+CUST1117,Customer_1117,Gujarat,Kolkata,Prime,2023-05-03
+CUST1118,Customer_1118,Maharashtra,Pune,First-time,2021-07-18
+CUST1119,Customer_1119,Maharashtra,Kolkata,First-time,2021-10-31
+CUST1120,Customer_1120,Delhi,Chennai,Bulk Buyer,2021-08-21
+CUST1121,Customer_1121,Telangana,Ahmedabad,First-time,2022-01-05
+CUST1122,Customer_1122,Karnataka,Kolkata,Prime,2021-07-03
+CUST1123,Customer_1123,Karnataka,Chennai,First-time,2021-11-06
+CUST1124,Customer_1124,Gujarat,Mumbai,Prime,2021-01-15
+CUST1125,Customer_1125,Delhi,Ahmedabad,Prime,2022-12-27
+CUST1126,Customer_1126,West Bengal,Pune,Bulk Buyer,2022-07-01
+CUST1127,Customer_1127,Tamil Nadu,Delhi,Regular,2021-05-10
+CUST1128,Customer_1128,Telangana,Bangalore,Regular,2021-10-08
+CUST1129,Customer_1129,Delhi,Delhi,Bulk Buyer,2021-02-16
+CUST1130,Customer_1130,Telangana,Ahmedabad,First-time,2021-02-25
+CUST1131,Customer_1131,Telangana,Pune,Bulk Buyer,2022-07-21
+CUST1132,Customer_1132,Telangana,Kolkata,Prime,2021-10-27
+CUST1133,Customer_1133,Delhi,Pune,Regular,2022-12-16
+CUST1134,Customer_1134,Gujarat,Kolkata,Bulk Buyer,2021-05-10
+CUST1135,Customer_1135,Karnataka,Chennai,First-time,2022-10-16
+CUST1136,Customer_1136,Karnataka,Ahmedabad,Bulk Buyer,2023-06-09
+CUST1137,Customer_1137,Gujarat,Chennai,Regular,2023-02-10
+CUST1138,Customer_1138,Telangana,Vizag,Bulk Buyer,2022-05-18
+CUST1139,Customer_1139,Tamil Nadu,Kolkata,Bulk Buyer,2021-04-16
+CUST1140,Customer_1140,Andhra Pradesh,Mumbai,Regular,2023-06-13
+CUST1141,Customer_1141,Delhi,Chennai,Prime,2021-01-13
+CUST1142,Customer_1142,Andhra Pradesh,Vizag,Prime,2022-08-11
+CUST1143,Customer_1143,West Bengal,Hyderabad,Regular,2021-10-19
+CUST1144,Customer_1144,Gujarat,Delhi,Bulk Buyer,2022-04-26
+CUST1145,Customer_1145,Tamil Nadu,Pune,Regular,2022-05-06
+CUST1146,Customer_1146,Delhi,Vizag,Prime,2022-03-28
+CUST1147,Customer_1147,Gujarat,Ahmedabad,First-time,2021-12-15
+CUST1148,Customer_1148,Telangana,Chennai,Bulk Buyer,2021-07-08
+CUST1149,Customer_1149,Karnataka,Ahmedabad,Prime,2021-02-22
+CUST1150,Customer_1150,Andhra Pradesh,Delhi,Bulk Buyer,2021-09-16
+CUST1151,Customer_1151,Maharashtra,Mumbai,Regular,2023-06-02
+CUST1152,Customer_1152,Maharashtra,Ahmedabad,First-time,2022-05-05
+CUST1153,Customer_1153,Tamil Nadu,Kolkata,Regular,2021-04-27
+CUST1154,Customer_1154,Telangana,Mumbai,First-time,2023-04-22
+CUST1155,Customer_1155,West Bengal,Mumbai,Bulk Buyer,2021-03-08
+CUST1156,Customer_1156,Andhra Pradesh,Vizag,Bulk Buyer,2022-02-15
+CUST1157,Customer_1157,Telangana,Mumbai,Regular,2022-05-19
+CUST1158,Customer_1158,Andhra Pradesh,Bangalore,First-time,2021-03-17
+CUST1159,Customer_1159,Tamil Nadu,Delhi,First-time,2022-08-14
+CUST1160,Customer_1160,Tamil Nadu,Mumbai,Bulk Buyer,2022-10-07
+CUST1161,Customer_1161,West Bengal,Ahmedabad,Regular,2022-12-04
+CUST1162,Customer_1162,Maharashtra,Hyderabad,First-time,2021-02-24
+CUST1163,Customer_1163,Telangana,Bangalore,Bulk Buyer,2021-06-05
+CUST1164,Customer_1164,Delhi,Bangalore,Prime,2021-06-02
+CUST1165,Customer_1165,Maharashtra,Kolkata,Regular,2023-04-11
+CUST1166,Customer_1166,Telangana,Mumbai,Prime,2022-07-31
+CUST1167,Customer_1167,Maharashtra,Kolkata,Regular,2021-11-08
+CUST1168,Customer_1168,Delhi,Kolkata,Bulk Buyer,2021-03-29
+CUST1169,Customer_1169,Karnataka,Hyderabad,First-time,2021-09-12
+CUST1170,Customer_1170,Karnataka,Vizag,First-time,2021-05-02
+CUST1171,Customer_1171,West Bengal,Mumbai,First-time,2022-07-26
+CUST1172,Customer_1172,Karnataka,Chennai,Regular,2023-02-22
+CUST1173,Customer_1173,Karnataka,Kolkata,Bulk Buyer,2022-03-03
+CUST1174,Customer_1174,Gujarat,Delhi,Prime,2022-09-13
+CUST1175,Customer_1175,Andhra Pradesh,Pune,Bulk Buyer,2022-09-03
+CUST1176,Customer_1176,Gujarat,Delhi,Prime,2023-03-21
+CUST1177,Customer_1177,Gujarat,Hyderabad,Regular,2022-09-26
+CUST1178,Customer_1178,West Bengal,Hyderabad,Regular,2021-08-20
+CUST1179,Customer_1179,Gujarat,Ahmedabad,Prime,2023-03-06
+CUST1180,Customer_1180,Karnataka,Vizag,Prime,2022-06-20
+CUST1181,Customer_1181,Delhi,Kolkata,Prime,2022-01-25
+CUST1182,Customer_1182,West Bengal,Delhi,Bulk Buyer,2022-04-07
+CUST1183,Customer_1183,West Bengal,Pune,Prime,2022-03-30
+CUST1184,Customer_1184,Tamil Nadu,Hyderabad,Regular,2021-11-01
+CUST1185,Customer_1185,West Bengal,Hyderabad,Regular,2023-05-31
+CUST1186,Customer_1186,Tamil Nadu,Vizag,First-time,2022-08-26
+CUST1187,Customer_1187,West Bengal,Pune,Prime,2022-03-16
+CUST1188,Customer_1188,Andhra Pradesh,Pune,Bulk Buyer,2021-11-09
+CUST1189,Customer_1189,Karnataka,Vizag,Bulk Buyer,2022-08-06
+CUST1190,Customer_1190,West Bengal,Hyderabad,Bulk Buyer,2022-09-28
+CUST1191,Customer_1191,Karnataka,Mumbai,First-time,2021-03-03
+CUST1192,Customer_1192,Karnataka,Mumbai,Regular,2022-09-17
+CUST1193,Customer_1193,Maharashtra,Vizag,Bulk Buyer,2023-01-28
+CUST1194,Customer_1194,West Bengal,Pune,Regular,2021-04-12
+CUST1195,Customer_1195,Telangana,Kolkata,First-time,2023-02-21
+CUST1196,Customer_1196,Maharashtra,Vizag,Prime,2021-08-01
+CUST1197,Customer_1197,Telangana,Vizag,Prime,2022-10-03
+CUST1198,Customer_1198,Karnataka,Bangalore,Prime,2021-08-05
+CUST1199,Customer_1199,Karnataka,Delhi,Bulk Buyer,2021-09-28
+CUST1200,Customer_1200,Maharashtra,Pune,Prime,2022-11-08
+CUST1201,Customer_1201,Maharashtra,Ahmedabad,Bulk Buyer,2021-03-25
+CUST1202,Customer_1202,Telangana,Ahmedabad,First-time,2021-06-10
+CUST1203,Customer_1203,Tamil Nadu,Pune,First-time,2021-09-03
+CUST1204,Customer_1204,Telangana,Bangalore,Bulk Buyer,2021-06-27
+CUST1205,Customer_1205,Maharashtra,Bangalore,Regular,2022-07-20
+CUST1206,Customer_1206,Delhi,Hyderabad,Prime,2021-03-18
+CUST1207,Customer_1207,Maharashtra,Delhi,Prime,2021-06-10
+CUST1208,Customer_1208,Delhi,Mumbai,Prime,2021-01-03
+CUST1209,Customer_1209,Andhra Pradesh,Chennai,Bulk Buyer,2022-02-23
+CUST1210,Customer_1210,Maharashtra,Chennai,First-time,2022-04-07
+CUST1211,Customer_1211,Andhra Pradesh,Chennai,Prime,2022-12-07
+CUST1212,Customer_1212,Tamil Nadu,Pune,First-time,2022-09-01
+CUST1213,Customer_1213,Telangana,Ahmedabad,Prime,2022-04-27
+CUST1214,Customer_1214,Delhi,Ahmedabad,Prime,2021-10-26
+CUST1215,Customer_1215,Telangana,Mumbai,Bulk Buyer,2021-02-03
+CUST1216,Customer_1216,Andhra Pradesh,Pune,Regular,2021-08-26
+CUST1217,Customer_1217,Delhi,Chennai,Bulk Buyer,2021-10-23
+CUST1218,Customer_1218,Telangana,Kolkata,Prime,2022-12-25
+CUST1219,Customer_1219,Maharashtra,Ahmedabad,Prime,2021-10-17
+CUST1220,Customer_1220,Karnataka,Hyderabad,Regular,2022-12-21
+CUST1221,Customer_1221,Andhra Pradesh,Vizag,First-time,2023-05-31
+CUST1222,Customer_1222,Telangana,Kolkata,First-time,2022-04-10
+CUST1223,Customer_1223,Andhra Pradesh,Ahmedabad,Prime,2021-03-14
+CUST1224,Customer_1224,Gujarat,Bangalore,First-time,2022-12-05
+CUST1225,Customer_1225,Andhra Pradesh,Ahmedabad,Prime,2021-08-28
+CUST1226,Customer_1226,Delhi,Hyderabad,Regular,2021-09-28
+CUST1227,Customer_1227,Gujarat,Chennai,Regular,2023-03-18
+CUST1228,Customer_1228,West Bengal,Bangalore,Prime,2023-03-22
+CUST1229,Customer_1229,Delhi,Pune,Regular,2022-10-03
+CUST1230,Customer_1230,Karnataka,Delhi,Bulk Buyer,2022-08-27
+CUST1231,Customer_1231,Gujarat,Chennai,Bulk Buyer,2022-11-09
+CUST1232,Customer_1232,West Bengal,Delhi,Regular,2023-04-04
+CUST1233,Customer_1233,Maharashtra,Kolkata,Prime,2021-07-22
+CUST1234,Customer_1234,Andhra Pradesh,Vizag,Prime,2022-03-12
+CUST1235,Customer_1235,Telangana,Bangalore,Regular,2021-04-28
+CUST1236,Customer_1236,Tamil Nadu,Mumbai,First-time,2022-07-12
+CUST1237,Customer_1237,Andhra Pradesh,Bangalore,Bulk Buyer,2021-08-19
+CUST1238,Customer_1238,West Bengal,Ahmedabad,First-time,2022-10-26
+CUST1239,Customer_1239,Andhra Pradesh,Ahmedabad,Prime,2021-06-02
+CUST1240,Customer_1240,Karnataka,Ahmedabad,Prime,2021-09-30
+CUST1241,Customer_1241,Maharashtra,Kolkata,First-time,2023-04-27
+CUST1242,Customer_1242,Tamil Nadu,Chennai,Regular,2021-05-26
+CUST1243,Customer_1243,Gujarat,Mumbai,First-time,2021-03-15
+CUST1244,Customer_1244,Gujarat,Mumbai,First-time,2021-03-03
+CUST1245,Customer_1245,Gujarat,Ahmedabad,Bulk Buyer,2021-06-19
+CUST1246,Customer_1246,West Bengal,Delhi,Bulk Buyer,2023-03-23
+CUST1247,Customer_1247,Delhi,Kolkata,First-time,2021-11-11
+CUST1248,Customer_1248,Delhi,Ahmedabad,First-time,2022-09-02
+CUST1249,Customer_1249,Telangana,Vizag,Prime,2023-02-06
+CUST1250,Customer_1250,Tamil Nadu,Chennai,Bulk Buyer,2023-04-25
+CUST1251,Customer_1251,Gujarat,Pune,Bulk Buyer,2022-08-06
+CUST1252,Customer_1252,Delhi,Vizag,Prime,2021-10-23
+CUST1253,Customer_1253,West Bengal,Delhi,Regular,2022-03-26
+CUST1254,Customer_1254,Telangana,Bangalore,Bulk Buyer,2021-05-08
+CUST1255,Customer_1255,Maharashtra,Bangalore,Bulk Buyer,2022-04-25
+CUST1256,Customer_1256,Telangana,Vizag,Regular,2022-12-07
+CUST1257,Customer_1257,Delhi,Ahmedabad,Bulk Buyer,2021-11-08
+CUST1258,Customer_1258,Karnataka,Pune,Bulk Buyer,2022-12-18
+CUST1259,Customer_1259,West Bengal,Hyderabad,Regular,2022-02-17
+CUST1260,Customer_1260,Karnataka,Hyderabad,Regular,2021-10-06
+CUST1261,Customer_1261,Gujarat,Delhi,First-time,2022-05-28
+CUST1262,Customer_1262,Karnataka,Ahmedabad,Prime,2022-07-07
+CUST1263,Customer_1263,Gujarat,Mumbai,Prime,2022-05-21
+CUST1264,Customer_1264,Gujarat,Mumbai,Regular,2022-03-25
+CUST1265,Customer_1265,Delhi,Chennai,Regular,2021-03-24
+CUST1266,Customer_1266,Karnataka,Pune,Bulk Buyer,2022-09-05
+CUST1267,Customer_1267,Gujarat,Pune,First-time,2021-02-10
+CUST1268,Customer_1268,Tamil Nadu,Bangalore,First-time,2022-03-19
+CUST1269,Customer_1269,Maharashtra,Kolkata,Regular,2023-01-23
+CUST1270,Customer_1270,Telangana,Delhi,Bulk Buyer,2021-11-27
+CUST1271,Customer_1271,Telangana,Hyderabad,Bulk Buyer,2022-09-11
+CUST1272,Customer_1272,Delhi,Delhi,Prime,2021-09-14
+CUST1273,Customer_1273,Karnataka,Mumbai,Prime,2021-01-27
+CUST1274,Customer_1274,Karnataka,Mumbai,Bulk Buyer,2021-04-04
+CUST1275,Customer_1275,Gujarat,Vizag,Prime,2021-08-23
+CUST1276,Customer_1276,West Bengal,Chennai,Regular,2022-11-22
+CUST1277,Customer_1277,Andhra Pradesh,Pune,Bulk Buyer,2023-05-07
+CUST1278,Customer_1278,Gujarat,Delhi,Prime,2023-06-01
+CUST1279,Customer_1279,Maharashtra,Mumbai,First-time,2022-08-13
+CUST1280,Customer_1280,Tamil Nadu,Kolkata,Bulk Buyer,2022-08-25
+CUST1281,Customer_1281,Telangana,Bangalore,Bulk Buyer,2021-01-22
+CUST1282,Customer_1282,Gujarat,Hyderabad,First-time,2023-02-23
+CUST1283,Customer_1283,Andhra Pradesh,Chennai,Regular,2022-11-20
+CUST1284,Customer_1284,Andhra Pradesh,Kolkata,First-time,2023-04-22
+CUST1285,Customer_1285,Gujarat,Chennai,Bulk Buyer,2021-10-03
+CUST1286,Customer_1286,Delhi,Vizag,Regular,2022-08-14
+CUST1287,Customer_1287,Telangana,Mumbai,Prime,2021-02-11
+CUST1288,Customer_1288,Delhi,Bangalore,Prime,2023-02-21
+CUST1289,Customer_1289,Tamil Nadu,Kolkata,Prime,2023-02-14
+CUST1290,Customer_1290,Andhra Pradesh,Chennai,Bulk Buyer,2021-06-29
+CUST1291,Customer_1291,Andhra Pradesh,Pune,First-time,2022-04-27
+CUST1292,Customer_1292,Maharashtra,Vizag,Regular,2022-06-16
+CUST1293,Customer_1293,Tamil Nadu,Pune,Prime,2022-10-30
+CUST1294,Customer_1294,Andhra Pradesh,Bangalore,Regular,2022-03-29
+CUST1295,Customer_1295,Tamil Nadu,Kolkata,Bulk Buyer,2021-10-12
+CUST1296,Customer_1296,Telangana,Vizag,Prime,2021-07-05
+CUST1297,Customer_1297,Karnataka,Kolkata,Bulk Buyer,2022-08-23
+CUST1298,Customer_1298,Andhra Pradesh,Mumbai,First-time,2022-03-23
+CUST1299,Customer_1299,Maharashtra,Ahmedabad,Bulk Buyer,2022-10-13
+CUST1300,Customer_1300,Telangana,Vizag,Bulk Buyer,2023-04-14
+CUST1301,Customer_1301,Gujarat,Pune,First-time,2022-05-19
+CUST1302,Customer_1302,Tamil Nadu,Bangalore,Regular,2021-04-04
+CUST1303,Customer_1303,Gujarat,Mumbai,First-time,2022-04-27
+CUST1304,Customer_1304,Delhi,Ahmedabad,First-time,2021-12-23
+CUST1305,Customer_1305,Telangana,Hyderabad,Bulk Buyer,2022-02-23
+CUST1306,Customer_1306,Gujarat,Mumbai,Regular,2021-12-08
+CUST1307,Customer_1307,West Bengal,Bangalore,Prime,2021-11-25
+CUST1308,Customer_1308,West Bengal,Chennai,First-time,2022-11-18
+CUST1309,Customer_1309,Andhra Pradesh,Vizag,Regular,2021-04-18
+CUST1310,Customer_1310,Tamil Nadu,Kolkata,First-time,2023-05-29
+CUST1311,Customer_1311,Karnataka,Bangalore,First-time,2021-06-14
+CUST1312,Customer_1312,Telangana,Vizag,First-time,2021-12-04
+CUST1313,Customer_1313,Andhra Pradesh,Kolkata,First-time,2022-02-26
+CUST1314,Customer_1314,Maharashtra,Delhi,Bulk Buyer,2022-12-12
+CUST1315,Customer_1315,Delhi,Pune,Regular,2022-05-23
+CUST1316,Customer_1316,Tamil Nadu,Hyderabad,Regular,2021-10-23
+CUST1317,Customer_1317,Telangana,Mumbai,Regular,2022-11-10
+CUST1318,Customer_1318,West Bengal,Bangalore,First-time,2022-02-15
+CUST1319,Customer_1319,Telangana,Hyderabad,Bulk Buyer,2023-04-14
+CUST1320,Customer_1320,Karnataka,Chennai,First-time,2023-02-18
+CUST1321,Customer_1321,West Bengal,Vizag,First-time,2022-07-18
+CUST1322,Customer_1322,Karnataka,Vizag,Regular,2021-02-07
+CUST1323,Customer_1323,Maharashtra,Bangalore,First-time,2022-04-11
+CUST1324,Customer_1324,Delhi,Ahmedabad,Prime,2021-04-01
+CUST1325,Customer_1325,Maharashtra,Ahmedabad,First-time,2021-11-19
+CUST1326,Customer_1326,Andhra Pradesh,Delhi,Prime,2021-09-16
+CUST1327,Customer_1327,Andhra Pradesh,Pune,First-time,2021-11-28
+CUST1328,Customer_1328,Maharashtra,Kolkata,Bulk Buyer,2021-04-29
+CUST1329,Customer_1329,Delhi,Chennai,Bulk Buyer,2023-03-03
+CUST1330,Customer_1330,Maharashtra,Hyderabad,Regular,2022-02-18
+CUST1331,Customer_1331,Delhi,Ahmedabad,First-time,2023-06-05
+CUST1332,Customer_1332,Delhi,Delhi,Prime,2022-06-11
+CUST1333,Customer_1333,Gujarat,Delhi,Prime,2023-04-25
+CUST1334,Customer_1334,West Bengal,Bangalore,First-time,2021-01-02
+CUST1335,Customer_1335,Tamil Nadu,Chennai,Prime,2022-11-05
+CUST1336,Customer_1336,Delhi,Kolkata,Bulk Buyer,2023-06-10
+CUST1337,Customer_1337,Karnataka,Pune,Prime,2022-07-10
+CUST1338,Customer_1338,Delhi,Mumbai,Regular,2022-04-19
+CUST1339,Customer_1339,Delhi,Bangalore,Bulk Buyer,2022-02-28
+CUST1340,Customer_1340,Delhi,Kolkata,Bulk Buyer,2021-02-25
+CUST1341,Customer_1341,Gujarat,Mumbai,Bulk Buyer,2021-07-12
+CUST1342,Customer_1342,West Bengal,Mumbai,First-time,2022-06-15
+CUST1343,Customer_1343,Gujarat,Chennai,First-time,2022-01-06
+CUST1344,Customer_1344,Andhra Pradesh,Chennai,Bulk Buyer,2022-09-30
+CUST1345,Customer_1345,Gujarat,Hyderabad,First-time,2023-02-14
+CUST1346,Customer_1346,Karnataka,Delhi,Prime,2022-05-26
+CUST1347,Customer_1347,Karnataka,Kolkata,First-time,2022-10-03
+CUST1348,Customer_1348,Gujarat,Bangalore,First-time,2022-03-29
+CUST1349,Customer_1349,West Bengal,Vizag,Bulk Buyer,2023-02-18
+CUST1350,Customer_1350,Maharashtra,Bangalore,Regular,2021-02-22
+CUST1351,Customer_1351,Tamil Nadu,Hyderabad,Regular,2021-07-28
+CUST1352,Customer_1352,West Bengal,Pune,Regular,2021-10-01
+CUST1353,Customer_1353,Gujarat,Delhi,Prime,2022-07-17
+CUST1354,Customer_1354,Delhi,Vizag,First-time,2021-05-15
+CUST1355,Customer_1355,Telangana,Ahmedabad,Regular,2021-10-22
+CUST1356,Customer_1356,Tamil Nadu,Pune,Bulk Buyer,2022-03-25
+CUST1357,Customer_1357,Tamil Nadu,Chennai,Regular,2022-12-17
+CUST1358,Customer_1358,Karnataka,Mumbai,Regular,2022-05-12
+CUST1359,Customer_1359,Tamil Nadu,Ahmedabad,First-time,2021-05-05
+CUST1360,Customer_1360,Gujarat,Bangalore,First-time,2021-01-30
+CUST1361,Customer_1361,Delhi,Bangalore,First-time,2022-10-08
+CUST1362,Customer_1362,Delhi,Chennai,Prime,2022-09-16
+CUST1363,Customer_1363,Andhra Pradesh,Hyderabad,Prime,2023-03-30
+CUST1364,Customer_1364,Delhi,Kolkata,Regular,2021-09-03
+CUST1365,Customer_1365,West Bengal,Ahmedabad,First-time,2022-12-28
+CUST1366,Customer_1366,Delhi,Ahmedabad,Regular,2021-06-12
+CUST1367,Customer_1367,Karnataka,Pune,Bulk Buyer,2021-11-15
+CUST1368,Customer_1368,Delhi,Delhi,Bulk Buyer,2022-07-19
+CUST1369,Customer_1369,Andhra Pradesh,Pune,First-time,2021-01-15
+CUST1370,Customer_1370,Telangana,Kolkata,First-time,2022-07-20
+CUST1371,Customer_1371,Gujarat,Bangalore,Bulk Buyer,2022-02-22
+CUST1372,Customer_1372,Karnataka,Bangalore,First-time,2021-04-06
+CUST1373,Customer_1373,West Bengal,Bangalore,Prime,2021-08-19
+CUST1374,Customer_1374,Telangana,Bangalore,Prime,2023-05-12
+CUST1375,Customer_1375,Karnataka,Kolkata,First-time,2021-04-27
+CUST1376,Customer_1376,Maharashtra,Chennai,Bulk Buyer,2022-04-18
+CUST1377,Customer_1377,Tamil Nadu,Delhi,Regular,2021-05-01
+CUST1378,Customer_1378,Maharashtra,Kolkata,First-time,2022-10-26
+CUST1379,Customer_1379,Delhi,Delhi,First-time,2023-05-03
+CUST1380,Customer_1380,Telangana,Kolkata,Regular,2021-06-07
+CUST1381,Customer_1381,Delhi,Bangalore,First-time,2022-05-26
+CUST1382,Customer_1382,Tamil Nadu,Chennai,Regular,2023-01-04
+CUST1383,Customer_1383,Karnataka,Ahmedabad,Bulk Buyer,2021-10-26
+CUST1384,Customer_1384,Tamil Nadu,Pune,Prime,2022-06-06
+CUST1385,Customer_1385,Andhra Pradesh,Mumbai,Bulk Buyer,2022-12-24
+CUST1386,Customer_1386,Tamil Nadu,Chennai,Prime,2021-10-07
+CUST1387,Customer_1387,Andhra Pradesh,Ahmedabad,Regular,2022-03-02
+CUST1388,Customer_1388,Tamil Nadu,Hyderabad,Prime,2023-05-05
+CUST1389,Customer_1389,Gujarat,Kolkata,Bulk Buyer,2022-05-10
+CUST1390,Customer_1390,Andhra Pradesh,Hyderabad,Prime,2022-04-29
+CUST1391,Customer_1391,Telangana,Ahmedabad,Regular,2021-09-07
+CUST1392,Customer_1392,Delhi,Chennai,Prime,2022-04-13
+CUST1393,Customer_1393,West Bengal,Kolkata,First-time,2022-07-19
+CUST1394,Customer_1394,Delhi,Mumbai,Bulk Buyer,2021-05-29
+CUST1395,Customer_1395,Maharashtra,Bangalore,First-time,2022-01-28
+CUST1396,Customer_1396,Delhi,Kolkata,Regular,2021-07-15
+CUST1397,Customer_1397,Karnataka,Kolkata,Prime,2022-09-06
+CUST1398,Customer_1398,Gujarat,Chennai,First-time,2022-06-05
+CUST1399,Customer_1399,Tamil Nadu,Chennai,First-time,2023-02-04
+CUST1400,Customer_1400,Maharashtra,Ahmedabad,Prime,2023-06-20
+CUST1401,Customer_1401,Karnataka,Vizag,Prime,2021-05-20
+CUST1402,Customer_1402,Karnataka,Kolkata,Bulk Buyer,2023-06-04
+CUST1403,Customer_1403,Andhra Pradesh,Pune,First-time,2021-03-13
+CUST1404,Customer_1404,Delhi,Kolkata,First-time,2021-10-10
+CUST1405,Customer_1405,Telangana,Ahmedabad,Regular,2023-03-03
+CUST1406,Customer_1406,West Bengal,Delhi,Bulk Buyer,2023-03-20
+CUST1407,Customer_1407,Telangana,Hyderabad,Regular,2023-05-25
+CUST1408,Customer_1408,Maharashtra,Bangalore,First-time,2022-03-01
+CUST1409,Customer_1409,Gujarat,Vizag,Regular,2021-12-15
+CUST1410,Customer_1410,Telangana,Mumbai,First-time,2023-03-18
+CUST1411,Customer_1411,Tamil Nadu,Mumbai,First-time,2022-06-04
+CUST1412,Customer_1412,Telangana,Mumbai,Regular,2021-10-01
+CUST1413,Customer_1413,Maharashtra,Chennai,Regular,2023-04-21
+CUST1414,Customer_1414,West Bengal,Mumbai,Prime,2021-01-03
+CUST1415,Customer_1415,Telangana,Bangalore,Prime,2021-10-17
+CUST1416,Customer_1416,Tamil Nadu,Hyderabad,Prime,2023-01-14
+CUST1417,Customer_1417,Andhra Pradesh,Mumbai,First-time,2021-11-02
+CUST1418,Customer_1418,Gujarat,Kolkata,Regular,2023-05-08
+CUST1419,Customer_1419,Maharashtra,Kolkata,Bulk Buyer,2022-08-25
+CUST1420,Customer_1420,Andhra Pradesh,Chennai,First-time,2022-08-17
+CUST1421,Customer_1421,Andhra Pradesh,Bangalore,Bulk Buyer,2022-11-07
+CUST1422,Customer_1422,Andhra Pradesh,Hyderabad,Regular,2022-05-17
+CUST1423,Customer_1423,Karnataka,Vizag,First-time,2023-06-06
+CUST1424,Customer_1424,Gujarat,Ahmedabad,Bulk Buyer,2021-06-02
+CUST1425,Customer_1425,West Bengal,Hyderabad,Bulk Buyer,2022-04-03
+CUST1426,Customer_1426,Delhi,Ahmedabad,Prime,2022-07-06
+CUST1427,Customer_1427,Gujarat,Delhi,Prime,2022-05-11
+CUST1428,Customer_1428,Karnataka,Ahmedabad,Prime,2021-12-20
+CUST1429,Customer_1429,Delhi,Pune,First-time,2021-12-07
+CUST1430,Customer_1430,Gujarat,Kolkata,Regular,2022-07-20
+CUST1431,Customer_1431,Andhra Pradesh,Bangalore,Regular,2023-02-21
+CUST1432,Customer_1432,Maharashtra,Chennai,Prime,2022-07-11
+CUST1433,Customer_1433,Delhi,Pune,Prime,2022-01-22
+CUST1434,Customer_1434,Tamil Nadu,Ahmedabad,Prime,2022-04-12
+CUST1435,Customer_1435,Tamil Nadu,Mumbai,Bulk Buyer,2021-11-26
+CUST1436,Customer_1436,Telangana,Bangalore,Prime,2023-06-10
+CUST1437,Customer_1437,Delhi,Pune,Bulk Buyer,2021-07-13
+CUST1438,Customer_1438,Maharashtra,Chennai,Regular,2022-12-16
+CUST1439,Customer_1439,West Bengal,Kolkata,First-time,2021-09-02
+CUST1440,Customer_1440,Karnataka,Bangalore,First-time,2022-08-09
+CUST1441,Customer_1441,Andhra Pradesh,Chennai,First-time,2022-01-28
+CUST1442,Customer_1442,Telangana,Delhi,First-time,2021-08-28
+CUST1443,Customer_1443,Tamil Nadu,Delhi,Bulk Buyer,2023-05-27
+CUST1444,Customer_1444,Karnataka,Chennai,Bulk Buyer,2023-03-06
+CUST1445,Customer_1445,Karnataka,Pune,Prime,2022-02-25
+CUST1446,Customer_1446,Andhra Pradesh,Bangalore,Bulk Buyer,2021-02-14
+CUST1447,Customer_1447,West Bengal,Pune,Prime,2021-11-22
+CUST1448,Customer_1448,West Bengal,Vizag,Prime,2023-02-02
+CUST1449,Customer_1449,Delhi,Ahmedabad,First-time,2022-04-30
+CUST1450,Customer_1450,Tamil Nadu,Vizag,Bulk Buyer,2022-12-24
+CUST1451,Customer_1451,West Bengal,Delhi,Bulk Buyer,2023-04-11
+CUST1452,Customer_1452,Maharashtra,Kolkata,Prime,2022-01-26
+CUST1453,Customer_1453,West Bengal,Hyderabad,Prime,2022-01-31
+CUST1454,Customer_1454,Karnataka,Ahmedabad,Regular,2022-11-11
+CUST1455,Customer_1455,Andhra Pradesh,Delhi,Regular,2023-03-23
+CUST1456,Customer_1456,Maharashtra,Pune,Prime,2023-04-21
+CUST1457,Customer_1457,Delhi,Pune,Regular,2022-10-30
+CUST1458,Customer_1458,Tamil Nadu,Pune,Regular,2021-06-05
+CUST1459,Customer_1459,Delhi,Kolkata,Prime,2022-05-23
+CUST1460,Customer_1460,Karnataka,Vizag,Prime,2021-02-07
+CUST1461,Customer_1461,Maharashtra,Hyderabad,Bulk Buyer,2021-05-10
+CUST1462,Customer_1462,Maharashtra,Pune,Prime,2022-05-30
+CUST1463,Customer_1463,Maharashtra,Ahmedabad,Prime,2022-08-28
+CUST1464,Customer_1464,Karnataka,Bangalore,First-time,2021-12-06
+CUST1465,Customer_1465,Karnataka,Hyderabad,Bulk Buyer,2023-06-10
+CUST1466,Customer_1466,Delhi,Kolkata,Bulk Buyer,2021-04-13
+CUST1467,Customer_1467,Telangana,Hyderabad,Bulk Buyer,2023-06-15
+CUST1468,Customer_1468,Delhi,Bangalore,First-time,2023-05-16
+CUST1469,Customer_1469,Tamil Nadu,Ahmedabad,Prime,2022-03-27
+CUST1470,Customer_1470,Andhra Pradesh,Bangalore,Bulk Buyer,2021-04-13
+CUST1471,Customer_1471,Maharashtra,Chennai,Bulk Buyer,2022-06-23
+CUST1472,Customer_1472,Telangana,Ahmedabad,Regular,2022-04-13
+CUST1473,Customer_1473,Andhra Pradesh,Hyderabad,Bulk Buyer,2021-01-16
+CUST1474,Customer_1474,Telangana,Pune,Prime,2023-01-10
+CUST1475,Customer_1475,West Bengal,Hyderabad,Prime,2021-05-28
+CUST1476,Customer_1476,West Bengal,Hyderabad,Regular,2022-02-24
+CUST1477,Customer_1477,Gujarat,Ahmedabad,Bulk Buyer,2023-06-11
+CUST1478,Customer_1478,West Bengal,Chennai,Bulk Buyer,2022-11-02
+CUST1479,Customer_1479,Delhi,Hyderabad,Bulk Buyer,2021-06-08
+CUST1480,Customer_1480,West Bengal,Delhi,First-time,2021-03-18
+CUST1481,Customer_1481,Karnataka,Mumbai,Bulk Buyer,2022-04-26
+CUST1482,Customer_1482,Maharashtra,Mumbai,Prime,2023-03-12
+CUST1483,Customer_1483,Delhi,Hyderabad,Prime,2021-09-29
+CUST1484,Customer_1484,Andhra Pradesh,Pune,First-time,2021-12-13
+CUST1485,Customer_1485,Gujarat,Kolkata,First-time,2022-10-01
+CUST1486,Customer_1486,Gujarat,Kolkata,Bulk Buyer,2022-12-11
+CUST1487,Customer_1487,Gujarat,Ahmedabad,Regular,2022-02-12
+CUST1488,Customer_1488,Andhra Pradesh,Mumbai,First-time,2022-10-28
+CUST1489,Customer_1489,Andhra Pradesh,Hyderabad,First-time,2021-03-24
+CUST1490,Customer_1490,Andhra Pradesh,Kolkata,Bulk Buyer,2023-05-23
+CUST1491,Customer_1491,Andhra Pradesh,Hyderabad,Bulk Buyer,2021-12-03
+CUST1492,Customer_1492,Gujarat,Ahmedabad,First-time,2023-05-23
+CUST1493,Customer_1493,Gujarat,Mumbai,Regular,2022-11-22
+CUST1494,Customer_1494,Telangana,Bangalore,First-time,2023-05-30
+CUST1495,Customer_1495,Delhi,Delhi,Bulk Buyer,2022-07-01
+CUST1496,Customer_1496,Maharashtra,Delhi,Bulk Buyer,2022-01-25
+CUST1497,Customer_1497,West Bengal,Kolkata,First-time,2021-11-21
+CUST1498,Customer_1498,West Bengal,Delhi,Regular,2022-10-04
+CUST1499,Customer_1499,Karnataka,Bangalore,First-time,2023-01-06
+CUST1500,Customer_1500,Gujarat,Hyderabad,First-time,2023-02-17
+CUST1501,Customer_1501,Karnataka,Ahmedabad,Bulk Buyer,2022-05-15
+CUST1502,Customer_1502,Delhi,Bangalore,Regular,2023-06-13
+CUST1503,Customer_1503,Delhi,Ahmedabad,Prime,2022-07-09
+CUST1504,Customer_1504,Karnataka,Ahmedabad,Regular,2021-02-06
+CUST1505,Customer_1505,Gujarat,Mumbai,First-time,2022-09-25
+CUST1506,Customer_1506,Karnataka,Hyderabad,First-time,2021-03-12
+CUST1507,Customer_1507,West Bengal,Delhi,First-time,2021-08-29
+CUST1508,Customer_1508,Telangana,Mumbai,Regular,2022-10-09
+CUST1509,Customer_1509,West Bengal,Ahmedabad,Bulk Buyer,2022-12-02
+CUST1510,Customer_1510,Tamil Nadu,Kolkata,First-time,2021-10-22
+CUST1511,Customer_1511,Gujarat,Delhi,First-time,2021-08-21
+CUST1512,Customer_1512,Gujarat,Delhi,Regular,2023-02-04
+CUST1513,Customer_1513,Maharashtra,Hyderabad,Prime,2021-04-03
+CUST1514,Customer_1514,Andhra Pradesh,Chennai,Prime,2022-03-21
+CUST1515,Customer_1515,Tamil Nadu,Vizag,Bulk Buyer,2021-04-11
+CUST1516,Customer_1516,Delhi,Vizag,Bulk Buyer,2023-02-18
+CUST1517,Customer_1517,Gujarat,Vizag,First-time,2022-10-11
+CUST1518,Customer_1518,Karnataka,Chennai,Regular,2022-12-22
+CUST1519,Customer_1519,Tamil Nadu,Hyderabad,First-time,2023-06-13
+CUST1520,Customer_1520,Maharashtra,Chennai,Bulk Buyer,2021-04-13
+CUST1521,Customer_1521,Delhi,Vizag,Regular,2022-03-31
+CUST1522,Customer_1522,Andhra Pradesh,Mumbai,Regular,2021-06-20
+CUST1523,Customer_1523,Andhra Pradesh,Bangalore,Bulk Buyer,2022-12-12
+CUST1524,Customer_1524,Maharashtra,Ahmedabad,Prime,2021-11-03
+CUST1525,Customer_1525,Maharashtra,Chennai,Prime,2021-01-30
+CUST1526,Customer_1526,Karnataka,Hyderabad,Regular,2021-02-17
+CUST1527,Customer_1527,Gujarat,Hyderabad,First-time,2021-11-29
+CUST1528,Customer_1528,Andhra Pradesh,Bangalore,Prime,2023-03-27
+CUST1529,Customer_1529,Delhi,Kolkata,First-time,2021-02-27
+CUST1530,Customer_1530,Tamil Nadu,Delhi,Prime,2021-10-28
+CUST1531,Customer_1531,Delhi,Vizag,Prime,2022-01-03
+CUST1532,Customer_1532,Telangana,Kolkata,First-time,2022-01-19
+CUST1533,Customer_1533,Telangana,Vizag,Bulk Buyer,2022-03-18
+CUST1534,Customer_1534,Maharashtra,Bangalore,Prime,2021-05-30
+CUST1535,Customer_1535,Karnataka,Vizag,Prime,2021-09-08
+CUST1536,Customer_1536,Telangana,Bangalore,First-time,2022-06-28
+CUST1537,Customer_1537,Andhra Pradesh,Pune,Bulk Buyer,2022-02-26
+CUST1538,Customer_1538,Delhi,Kolkata,Prime,2022-08-03
+CUST1539,Customer_1539,Delhi,Kolkata,Prime,2022-11-30
+CUST1540,Customer_1540,Maharashtra,Delhi,Bulk Buyer,2023-03-23
+CUST1541,Customer_1541,Gujarat,Bangalore,Prime,2021-07-04
+CUST1542,Customer_1542,Gujarat,Chennai,Bulk Buyer,2021-06-24
+CUST1543,Customer_1543,Tamil Nadu,Pune,Bulk Buyer,2021-06-29
+CUST1544,Customer_1544,Maharashtra,Mumbai,First-time,2021-03-22
+CUST1545,Customer_1545,West Bengal,Vizag,Regular,2022-09-17
+CUST1546,Customer_1546,Tamil Nadu,Pune,Bulk Buyer,2023-06-11
+CUST1547,Customer_1547,West Bengal,Bangalore,First-time,2022-01-27
+CUST1548,Customer_1548,Gujarat,Ahmedabad,Regular,2022-09-27
+CUST1549,Customer_1549,Maharashtra,Vizag,Prime,2022-12-01
+CUST1550,Customer_1550,West Bengal,Hyderabad,Regular,2021-09-04
+CUST1551,Customer_1551,Maharashtra,Kolkata,Bulk Buyer,2022-05-25
+CUST1552,Customer_1552,Maharashtra,Bangalore,Bulk Buyer,2022-08-21
+CUST1553,Customer_1553,Gujarat,Hyderabad,Bulk Buyer,2021-05-27
+CUST1554,Customer_1554,Tamil Nadu,Delhi,Bulk Buyer,2021-08-26
+CUST1555,Customer_1555,Tamil Nadu,Mumbai,Bulk Buyer,2022-04-18
+CUST1556,Customer_1556,Maharashtra,Mumbai,First-time,2022-10-16
+CUST1557,Customer_1557,Telangana,Hyderabad,Bulk Buyer,2021-09-18
+CUST1558,Customer_1558,Karnataka,Kolkata,First-time,2022-04-16
+CUST1559,Customer_1559,Gujarat,Delhi,Prime,2021-09-19
+CUST1560,Customer_1560,Karnataka,Ahmedabad,Bulk Buyer,2022-11-14
+CUST1561,Customer_1561,Karnataka,Kolkata,Bulk Buyer,2021-01-10
+CUST1562,Customer_1562,Tamil Nadu,Pune,Regular,2023-04-04
+CUST1563,Customer_1563,Tamil Nadu,Mumbai,Prime,2022-04-22
+CUST1564,Customer_1564,Telangana,Pune,Bulk Buyer,2021-10-22
+CUST1565,Customer_1565,Karnataka,Vizag,Bulk Buyer,2022-11-25
+CUST1566,Customer_1566,Karnataka,Chennai,Prime,2022-07-14
+CUST1567,Customer_1567,Maharashtra,Bangalore,First-time,2021-06-11
+CUST1568,Customer_1568,Tamil Nadu,Delhi,Bulk Buyer,2021-03-17
+CUST1569,Customer_1569,Karnataka,Kolkata,Regular,2022-03-29
+CUST1570,Customer_1570,Delhi,Mumbai,Bulk Buyer,2021-12-20
+CUST1571,Customer_1571,Telangana,Pune,Regular,2022-08-25
+CUST1572,Customer_1572,West Bengal,Vizag,Regular,2021-11-03
+CUST1573,Customer_1573,Delhi,Bangalore,Bulk Buyer,2022-10-17
+CUST1574,Customer_1574,Delhi,Bangalore,Bulk Buyer,2022-03-11
+CUST1575,Customer_1575,West Bengal,Kolkata,Regular,2022-12-08
+CUST1576,Customer_1576,Gujarat,Delhi,Prime,2021-09-14
+CUST1577,Customer_1577,Gujarat,Ahmedabad,Prime,2022-04-13
+CUST1578,Customer_1578,Telangana,Kolkata,Bulk Buyer,2023-05-16
+CUST1579,Customer_1579,Delhi,Pune,First-time,2021-11-06
+CUST1580,Customer_1580,Karnataka,Chennai,Prime,2021-07-23
+CUST1581,Customer_1581,Tamil Nadu,Hyderabad,Bulk Buyer,2022-01-29
+CUST1582,Customer_1582,Telangana,Ahmedabad,Prime,2023-05-24
+CUST1583,Customer_1583,Maharashtra,Delhi,First-time,2022-05-10
+CUST1584,Customer_1584,West Bengal,Vizag,Bulk Buyer,2021-04-20
+CUST1585,Customer_1585,Delhi,Ahmedabad,First-time,2021-08-31
+CUST1586,Customer_1586,Telangana,Mumbai,Bulk Buyer,2022-01-26
+CUST1587,Customer_1587,Andhra Pradesh,Delhi,First-time,2022-08-09
+CUST1588,Customer_1588,Andhra Pradesh,Chennai,Prime,2022-01-03
+CUST1589,Customer_1589,Gujarat,Mumbai,Prime,2022-08-12
+CUST1590,Customer_1590,West Bengal,Ahmedabad,First-time,2021-10-30
+CUST1591,Customer_1591,Tamil Nadu,Hyderabad,First-time,2022-12-18
+CUST1592,Customer_1592,Karnataka,Hyderabad,First-time,2021-10-30
+CUST1593,Customer_1593,Tamil Nadu,Chennai,Bulk Buyer,2021-01-23
+CUST1594,Customer_1594,Tamil Nadu,Bangalore,Prime,2023-04-30
+CUST1595,Customer_1595,Tamil Nadu,Vizag,Bulk Buyer,2022-11-06
+CUST1596,Customer_1596,West Bengal,Bangalore,Prime,2022-02-10
+CUST1597,Customer_1597,Tamil Nadu,Hyderabad,Regular,2021-10-09
+CUST1598,Customer_1598,Maharashtra,Hyderabad,Bulk Buyer,2021-01-09
+CUST1599,Customer_1599,West Bengal,Pune,Prime,2022-08-03
+CUST1600,Customer_1600,Maharashtra,Mumbai,Prime,2023-06-05
+CUST1601,Customer_1601,West Bengal,Ahmedabad,Bulk Buyer,2022-12-04
+CUST1602,Customer_1602,Gujarat,Vizag,Bulk Buyer,2023-03-08
+CUST1603,Customer_1603,Telangana,Chennai,Prime,2023-02-02
+CUST1604,Customer_1604,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-02-20
+CUST1605,Customer_1605,Tamil Nadu,Pune,First-time,2022-09-13
+CUST1606,Customer_1606,Gujarat,Hyderabad,Bulk Buyer,2023-02-03
+CUST1607,Customer_1607,Telangana,Chennai,Bulk Buyer,2022-05-24
+CUST1608,Customer_1608,Andhra Pradesh,Hyderabad,Bulk Buyer,2023-05-03
+CUST1609,Customer_1609,Delhi,Vizag,Prime,2021-10-21
+CUST1610,Customer_1610,Karnataka,Mumbai,First-time,2023-03-06
+CUST1611,Customer_1611,Maharashtra,Ahmedabad,Regular,2023-03-30
+CUST1612,Customer_1612,Delhi,Ahmedabad,Regular,2021-08-24
+CUST1613,Customer_1613,West Bengal,Bangalore,First-time,2022-09-14
+CUST1614,Customer_1614,Andhra Pradesh,Chennai,First-time,2023-04-02
+CUST1615,Customer_1615,Delhi,Pune,First-time,2021-12-27
+CUST1616,Customer_1616,Karnataka,Bangalore,Prime,2021-08-13
+CUST1617,Customer_1617,Gujarat,Vizag,Regular,2022-10-14
+CUST1618,Customer_1618,Andhra Pradesh,Pune,First-time,2021-07-14
+CUST1619,Customer_1619,Delhi,Mumbai,Prime,2022-09-28
+CUST1620,Customer_1620,Maharashtra,Mumbai,Regular,2021-09-14
+CUST1621,Customer_1621,Maharashtra,Mumbai,Bulk Buyer,2022-11-26
+CUST1622,Customer_1622,Telangana,Mumbai,Prime,2023-02-13
+CUST1623,Customer_1623,Delhi,Bangalore,Regular,2023-01-09
+CUST1624,Customer_1624,Tamil Nadu,Delhi,Prime,2023-02-25
+CUST1625,Customer_1625,Delhi,Pune,Regular,2022-11-07
+CUST1626,Customer_1626,Gujarat,Chennai,Regular,2022-11-29
+CUST1627,Customer_1627,Andhra Pradesh,Vizag,Bulk Buyer,2023-05-09
+CUST1628,Customer_1628,Andhra Pradesh,Kolkata,Prime,2021-05-21
+CUST1629,Customer_1629,Gujarat,Hyderabad,First-time,2022-10-06
+CUST1630,Customer_1630,Delhi,Chennai,Bulk Buyer,2021-04-10
+CUST1631,Customer_1631,Gujarat,Hyderabad,Bulk Buyer,2022-10-05
+CUST1632,Customer_1632,Karnataka,Pune,Regular,2022-10-24
+CUST1633,Customer_1633,West Bengal,Chennai,First-time,2021-02-10
+CUST1634,Customer_1634,Gujarat,Mumbai,Prime,2021-11-13
+CUST1635,Customer_1635,Maharashtra,Mumbai,First-time,2023-03-19
+CUST1636,Customer_1636,Gujarat,Kolkata,First-time,2022-03-28
+CUST1637,Customer_1637,Andhra Pradesh,Hyderabad,First-time,2021-02-04
+CUST1638,Customer_1638,Maharashtra,Vizag,First-time,2022-08-17
+CUST1639,Customer_1639,Andhra Pradesh,Pune,First-time,2022-01-09
+CUST1640,Customer_1640,Telangana,Mumbai,Regular,2023-01-20
+CUST1641,Customer_1641,Tamil Nadu,Delhi,Regular,2021-05-15
+CUST1642,Customer_1642,Andhra Pradesh,Bangalore,Bulk Buyer,2021-04-03
+CUST1643,Customer_1643,Maharashtra,Bangalore,Regular,2021-10-30
+CUST1644,Customer_1644,Telangana,Vizag,Bulk Buyer,2021-12-01
+CUST1645,Customer_1645,Andhra Pradesh,Bangalore,Bulk Buyer,2023-02-05
+CUST1646,Customer_1646,Karnataka,Hyderabad,Prime,2022-03-02
+CUST1647,Customer_1647,Gujarat,Mumbai,First-time,2021-06-29
+CUST1648,Customer_1648,Tamil Nadu,Mumbai,Regular,2021-07-25
+CUST1649,Customer_1649,Andhra Pradesh,Delhi,Prime,2021-05-16
+CUST1650,Customer_1650,Telangana,Chennai,Regular,2023-03-17
+CUST1651,Customer_1651,Karnataka,Bangalore,Bulk Buyer,2022-07-07
+CUST1652,Customer_1652,Delhi,Hyderabad,Regular,2023-06-17
+CUST1653,Customer_1653,Telangana,Ahmedabad,First-time,2022-01-10
+CUST1654,Customer_1654,Gujarat,Bangalore,Bulk Buyer,2022-06-28
+CUST1655,Customer_1655,Telangana,Vizag,Bulk Buyer,2022-05-29
+CUST1656,Customer_1656,Karnataka,Chennai,Prime,2021-10-07
+CUST1657,Customer_1657,Telangana,Bangalore,First-time,2023-05-01
+CUST1658,Customer_1658,Karnataka,Hyderabad,Bulk Buyer,2021-06-18
+CUST1659,Customer_1659,Andhra Pradesh,Bangalore,First-time,2021-09-21
+CUST1660,Customer_1660,West Bengal,Vizag,Regular,2023-04-25
+CUST1661,Customer_1661,Karnataka,Ahmedabad,First-time,2022-05-09
+CUST1662,Customer_1662,Karnataka,Pune,Bulk Buyer,2023-04-06
+CUST1663,Customer_1663,Tamil Nadu,Kolkata,Prime,2021-10-30
+CUST1664,Customer_1664,Karnataka,Ahmedabad,Bulk Buyer,2023-02-04
+CUST1665,Customer_1665,Karnataka,Bangalore,First-time,2023-06-11
+CUST1666,Customer_1666,Delhi,Mumbai,First-time,2021-12-13
+CUST1667,Customer_1667,West Bengal,Delhi,Bulk Buyer,2023-04-04
+CUST1668,Customer_1668,Andhra Pradesh,Mumbai,First-time,2021-04-28
+CUST1669,Customer_1669,Gujarat,Ahmedabad,Regular,2022-04-25
+CUST1670,Customer_1670,Tamil Nadu,Mumbai,Bulk Buyer,2021-03-19
+CUST1671,Customer_1671,Delhi,Hyderabad,Prime,2021-05-25
+CUST1672,Customer_1672,Maharashtra,Mumbai,Bulk Buyer,2023-02-12
+CUST1673,Customer_1673,West Bengal,Chennai,Regular,2021-08-20
+CUST1674,Customer_1674,Andhra Pradesh,Pune,Regular,2023-05-31
+CUST1675,Customer_1675,Andhra Pradesh,Bangalore,Regular,2022-11-24
+CUST1676,Customer_1676,Maharashtra,Mumbai,Regular,2023-01-12
+CUST1677,Customer_1677,Gujarat,Vizag,Regular,2022-11-22
+CUST1678,Customer_1678,Karnataka,Pune,Prime,2022-02-11
+CUST1679,Customer_1679,Delhi,Pune,First-time,2023-05-17
+CUST1680,Customer_1680,Telangana,Mumbai,Regular,2023-04-04
+CUST1681,Customer_1681,Tamil Nadu,Pune,Regular,2022-07-25
+CUST1682,Customer_1682,Telangana,Delhi,Bulk Buyer,2022-01-10
+CUST1683,Customer_1683,Maharashtra,Mumbai,Prime,2021-04-03
+CUST1684,Customer_1684,Andhra Pradesh,Hyderabad,Prime,2023-03-21
+CUST1685,Customer_1685,Gujarat,Ahmedabad,First-time,2022-02-09
+CUST1686,Customer_1686,Andhra Pradesh,Chennai,Prime,2021-01-15
+CUST1687,Customer_1687,Tamil Nadu,Kolkata,Bulk Buyer,2021-09-28
+CUST1688,Customer_1688,Andhra Pradesh,Pune,Bulk Buyer,2022-07-04
+CUST1689,Customer_1689,Andhra Pradesh,Hyderabad,First-time,2021-05-07
+CUST1690,Customer_1690,Tamil Nadu,Bangalore,Bulk Buyer,2022-04-11
+CUST1691,Customer_1691,Delhi,Bangalore,Regular,2022-01-13
+CUST1692,Customer_1692,Delhi,Chennai,Regular,2022-11-20
+CUST1693,Customer_1693,Tamil Nadu,Pune,Bulk Buyer,2023-02-06
+CUST1694,Customer_1694,Gujarat,Delhi,First-time,2022-11-20
+CUST1695,Customer_1695,Maharashtra,Chennai,Prime,2021-09-26
+CUST1696,Customer_1696,West Bengal,Pune,First-time,2022-08-22
+CUST1697,Customer_1697,Andhra Pradesh,Hyderabad,Prime,2022-01-26
+CUST1698,Customer_1698,Gujarat,Ahmedabad,Bulk Buyer,2023-04-23
+CUST1699,Customer_1699,Andhra Pradesh,Delhi,Bulk Buyer,2022-10-16
+CUST1700,Customer_1700,West Bengal,Kolkata,Regular,2022-01-16
+CUST1701,Customer_1701,Maharashtra,Bangalore,Prime,2021-04-21
+CUST1702,Customer_1702,Delhi,Vizag,First-time,2022-11-23
+CUST1703,Customer_1703,Gujarat,Hyderabad,Bulk Buyer,2021-08-28
+CUST1704,Customer_1704,Karnataka,Bangalore,First-time,2022-04-28
+CUST1705,Customer_1705,Karnataka,Mumbai,Regular,2021-01-26
+CUST1706,Customer_1706,West Bengal,Vizag,Prime,2022-09-27
+CUST1707,Customer_1707,Karnataka,Bangalore,Prime,2022-07-29
+CUST1708,Customer_1708,Delhi,Chennai,Bulk Buyer,2021-12-02
+CUST1709,Customer_1709,West Bengal,Delhi,Prime,2022-09-17
+CUST1710,Customer_1710,Delhi,Bangalore,Bulk Buyer,2021-08-15
+CUST1711,Customer_1711,Maharashtra,Kolkata,Regular,2022-10-26
+CUST1712,Customer_1712,Andhra Pradesh,Ahmedabad,Prime,2021-03-06
+CUST1713,Customer_1713,Maharashtra,Chennai,Bulk Buyer,2022-10-13
+CUST1714,Customer_1714,Maharashtra,Hyderabad,First-time,2023-04-24
+CUST1715,Customer_1715,Delhi,Hyderabad,Bulk Buyer,2022-04-21
+CUST1716,Customer_1716,West Bengal,Hyderabad,Prime,2022-12-19
+CUST1717,Customer_1717,West Bengal,Hyderabad,Regular,2021-11-06
+CUST1718,Customer_1718,Karnataka,Ahmedabad,Prime,2022-10-27
+CUST1719,Customer_1719,Telangana,Bangalore,Prime,2022-02-23
+CUST1720,Customer_1720,Andhra Pradesh,Pune,Bulk Buyer,2021-04-30
+CUST1721,Customer_1721,Delhi,Bangalore,First-time,2021-05-24
+CUST1722,Customer_1722,Karnataka,Mumbai,Prime,2021-02-16
+CUST1723,Customer_1723,Gujarat,Delhi,First-time,2021-02-08
+CUST1724,Customer_1724,Telangana,Vizag,Bulk Buyer,2021-11-08
+CUST1725,Customer_1725,Telangana,Pune,First-time,2022-05-20
+CUST1726,Customer_1726,Delhi,Pune,Bulk Buyer,2021-04-29
+CUST1727,Customer_1727,Tamil Nadu,Bangalore,Regular,2021-04-10
+CUST1728,Customer_1728,Andhra Pradesh,Pune,First-time,2021-08-29
+CUST1729,Customer_1729,Telangana,Mumbai,First-time,2022-07-05
+CUST1730,Customer_1730,Delhi,Vizag,Regular,2021-05-19
+CUST1731,Customer_1731,Delhi,Kolkata,First-time,2022-02-02
+CUST1732,Customer_1732,Karnataka,Ahmedabad,Regular,2022-04-10
+CUST1733,Customer_1733,Gujarat,Bangalore,Prime,2022-01-15
+CUST1734,Customer_1734,Tamil Nadu,Ahmedabad,Bulk Buyer,2022-11-18
+CUST1735,Customer_1735,Andhra Pradesh,Kolkata,Regular,2023-01-31
+CUST1736,Customer_1736,West Bengal,Bangalore,First-time,2022-12-15
+CUST1737,Customer_1737,Maharashtra,Bangalore,Regular,2022-07-08
+CUST1738,Customer_1738,Gujarat,Vizag,First-time,2022-03-06
+CUST1739,Customer_1739,Gujarat,Ahmedabad,Prime,2022-08-25
+CUST1740,Customer_1740,Karnataka,Hyderabad,Regular,2023-01-31
+CUST1741,Customer_1741,West Bengal,Ahmedabad,Prime,2023-01-15
+CUST1742,Customer_1742,Telangana,Delhi,Bulk Buyer,2021-06-08
+CUST1743,Customer_1743,Telangana,Delhi,First-time,2022-03-01
+CUST1744,Customer_1744,Karnataka,Bangalore,First-time,2022-11-02
+CUST1745,Customer_1745,Delhi,Hyderabad,Prime,2021-04-12
+CUST1746,Customer_1746,Telangana,Chennai,Bulk Buyer,2023-05-04
+CUST1747,Customer_1747,Tamil Nadu,Kolkata,Regular,2022-05-17
+CUST1748,Customer_1748,Andhra Pradesh,Mumbai,Regular,2022-09-23
+CUST1749,Customer_1749,Gujarat,Hyderabad,First-time,2022-02-22
+CUST1750,Customer_1750,Gujarat,Mumbai,Prime,2021-10-14
+CUST1751,Customer_1751,Tamil Nadu,Ahmedabad,Prime,2021-02-03
+CUST1752,Customer_1752,West Bengal,Ahmedabad,Regular,2022-12-08
+CUST1753,Customer_1753,Telangana,Mumbai,Bulk Buyer,2022-01-15
+CUST1754,Customer_1754,Gujarat,Kolkata,Bulk Buyer,2021-08-11
+CUST1755,Customer_1755,Maharashtra,Hyderabad,Regular,2022-03-31
+CUST1756,Customer_1756,West Bengal,Chennai,Regular,2022-04-01
+CUST1757,Customer_1757,Andhra Pradesh,Bangalore,Prime,2021-08-30
+CUST1758,Customer_1758,Andhra Pradesh,Vizag,Bulk Buyer,2023-05-26
+CUST1759,Customer_1759,Gujarat,Ahmedabad,Regular,2022-01-07
+CUST1760,Customer_1760,Karnataka,Delhi,Regular,2021-04-12
+CUST1761,Customer_1761,West Bengal,Kolkata,First-time,2022-12-04
+CUST1762,Customer_1762,Gujarat,Vizag,Regular,2022-01-12
+CUST1763,Customer_1763,Karnataka,Chennai,Regular,2022-07-12
+CUST1764,Customer_1764,Gujarat,Pune,Bulk Buyer,2022-10-23
+CUST1765,Customer_1765,Maharashtra,Bangalore,Prime,2022-01-03
+CUST1766,Customer_1766,West Bengal,Ahmedabad,Bulk Buyer,2021-03-04
+CUST1767,Customer_1767,Delhi,Bangalore,Prime,2022-02-12
+CUST1768,Customer_1768,Andhra Pradesh,Vizag,First-time,2021-10-10
+CUST1769,Customer_1769,Gujarat,Bangalore,Regular,2021-07-14
+CUST1770,Customer_1770,Maharashtra,Pune,First-time,2021-05-06
+CUST1771,Customer_1771,Karnataka,Vizag,Prime,2023-05-19
+CUST1772,Customer_1772,Karnataka,Ahmedabad,Bulk Buyer,2023-04-24
+CUST1773,Customer_1773,Andhra Pradesh,Hyderabad,Bulk Buyer,2022-04-11
+CUST1774,Customer_1774,Tamil Nadu,Delhi,First-time,2021-04-04
+CUST1775,Customer_1775,Gujarat,Vizag,Prime,2022-11-10
+CUST1776,Customer_1776,West Bengal,Pune,First-time,2021-08-06
+CUST1777,Customer_1777,Telangana,Vizag,First-time,2022-10-20
+CUST1778,Customer_1778,Karnataka,Vizag,Regular,2022-10-17
+CUST1779,Customer_1779,West Bengal,Ahmedabad,First-time,2022-09-04
+CUST1780,Customer_1780,West Bengal,Vizag,Regular,2021-01-22
+CUST1781,Customer_1781,Delhi,Delhi,Regular,2021-02-21
+CUST1782,Customer_1782,West Bengal,Bangalore,Bulk Buyer,2023-03-17
+CUST1783,Customer_1783,West Bengal,Ahmedabad,Regular,2021-12-08
+CUST1784,Customer_1784,Delhi,Delhi,Regular,2021-09-07
+CUST1785,Customer_1785,Karnataka,Ahmedabad,Bulk Buyer,2021-05-09
+CUST1786,Customer_1786,West Bengal,Delhi,First-time,2023-03-17
+CUST1787,Customer_1787,Tamil Nadu,Pune,Prime,2022-08-02
+CUST1788,Customer_1788,Tamil Nadu,Delhi,Prime,2021-07-30
+CUST1789,Customer_1789,Maharashtra,Mumbai,Prime,2021-03-12
+CUST1790,Customer_1790,Delhi,Delhi,First-time,2023-04-30
+CUST1791,Customer_1791,Maharashtra,Hyderabad,Regular,2023-02-23
+CUST1792,Customer_1792,Delhi,Hyderabad,Prime,2022-07-22
+CUST1793,Customer_1793,Gujarat,Kolkata,First-time,2021-08-01
+CUST1794,Customer_1794,Gujarat,Mumbai,Regular,2022-08-24
+CUST1795,Customer_1795,West Bengal,Mumbai,Bulk Buyer,2021-08-10
+CUST1796,Customer_1796,Telangana,Bangalore,Prime,2023-04-13
+CUST1797,Customer_1797,Gujarat,Mumbai,Regular,2023-06-10
+CUST1798,Customer_1798,Telangana,Bangalore,Prime,2021-08-27
+CUST1799,Customer_1799,Gujarat,Kolkata,Prime,2021-12-03
+CUST1800,Customer_1800,Andhra Pradesh,Kolkata,Prime,2023-03-04
+CUST1801,Customer_1801,Gujarat,Pune,Regular,2021-06-01
+CUST1802,Customer_1802,Maharashtra,Hyderabad,First-time,2023-03-19
+CUST1803,Customer_1803,Karnataka,Delhi,Regular,2022-09-03
+CUST1804,Customer_1804,West Bengal,Delhi,Prime,2021-01-03
+CUST1805,Customer_1805,Maharashtra,Chennai,Regular,2021-10-11
+CUST1806,Customer_1806,Karnataka,Ahmedabad,Bulk Buyer,2023-05-30
+CUST1807,Customer_1807,Tamil Nadu,Pune,First-time,2021-05-29
+CUST1808,Customer_1808,Maharashtra,Chennai,Regular,2021-05-14
+CUST1809,Customer_1809,Tamil Nadu,Chennai,Bulk Buyer,2022-07-08
+CUST1810,Customer_1810,Telangana,Vizag,First-time,2021-09-14
+CUST1811,Customer_1811,Telangana,Vizag,Bulk Buyer,2023-03-29
+CUST1812,Customer_1812,Andhra Pradesh,Chennai,First-time,2021-06-28
+CUST1813,Customer_1813,Gujarat,Mumbai,Regular,2021-04-23
+CUST1814,Customer_1814,Maharashtra,Ahmedabad,Bulk Buyer,2022-11-08
+CUST1815,Customer_1815,Tamil Nadu,Pune,Prime,2023-06-07
+CUST1816,Customer_1816,Karnataka,Chennai,Bulk Buyer,2021-01-27
+CUST1817,Customer_1817,Telangana,Delhi,First-time,2021-05-15
+CUST1818,Customer_1818,Gujarat,Ahmedabad,Regular,2021-01-16
+CUST1819,Customer_1819,Telangana,Vizag,First-time,2022-01-02
+CUST1820,Customer_1820,Karnataka,Delhi,Bulk Buyer,2023-03-20
+CUST1821,Customer_1821,Gujarat,Vizag,Bulk Buyer,2023-03-19
+CUST1822,Customer_1822,Gujarat,Vizag,Prime,2021-09-01
+CUST1823,Customer_1823,Tamil Nadu,Ahmedabad,Regular,2022-08-26
+CUST1824,Customer_1824,Tamil Nadu,Vizag,Regular,2021-11-28
+CUST1825,Customer_1825,Maharashtra,Kolkata,Bulk Buyer,2021-01-17
+CUST1826,Customer_1826,Maharashtra,Hyderabad,Regular,2021-06-28
+CUST1827,Customer_1827,Delhi,Kolkata,Prime,2021-09-29
+CUST1828,Customer_1828,West Bengal,Hyderabad,First-time,2021-02-23
+CUST1829,Customer_1829,Delhi,Vizag,Regular,2021-05-10
+CUST1830,Customer_1830,Andhra Pradesh,Pune,Bulk Buyer,2023-01-30
+CUST1831,Customer_1831,Telangana,Pune,First-time,2022-03-08
+CUST1832,Customer_1832,Maharashtra,Hyderabad,First-time,2022-06-23
+CUST1833,Customer_1833,Tamil Nadu,Delhi,Prime,2021-04-27
+CUST1834,Customer_1834,Karnataka,Ahmedabad,Bulk Buyer,2023-02-03
+CUST1835,Customer_1835,Tamil Nadu,Vizag,Regular,2021-03-07
+CUST1836,Customer_1836,Telangana,Ahmedabad,Bulk Buyer,2022-05-03
+CUST1837,Customer_1837,Delhi,Kolkata,First-time,2022-04-05
+CUST1838,Customer_1838,Tamil Nadu,Pune,Bulk Buyer,2023-03-08
+CUST1839,Customer_1839,West Bengal,Mumbai,Regular,2022-01-06
+CUST1840,Customer_1840,Andhra Pradesh,Kolkata,Regular,2022-06-10
+CUST1841,Customer_1841,Telangana,Kolkata,Prime,2022-08-31
+CUST1842,Customer_1842,Delhi,Hyderabad,Regular,2021-04-22
+CUST1843,Customer_1843,West Bengal,Bangalore,Regular,2022-04-08
+CUST1844,Customer_1844,Karnataka,Kolkata,Bulk Buyer,2022-05-31
+CUST1845,Customer_1845,Delhi,Vizag,Bulk Buyer,2021-08-15
+CUST1846,Customer_1846,Gujarat,Chennai,First-time,2022-09-22
+CUST1847,Customer_1847,West Bengal,Chennai,Prime,2021-02-14
+CUST1848,Customer_1848,West Bengal,Vizag,Bulk Buyer,2023-01-15
+CUST1849,Customer_1849,Andhra Pradesh,Bangalore,Regular,2023-03-14
+CUST1850,Customer_1850,Telangana,Bangalore,First-time,2023-06-07
+CUST1851,Customer_1851,Karnataka,Hyderabad,Bulk Buyer,2022-11-06
+CUST1852,Customer_1852,Andhra Pradesh,Pune,Prime,2022-06-18
+CUST1853,Customer_1853,Delhi,Ahmedabad,Prime,2021-11-05
+CUST1854,Customer_1854,Andhra Pradesh,Bangalore,First-time,2022-04-15
+CUST1855,Customer_1855,West Bengal,Mumbai,First-time,2022-10-21
+CUST1856,Customer_1856,Telangana,Hyderabad,First-time,2021-02-01
+CUST1857,Customer_1857,Maharashtra,Delhi,First-time,2021-03-04
+CUST1858,Customer_1858,Andhra Pradesh,Hyderabad,First-time,2022-05-06
+CUST1859,Customer_1859,Gujarat,Kolkata,Regular,2023-05-18
+CUST1860,Customer_1860,Andhra Pradesh,Ahmedabad,Regular,2022-02-16
+CUST1861,Customer_1861,Delhi,Delhi,Bulk Buyer,2022-03-13
+CUST1862,Customer_1862,Delhi,Delhi,Prime,2022-12-04
+CUST1863,Customer_1863,Karnataka,Mumbai,Regular,2021-04-21
+CUST1864,Customer_1864,Delhi,Mumbai,Regular,2022-05-18
+CUST1865,Customer_1865,Tamil Nadu,Mumbai,Regular,2022-12-31
+CUST1866,Customer_1866,Telangana,Hyderabad,Bulk Buyer,2022-03-31
+CUST1867,Customer_1867,Telangana,Ahmedabad,First-time,2021-03-17
+CUST1868,Customer_1868,Maharashtra,Hyderabad,Bulk Buyer,2021-03-24
+CUST1869,Customer_1869,Maharashtra,Chennai,Prime,2021-11-26
+CUST1870,Customer_1870,Telangana,Kolkata,Prime,2022-09-15
+CUST1871,Customer_1871,Gujarat,Kolkata,Prime,2021-06-01
+CUST1872,Customer_1872,Maharashtra,Mumbai,Prime,2021-03-09
+CUST1873,Customer_1873,Karnataka,Chennai,Regular,2021-05-10
+CUST1874,Customer_1874,Delhi,Bangalore,Regular,2021-10-09
+CUST1875,Customer_1875,Telangana,Bangalore,Bulk Buyer,2022-10-02
+CUST1876,Customer_1876,West Bengal,Mumbai,First-time,2022-10-11
+CUST1877,Customer_1877,Maharashtra,Hyderabad,Prime,2022-08-23
+CUST1878,Customer_1878,Telangana,Mumbai,Bulk Buyer,2022-07-16
+CUST1879,Customer_1879,Tamil Nadu,Pune,Regular,2022-12-31
+CUST1880,Customer_1880,Andhra Pradesh,Delhi,Regular,2021-11-29
+CUST1881,Customer_1881,Delhi,Kolkata,First-time,2022-01-26
+CUST1882,Customer_1882,Telangana,Bangalore,First-time,2022-09-04
+CUST1883,Customer_1883,Andhra Pradesh,Vizag,First-time,2022-06-28
+CUST1884,Customer_1884,Maharashtra,Bangalore,Bulk Buyer,2021-10-29
+CUST1885,Customer_1885,Andhra Pradesh,Kolkata,Regular,2022-04-10
+CUST1886,Customer_1886,Delhi,Delhi,Regular,2022-06-02
+CUST1887,Customer_1887,Telangana,Kolkata,First-time,2022-09-12
+CUST1888,Customer_1888,Tamil Nadu,Vizag,Prime,2022-03-17
+CUST1889,Customer_1889,Gujarat,Mumbai,First-time,2021-04-12
+CUST1890,Customer_1890,Maharashtra,Chennai,Bulk Buyer,2023-03-24
+CUST1891,Customer_1891,Telangana,Vizag,First-time,2022-12-20
+CUST1892,Customer_1892,Delhi,Kolkata,First-time,2021-04-28
+CUST1893,Customer_1893,Maharashtra,Kolkata,Bulk Buyer,2023-05-24
+CUST1894,Customer_1894,Karnataka,Pune,First-time,2022-11-02
+CUST1895,Customer_1895,Andhra Pradesh,Pune,Regular,2022-10-29
+CUST1896,Customer_1896,Gujarat,Ahmedabad,Prime,2023-06-18
+CUST1897,Customer_1897,Delhi,Pune,First-time,2023-02-27
+CUST1898,Customer_1898,Karnataka,Hyderabad,Bulk Buyer,2022-07-19
+CUST1899,Customer_1899,West Bengal,Chennai,Prime,2023-01-09
+CUST1900,Customer_1900,Telangana,Delhi,Bulk Buyer,2023-06-06
+CUST1901,Customer_1901,Tamil Nadu,Vizag,Prime,2021-08-09
+CUST1902,Customer_1902,Maharashtra,Kolkata,Prime,2022-03-17
+CUST1903,Customer_1903,Andhra Pradesh,Ahmedabad,First-time,2022-04-08
+CUST1904,Customer_1904,Maharashtra,Ahmedabad,Regular,2021-08-22
+CUST1905,Customer_1905,Gujarat,Delhi,First-time,2022-02-28
+CUST1906,Customer_1906,Telangana,Chennai,Bulk Buyer,2021-12-14
+CUST1907,Customer_1907,Maharashtra,Vizag,Bulk Buyer,2023-04-28
+CUST1908,Customer_1908,Andhra Pradesh,Bangalore,Prime,2022-04-10
+CUST1909,Customer_1909,Telangana,Pune,Prime,2022-02-13
+CUST1910,Customer_1910,Maharashtra,Mumbai,Regular,2022-03-02
+CUST1911,Customer_1911,Tamil Nadu,Ahmedabad,First-time,2023-01-18
+CUST1912,Customer_1912,Delhi,Pune,Bulk Buyer,2021-04-08
+CUST1913,Customer_1913,Telangana,Pune,Prime,2021-11-17
+CUST1914,Customer_1914,Delhi,Hyderabad,Regular,2022-03-14
+CUST1915,Customer_1915,West Bengal,Chennai,Bulk Buyer,2021-11-17
+CUST1916,Customer_1916,Telangana,Mumbai,Prime,2022-11-13
+CUST1917,Customer_1917,Tamil Nadu,Bangalore,Bulk Buyer,2021-09-19
+CUST1918,Customer_1918,Delhi,Kolkata,Regular,2022-01-19
+CUST1919,Customer_1919,Karnataka,Hyderabad,Regular,2021-06-06
+CUST1920,Customer_1920,Andhra Pradesh,Pune,Bulk Buyer,2022-12-05
+CUST1921,Customer_1921,Karnataka,Pune,First-time,2022-05-01
+CUST1922,Customer_1922,Maharashtra,Mumbai,Bulk Buyer,2021-03-10
+CUST1923,Customer_1923,Tamil Nadu,Mumbai,Prime,2021-04-04
+CUST1924,Customer_1924,Karnataka,Mumbai,First-time,2023-05-02
+CUST1925,Customer_1925,Telangana,Pune,Prime,2021-03-29
+CUST1926,Customer_1926,Maharashtra,Ahmedabad,Bulk Buyer,2021-04-06
+CUST1927,Customer_1927,Maharashtra,Vizag,First-time,2022-03-19
+CUST1928,Customer_1928,Karnataka,Pune,Prime,2021-04-09
+CUST1929,Customer_1929,West Bengal,Hyderabad,Bulk Buyer,2023-02-02
+CUST1930,Customer_1930,Karnataka,Chennai,Bulk Buyer,2023-01-27
+CUST1931,Customer_1931,West Bengal,Bangalore,First-time,2022-01-17
+CUST1932,Customer_1932,Tamil Nadu,Kolkata,Bulk Buyer,2023-04-12
+CUST1933,Customer_1933,Andhra Pradesh,Bangalore,Regular,2021-05-14
+CUST1934,Customer_1934,Karnataka,Pune,Prime,2022-07-24
+CUST1935,Customer_1935,Gujarat,Hyderabad,Prime,2021-03-03
+CUST1936,Customer_1936,West Bengal,Pune,Bulk Buyer,2022-08-24
+CUST1937,Customer_1937,Karnataka,Chennai,Bulk Buyer,2022-07-30
+CUST1938,Customer_1938,Delhi,Ahmedabad,Regular,2022-07-30
+CUST1939,Customer_1939,Telangana,Kolkata,First-time,2021-12-04
+CUST1940,Customer_1940,Gujarat,Chennai,Bulk Buyer,2022-11-18
+CUST1941,Customer_1941,Gujarat,Pune,Bulk Buyer,2021-05-06
+CUST1942,Customer_1942,West Bengal,Hyderabad,Bulk Buyer,2022-02-25
+CUST1943,Customer_1943,Delhi,Chennai,Bulk Buyer,2021-12-29
+CUST1944,Customer_1944,Delhi,Delhi,Prime,2023-06-14
+CUST1945,Customer_1945,Maharashtra,Hyderabad,Bulk Buyer,2022-11-13
+CUST1946,Customer_1946,West Bengal,Ahmedabad,Prime,2023-02-08
+CUST1947,Customer_1947,Andhra Pradesh,Pune,Bulk Buyer,2022-03-10
+CUST1948,Customer_1948,Telangana,Mumbai,First-time,2023-06-08
+CUST1949,Customer_1949,Tamil Nadu,Kolkata,Regular,2023-01-09
+CUST1950,Customer_1950,Gujarat,Vizag,First-time,2021-02-22
+CUST1951,Customer_1951,Tamil Nadu,Mumbai,Bulk Buyer,2021-10-22
+CUST1952,Customer_1952,Karnataka,Pune,Bulk Buyer,2022-09-07
+CUST1953,Customer_1953,Karnataka,Delhi,Bulk Buyer,2021-11-16
+CUST1954,Customer_1954,Tamil Nadu,Mumbai,First-time,2021-12-27
+CUST1955,Customer_1955,Karnataka,Kolkata,Bulk Buyer,2021-04-17
+CUST1956,Customer_1956,Andhra Pradesh,Hyderabad,First-time,2022-08-15
+CUST1957,Customer_1957,Delhi,Delhi,Prime,2022-06-04
+CUST1958,Customer_1958,Karnataka,Delhi,Regular,2021-08-06
+CUST1959,Customer_1959,Maharashtra,Chennai,Regular,2021-06-08
+CUST1960,Customer_1960,Karnataka,Kolkata,First-time,2022-11-04
+CUST1961,Customer_1961,Telangana,Mumbai,Prime,2022-05-09
+CUST1962,Customer_1962,Andhra Pradesh,Chennai,First-time,2021-08-18
+CUST1963,Customer_1963,Telangana,Delhi,Prime,2023-05-18
+CUST1964,Customer_1964,Telangana,Chennai,Bulk Buyer,2021-04-21
+CUST1965,Customer_1965,Maharashtra,Bangalore,Prime,2021-12-25
+CUST1966,Customer_1966,Andhra Pradesh,Kolkata,Prime,2023-05-16
+CUST1967,Customer_1967,Andhra Pradesh,Ahmedabad,Prime,2022-07-24
+CUST1968,Customer_1968,West Bengal,Hyderabad,Regular,2022-01-12
+CUST1969,Customer_1969,Andhra Pradesh,Delhi,Prime,2021-04-28
+CUST1970,Customer_1970,Andhra Pradesh,Kolkata,Bulk Buyer,2023-02-20
+CUST1971,Customer_1971,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-10-13
+CUST1972,Customer_1972,Maharashtra,Ahmedabad,Bulk Buyer,2022-08-11
+CUST1973,Customer_1973,Karnataka,Pune,Prime,2021-08-20
+CUST1974,Customer_1974,West Bengal,Chennai,First-time,2023-04-07
+CUST1975,Customer_1975,Telangana,Ahmedabad,First-time,2022-03-16
+CUST1976,Customer_1976,Andhra Pradesh,Bangalore,Bulk Buyer,2023-05-16
+CUST1977,Customer_1977,Gujarat,Kolkata,Regular,2022-07-29
+CUST1978,Customer_1978,Karnataka,Vizag,First-time,2023-02-25
+CUST1979,Customer_1979,Karnataka,Vizag,Prime,2023-04-19
+CUST1980,Customer_1980,Telangana,Delhi,First-time,2022-09-29
+CUST1981,Customer_1981,Maharashtra,Chennai,Bulk Buyer,2022-09-21
+CUST1982,Customer_1982,Tamil Nadu,Ahmedabad,Regular,2022-11-23
+CUST1983,Customer_1983,Tamil Nadu,Kolkata,First-time,2022-10-21
+CUST1984,Customer_1984,Karnataka,Delhi,First-time,2022-07-25
+CUST1985,Customer_1985,Delhi,Mumbai,Bulk Buyer,2021-01-27
+CUST1986,Customer_1986,Delhi,Ahmedabad,Regular,2022-09-16
+CUST1987,Customer_1987,Telangana,Chennai,Regular,2022-11-05
+CUST1988,Customer_1988,Tamil Nadu,Vizag,Bulk Buyer,2023-04-30
+CUST1989,Customer_1989,Karnataka,Pune,Prime,2022-12-12
+CUST1990,Customer_1990,Maharashtra,Kolkata,First-time,2021-10-01
+CUST1991,Customer_1991,Tamil Nadu,Hyderabad,Prime,2021-01-30
+CUST1992,Customer_1992,Karnataka,Delhi,First-time,2021-07-04
+CUST1993,Customer_1993,Karnataka,Kolkata,First-time,2021-10-07
+CUST1994,Customer_1994,Andhra Pradesh,Kolkata,Prime,2022-12-21
+CUST1995,Customer_1995,Maharashtra,Bangalore,Bulk Buyer,2023-02-20
+CUST1996,Customer_1996,Andhra Pradesh,Mumbai,Bulk Buyer,2021-11-13
+CUST1997,Customer_1997,Telangana,Ahmedabad,First-time,2021-12-14
+CUST1998,Customer_1998,Andhra Pradesh,Ahmedabad,Bulk Buyer,2021-12-26
+CUST1999,Customer_1999,Gujarat,Chennai,First-time,2021-01-07
+CUST2000,Customer_2000,Andhra Pradesh,Hyderabad,Bulk Buyer,2021-07-05

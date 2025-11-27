@@ -1,0 +1,321 @@
+product_id,product_name,category,sub_category,brand,cost_price
+PROD0001,Mobiles_Item_1,Electronics,Mobiles,Boat,18657
+PROD0002,Mobiles_Item_2,Electronics,Mobiles,Dabur,13232
+PROD0003,Mobiles_Item_3,Electronics,Mobiles,Apple,4748
+PROD0004,Mobiles_Item_4,Electronics,Mobiles,ITC,1104
+PROD0005,Mobiles_Item_5,Electronics,Mobiles,Apple,17482
+PROD0006,Mobiles_Item_6,Electronics,Mobiles,Lenovo,12427
+PROD0007,Mobiles_Item_7,Electronics,Mobiles,Puma,14965
+PROD0008,Mobiles_Item_8,Electronics,Mobiles,Adidas,5257
+PROD0009,Mobiles_Item_9,Electronics,Mobiles,Adidas,10311
+PROD0010,Mobiles_Item_10,Electronics,Mobiles,ITC,10729
+PROD0011,Mobiles_Item_11,Electronics,Mobiles,Nestle,19637
+PROD0012,Mobiles_Item_12,Electronics,Mobiles,Apple,1823
+PROD0013,Mobiles_Item_13,Electronics,Mobiles,Boat,5258
+PROD0014,Mobiles_Item_14,Electronics,Mobiles,Nestle,1730
+PROD0015,Mobiles_Item_15,Electronics,Mobiles,Dabur,2773
+PROD0016,Mobiles_Item_16,Electronics,Mobiles,Nike,14619
+PROD0017,Mobiles_Item_17,Electronics,Mobiles,Dabur,13994
+PROD0018,Mobiles_Item_18,Electronics,Mobiles,Philips,19992
+PROD0019,Mobiles_Item_19,Electronics,Mobiles,Philips,13671
+PROD0020,Mobiles_Item_20,Electronics,Mobiles,Nike,7163
+PROD0021,Laptops_Item_21,Electronics,Laptops,LG,3829
+PROD0022,Laptops_Item_22,Electronics,Laptops,Adidas,14187
+PROD0023,Laptops_Item_23,Electronics,Laptops,Apple,9381
+PROD0024,Laptops_Item_24,Electronics,Laptops,Dabur,19535
+PROD0025,Laptops_Item_25,Electronics,Laptops,Philips,17366
+PROD0026,Laptops_Item_26,Electronics,Laptops,Dabur,10206
+PROD0027,Laptops_Item_27,Electronics,Laptops,Samsung,7325
+PROD0028,Laptops_Item_28,Electronics,Laptops,Puma,19738
+PROD0029,Laptops_Item_29,Electronics,Laptops,Samsung,351
+PROD0030,Laptops_Item_30,Electronics,Laptops,Lenovo,9976
+PROD0031,Laptops_Item_31,Electronics,Laptops,Lenovo,4596
+PROD0032,Laptops_Item_32,Electronics,Laptops,Nike,9584
+PROD0033,Laptops_Item_33,Electronics,Laptops,Adidas,4031
+PROD0034,Laptops_Item_34,Electronics,Laptops,Samsung,16398
+PROD0035,Laptops_Item_35,Electronics,Laptops,ITC,14211
+PROD0036,Laptops_Item_36,Electronics,Laptops,Boat,4333
+PROD0037,Laptops_Item_37,Electronics,Laptops,Puma,17551
+PROD0038,Laptops_Item_38,Electronics,Laptops,ITC,7640
+PROD0039,Laptops_Item_39,Electronics,Laptops,LG,18408
+PROD0040,Laptops_Item_40,Electronics,Laptops,Dabur,11705
+PROD0041,Earphones_Item_41,Electronics,Earphones,Apple,13111
+PROD0042,Earphones_Item_42,Electronics,Earphones,ITC,1486
+PROD0043,Earphones_Item_43,Electronics,Earphones,Puma,714
+PROD0044,Earphones_Item_44,Electronics,Earphones,Philips,2651
+PROD0045,Earphones_Item_45,Electronics,Earphones,Adidas,18966
+PROD0046,Earphones_Item_46,Electronics,Earphones,Puma,18889
+PROD0047,Earphones_Item_47,Electronics,Earphones,Puma,13786
+PROD0048,Earphones_Item_48,Electronics,Earphones,Nike,3874
+PROD0049,Earphones_Item_49,Electronics,Earphones,Puma,783
+PROD0050,Earphones_Item_50,Electronics,Earphones,Adidas,5731
+PROD0051,Earphones_Item_51,Electronics,Earphones,Nestle,15176
+PROD0052,Earphones_Item_52,Electronics,Earphones,ITC,11957
+PROD0053,Earphones_Item_53,Electronics,Earphones,Apple,14410
+PROD0054,Earphones_Item_54,Electronics,Earphones,Apple,8072
+PROD0055,Earphones_Item_55,Electronics,Earphones,Puma,19396
+PROD0056,Earphones_Item_56,Electronics,Earphones,Puma,17269
+PROD0057,Earphones_Item_57,Electronics,Earphones,Apple,13068
+PROD0058,Earphones_Item_58,Electronics,Earphones,Nike,11225
+PROD0059,Earphones_Item_59,Electronics,Earphones,Lenovo,11013
+PROD0060,Earphones_Item_60,Electronics,Earphones,Boat,2602
+PROD0061,Smartwatches_Item_61,Electronics,Smartwatches,LG,3836
+PROD0062,Smartwatches_Item_62,Electronics,Smartwatches,LG,16810
+PROD0063,Smartwatches_Item_63,Electronics,Smartwatches,Lenovo,11548
+PROD0064,Smartwatches_Item_64,Electronics,Smartwatches,Adidas,4939
+PROD0065,Smartwatches_Item_65,Electronics,Smartwatches,Lenovo,3468
+PROD0066,Smartwatches_Item_66,Electronics,Smartwatches,Boat,8487
+PROD0067,Smartwatches_Item_67,Electronics,Smartwatches,Lenovo,5785
+PROD0068,Smartwatches_Item_68,Electronics,Smartwatches,Nestle,5109
+PROD0069,Smartwatches_Item_69,Electronics,Smartwatches,Dabur,2569
+PROD0070,Smartwatches_Item_70,Electronics,Smartwatches,Boat,16291
+PROD0071,Smartwatches_Item_71,Electronics,Smartwatches,Philips,18572
+PROD0072,Smartwatches_Item_72,Electronics,Smartwatches,Nestle,14809
+PROD0073,Smartwatches_Item_73,Electronics,Smartwatches,Dabur,18597
+PROD0074,Smartwatches_Item_74,Electronics,Smartwatches,Dabur,10690
+PROD0075,Smartwatches_Item_75,Electronics,Smartwatches,Dabur,10459
+PROD0076,Smartwatches_Item_76,Electronics,Smartwatches,Boat,14510
+PROD0077,Smartwatches_Item_77,Electronics,Smartwatches,Apple,15465
+PROD0078,Smartwatches_Item_78,Electronics,Smartwatches,Philips,10022
+PROD0079,Smartwatches_Item_79,Electronics,Smartwatches,Nike,19479
+PROD0080,Smartwatches_Item_80,Electronics,Smartwatches,Samsung,11632
+PROD0081,Men Clothing_Item_81,Fashion,Men Clothing,LG,2531
+PROD0082,Men Clothing_Item_82,Fashion,Men Clothing,Nike,15230
+PROD0083,Men Clothing_Item_83,Fashion,Men Clothing,Philips,1332
+PROD0084,Men Clothing_Item_84,Fashion,Men Clothing,Samsung,12182
+PROD0085,Men Clothing_Item_85,Fashion,Men Clothing,Nike,2614
+PROD0086,Men Clothing_Item_86,Fashion,Men Clothing,Dabur,3058
+PROD0087,Men Clothing_Item_87,Fashion,Men Clothing,Nestle,19566
+PROD0088,Men Clothing_Item_88,Fashion,Men Clothing,LG,12698
+PROD0089,Men Clothing_Item_89,Fashion,Men Clothing,Philips,19116
+PROD0090,Men Clothing_Item_90,Fashion,Men Clothing,LG,1444
+PROD0091,Men Clothing_Item_91,Fashion,Men Clothing,Philips,18832
+PROD0092,Men Clothing_Item_92,Fashion,Men Clothing,Dabur,6268
+PROD0093,Men Clothing_Item_93,Fashion,Men Clothing,Adidas,19924
+PROD0094,Men Clothing_Item_94,Fashion,Men Clothing,Philips,16528
+PROD0095,Men Clothing_Item_95,Fashion,Men Clothing,Boat,2127
+PROD0096,Men Clothing_Item_96,Fashion,Men Clothing,Philips,3491
+PROD0097,Men Clothing_Item_97,Fashion,Men Clothing,Adidas,2863
+PROD0098,Men Clothing_Item_98,Fashion,Men Clothing,LG,5754
+PROD0099,Men Clothing_Item_99,Fashion,Men Clothing,Samsung,8218
+PROD0100,Men Clothing_Item_100,Fashion,Men Clothing,ITC,14444
+PROD0101,Women Clothing_Item_101,Fashion,Women Clothing,Philips,17272
+PROD0102,Women Clothing_Item_102,Fashion,Women Clothing,LG,5301
+PROD0103,Women Clothing_Item_103,Fashion,Women Clothing,Adidas,12317
+PROD0104,Women Clothing_Item_104,Fashion,Women Clothing,Nike,12794
+PROD0105,Women Clothing_Item_105,Fashion,Women Clothing,Puma,11187
+PROD0106,Women Clothing_Item_106,Fashion,Women Clothing,Dabur,19691
+PROD0107,Women Clothing_Item_107,Fashion,Women Clothing,Samsung,11065
+PROD0108,Women Clothing_Item_108,Fashion,Women Clothing,Apple,10903
+PROD0109,Women Clothing_Item_109,Fashion,Women Clothing,Apple,18383
+PROD0110,Women Clothing_Item_110,Fashion,Women Clothing,Dabur,12766
+PROD0111,Women Clothing_Item_111,Fashion,Women Clothing,Nike,8357
+PROD0112,Women Clothing_Item_112,Fashion,Women Clothing,ITC,19849
+PROD0113,Women Clothing_Item_113,Fashion,Women Clothing,Boat,11023
+PROD0114,Women Clothing_Item_114,Fashion,Women Clothing,Apple,19195
+PROD0115,Women Clothing_Item_115,Fashion,Women Clothing,Dabur,4734
+PROD0116,Women Clothing_Item_116,Fashion,Women Clothing,Adidas,10265
+PROD0117,Women Clothing_Item_117,Fashion,Women Clothing,Dabur,12943
+PROD0118,Women Clothing_Item_118,Fashion,Women Clothing,Boat,19598
+PROD0119,Women Clothing_Item_119,Fashion,Women Clothing,ITC,2876
+PROD0120,Women Clothing_Item_120,Fashion,Women Clothing,Nike,18414
+PROD0121,Footwear_Item_121,Fashion,Footwear,Puma,10863
+PROD0122,Footwear_Item_122,Fashion,Footwear,Boat,17348
+PROD0123,Footwear_Item_123,Fashion,Footwear,Apple,13974
+PROD0124,Footwear_Item_124,Fashion,Footwear,LG,11956
+PROD0125,Footwear_Item_125,Fashion,Footwear,Samsung,11981
+PROD0126,Footwear_Item_126,Fashion,Footwear,Nike,6006
+PROD0127,Footwear_Item_127,Fashion,Footwear,Lenovo,11297
+PROD0128,Footwear_Item_128,Fashion,Footwear,Philips,6391
+PROD0129,Footwear_Item_129,Fashion,Footwear,Lenovo,4607
+PROD0130,Footwear_Item_130,Fashion,Footwear,Boat,2628
+PROD0131,Footwear_Item_131,Fashion,Footwear,Nike,3414
+PROD0132,Footwear_Item_132,Fashion,Footwear,LG,17787
+PROD0133,Footwear_Item_133,Fashion,Footwear,ITC,17353
+PROD0134,Footwear_Item_134,Fashion,Footwear,Samsung,11135
+PROD0135,Footwear_Item_135,Fashion,Footwear,Nestle,4394
+PROD0136,Footwear_Item_136,Fashion,Footwear,Nestle,12444
+PROD0137,Footwear_Item_137,Fashion,Footwear,Boat,5416
+PROD0138,Footwear_Item_138,Fashion,Footwear,Boat,5524
+PROD0139,Footwear_Item_139,Fashion,Footwear,ITC,14441
+PROD0140,Footwear_Item_140,Fashion,Footwear,Samsung,13563
+PROD0141,Kitchen_Item_141,Home,Kitchen,Adidas,7883
+PROD0142,Kitchen_Item_142,Home,Kitchen,Philips,9436
+PROD0143,Kitchen_Item_143,Home,Kitchen,ITC,14810
+PROD0144,Kitchen_Item_144,Home,Kitchen,Lenovo,17598
+PROD0145,Kitchen_Item_145,Home,Kitchen,Lenovo,10240
+PROD0146,Kitchen_Item_146,Home,Kitchen,Philips,6457
+PROD0147,Kitchen_Item_147,Home,Kitchen,Adidas,18791
+PROD0148,Kitchen_Item_148,Home,Kitchen,Philips,15228
+PROD0149,Kitchen_Item_149,Home,Kitchen,Nike,12613
+PROD0150,Kitchen_Item_150,Home,Kitchen,LG,17383
+PROD0151,Kitchen_Item_151,Home,Kitchen,Puma,5410
+PROD0152,Kitchen_Item_152,Home,Kitchen,Lenovo,19913
+PROD0153,Kitchen_Item_153,Home,Kitchen,Boat,8292
+PROD0154,Kitchen_Item_154,Home,Kitchen,Samsung,15847
+PROD0155,Kitchen_Item_155,Home,Kitchen,Adidas,18271
+PROD0156,Kitchen_Item_156,Home,Kitchen,Apple,17005
+PROD0157,Kitchen_Item_157,Home,Kitchen,Apple,9440
+PROD0158,Kitchen_Item_158,Home,Kitchen,Apple,5353
+PROD0159,Kitchen_Item_159,Home,Kitchen,Nike,14823
+PROD0160,Kitchen_Item_160,Home,Kitchen,LG,4928
+PROD0161,Furniture_Item_161,Home,Furniture,Puma,3105
+PROD0162,Furniture_Item_162,Home,Furniture,Lenovo,14882
+PROD0163,Furniture_Item_163,Home,Furniture,Adidas,973
+PROD0164,Furniture_Item_164,Home,Furniture,Puma,1845
+PROD0165,Furniture_Item_165,Home,Furniture,Puma,16549
+PROD0166,Furniture_Item_166,Home,Furniture,Adidas,7825
+PROD0167,Furniture_Item_167,Home,Furniture,Puma,2774
+PROD0168,Furniture_Item_168,Home,Furniture,Adidas,7457
+PROD0169,Furniture_Item_169,Home,Furniture,Samsung,10542
+PROD0170,Furniture_Item_170,Home,Furniture,Apple,11086
+PROD0171,Furniture_Item_171,Home,Furniture,Boat,4608
+PROD0172,Furniture_Item_172,Home,Furniture,Samsung,9500
+PROD0173,Furniture_Item_173,Home,Furniture,Philips,4647
+PROD0174,Furniture_Item_174,Home,Furniture,ITC,15471
+PROD0175,Furniture_Item_175,Home,Furniture,Philips,272
+PROD0176,Furniture_Item_176,Home,Furniture,Apple,722
+PROD0177,Furniture_Item_177,Home,Furniture,Nike,7166
+PROD0178,Furniture_Item_178,Home,Furniture,Boat,18083
+PROD0179,Furniture_Item_179,Home,Furniture,ITC,17394
+PROD0180,Furniture_Item_180,Home,Furniture,Puma,3743
+PROD0181,Decor_Item_181,Home,Decor,Nike,7886
+PROD0182,Decor_Item_182,Home,Decor,Nike,4092
+PROD0183,Decor_Item_183,Home,Decor,Samsung,7913
+PROD0184,Decor_Item_184,Home,Decor,Puma,15078
+PROD0185,Decor_Item_185,Home,Decor,Apple,3732
+PROD0186,Decor_Item_186,Home,Decor,Philips,19653
+PROD0187,Decor_Item_187,Home,Decor,LG,638
+PROD0188,Decor_Item_188,Home,Decor,Dabur,16987
+PROD0189,Decor_Item_189,Home,Decor,Nestle,8027
+PROD0190,Decor_Item_190,Home,Decor,ITC,4804
+PROD0191,Decor_Item_191,Home,Decor,Nike,14165
+PROD0192,Decor_Item_192,Home,Decor,Samsung,11661
+PROD0193,Decor_Item_193,Home,Decor,Lenovo,18799
+PROD0194,Decor_Item_194,Home,Decor,Puma,6237
+PROD0195,Decor_Item_195,Home,Decor,Dabur,2905
+PROD0196,Decor_Item_196,Home,Decor,LG,11916
+PROD0197,Decor_Item_197,Home,Decor,Apple,17337
+PROD0198,Decor_Item_198,Home,Decor,LG,16724
+PROD0199,Decor_Item_199,Home,Decor,LG,18258
+PROD0200,Decor_Item_200,Home,Decor,Samsung,12894
+PROD0201,Cosmetics_Item_201,Beauty,Cosmetics,Philips,1526
+PROD0202,Cosmetics_Item_202,Beauty,Cosmetics,Dabur,12777
+PROD0203,Cosmetics_Item_203,Beauty,Cosmetics,Adidas,8411
+PROD0204,Cosmetics_Item_204,Beauty,Cosmetics,ITC,632
+PROD0205,Cosmetics_Item_205,Beauty,Cosmetics,Adidas,2313
+PROD0206,Cosmetics_Item_206,Beauty,Cosmetics,Adidas,8001
+PROD0207,Cosmetics_Item_207,Beauty,Cosmetics,ITC,3496
+PROD0208,Cosmetics_Item_208,Beauty,Cosmetics,Nestle,10995
+PROD0209,Cosmetics_Item_209,Beauty,Cosmetics,Boat,1552
+PROD0210,Cosmetics_Item_210,Beauty,Cosmetics,Adidas,17991
+PROD0211,Cosmetics_Item_211,Beauty,Cosmetics,Adidas,5837
+PROD0212,Cosmetics_Item_212,Beauty,Cosmetics,Dabur,15324
+PROD0213,Cosmetics_Item_213,Beauty,Cosmetics,ITC,15780
+PROD0214,Cosmetics_Item_214,Beauty,Cosmetics,Dabur,6072
+PROD0215,Cosmetics_Item_215,Beauty,Cosmetics,Boat,2167
+PROD0216,Cosmetics_Item_216,Beauty,Cosmetics,ITC,15097
+PROD0217,Cosmetics_Item_217,Beauty,Cosmetics,Samsung,9715
+PROD0218,Cosmetics_Item_218,Beauty,Cosmetics,Lenovo,1535
+PROD0219,Cosmetics_Item_219,Beauty,Cosmetics,Lenovo,1473
+PROD0220,Cosmetics_Item_220,Beauty,Cosmetics,Adidas,10260
+PROD0221,Skincare_Item_221,Beauty,Skincare,LG,13149
+PROD0222,Skincare_Item_222,Beauty,Skincare,LG,15612
+PROD0223,Skincare_Item_223,Beauty,Skincare,Nike,1299
+PROD0224,Skincare_Item_224,Beauty,Skincare,Dabur,6362
+PROD0225,Skincare_Item_225,Beauty,Skincare,Nike,11797
+PROD0226,Skincare_Item_226,Beauty,Skincare,Samsung,10976
+PROD0227,Skincare_Item_227,Beauty,Skincare,Nike,4178
+PROD0228,Skincare_Item_228,Beauty,Skincare,Adidas,14418
+PROD0229,Skincare_Item_229,Beauty,Skincare,Puma,14509
+PROD0230,Skincare_Item_230,Beauty,Skincare,Puma,11209
+PROD0231,Skincare_Item_231,Beauty,Skincare,Boat,16359
+PROD0232,Skincare_Item_232,Beauty,Skincare,ITC,16402
+PROD0233,Skincare_Item_233,Beauty,Skincare,Adidas,17115
+PROD0234,Skincare_Item_234,Beauty,Skincare,Nike,2807
+PROD0235,Skincare_Item_235,Beauty,Skincare,ITC,14010
+PROD0236,Skincare_Item_236,Beauty,Skincare,Apple,14210
+PROD0237,Skincare_Item_237,Beauty,Skincare,Nestle,6013
+PROD0238,Skincare_Item_238,Beauty,Skincare,LG,9726
+PROD0239,Skincare_Item_239,Beauty,Skincare,Adidas,3461
+PROD0240,Skincare_Item_240,Beauty,Skincare,Apple,10845
+PROD0241,Haircare_Item_241,Beauty,Haircare,Dabur,9787
+PROD0242,Haircare_Item_242,Beauty,Haircare,Nike,14711
+PROD0243,Haircare_Item_243,Beauty,Haircare,Nestle,14062
+PROD0244,Haircare_Item_244,Beauty,Haircare,Boat,14645
+PROD0245,Haircare_Item_245,Beauty,Haircare,Adidas,14751
+PROD0246,Haircare_Item_246,Beauty,Haircare,Samsung,11652
+PROD0247,Haircare_Item_247,Beauty,Haircare,Nestle,14352
+PROD0248,Haircare_Item_248,Beauty,Haircare,Nike,1979
+PROD0249,Haircare_Item_249,Beauty,Haircare,Apple,13410
+PROD0250,Haircare_Item_250,Beauty,Haircare,Adidas,16912
+PROD0251,Haircare_Item_251,Beauty,Haircare,ITC,5342
+PROD0252,Haircare_Item_252,Beauty,Haircare,Samsung,4778
+PROD0253,Haircare_Item_253,Beauty,Haircare,Nestle,14458
+PROD0254,Haircare_Item_254,Beauty,Haircare,Samsung,4236
+PROD0255,Haircare_Item_255,Beauty,Haircare,Apple,7833
+PROD0256,Haircare_Item_256,Beauty,Haircare,Dabur,12103
+PROD0257,Haircare_Item_257,Beauty,Haircare,Adidas,12645
+PROD0258,Haircare_Item_258,Beauty,Haircare,Nestle,1161
+PROD0259,Haircare_Item_259,Beauty,Haircare,Nestle,5127
+PROD0260,Haircare_Item_260,Beauty,Haircare,Dabur,14843
+PROD0261,Snacks_Item_261,Grocery,Snacks,Adidas,12290
+PROD0262,Snacks_Item_262,Grocery,Snacks,Philips,2619
+PROD0263,Snacks_Item_263,Grocery,Snacks,Nestle,4611
+PROD0264,Snacks_Item_264,Grocery,Snacks,LG,12124
+PROD0265,Snacks_Item_265,Grocery,Snacks,Puma,10401
+PROD0266,Snacks_Item_266,Grocery,Snacks,Dabur,9232
+PROD0267,Snacks_Item_267,Grocery,Snacks,Lenovo,3817
+PROD0268,Snacks_Item_268,Grocery,Snacks,Samsung,6196
+PROD0269,Snacks_Item_269,Grocery,Snacks,Philips,17065
+PROD0270,Snacks_Item_270,Grocery,Snacks,Puma,18504
+PROD0271,Snacks_Item_271,Grocery,Snacks,Apple,8677
+PROD0272,Snacks_Item_272,Grocery,Snacks,Nike,14723
+PROD0273,Snacks_Item_273,Grocery,Snacks,Lenovo,9457
+PROD0274,Snacks_Item_274,Grocery,Snacks,ITC,16195
+PROD0275,Snacks_Item_275,Grocery,Snacks,Lenovo,4118
+PROD0276,Snacks_Item_276,Grocery,Snacks,Boat,2526
+PROD0277,Snacks_Item_277,Grocery,Snacks,Philips,5757
+PROD0278,Snacks_Item_278,Grocery,Snacks,ITC,14685
+PROD0279,Snacks_Item_279,Grocery,Snacks,Apple,10572
+PROD0280,Snacks_Item_280,Grocery,Snacks,Dabur,11484
+PROD0281,Daily Essentials_Item_281,Grocery,Daily Essentials,ITC,2227
+PROD0282,Daily Essentials_Item_282,Grocery,Daily Essentials,LG,17865
+PROD0283,Daily Essentials_Item_283,Grocery,Daily Essentials,Nike,9928
+PROD0284,Daily Essentials_Item_284,Grocery,Daily Essentials,Boat,5804
+PROD0285,Daily Essentials_Item_285,Grocery,Daily Essentials,Adidas,16770
+PROD0286,Daily Essentials_Item_286,Grocery,Daily Essentials,Lenovo,4076
+PROD0287,Daily Essentials_Item_287,Grocery,Daily Essentials,Lenovo,4650
+PROD0288,Daily Essentials_Item_288,Grocery,Daily Essentials,Lenovo,16288
+PROD0289,Daily Essentials_Item_289,Grocery,Daily Essentials,Samsung,11925
+PROD0290,Daily Essentials_Item_290,Grocery,Daily Essentials,LG,18852
+PROD0291,Daily Essentials_Item_291,Grocery,Daily Essentials,Adidas,15415
+PROD0292,Daily Essentials_Item_292,Grocery,Daily Essentials,LG,4352
+PROD0293,Daily Essentials_Item_293,Grocery,Daily Essentials,Nestle,2925
+PROD0294,Daily Essentials_Item_294,Grocery,Daily Essentials,Apple,10234
+PROD0295,Daily Essentials_Item_295,Grocery,Daily Essentials,Puma,15784
+PROD0296,Daily Essentials_Item_296,Grocery,Daily Essentials,LG,13560
+PROD0297,Daily Essentials_Item_297,Grocery,Daily Essentials,Puma,18938
+PROD0298,Daily Essentials_Item_298,Grocery,Daily Essentials,Apple,4206
+PROD0299,Daily Essentials_Item_299,Grocery,Daily Essentials,Adidas,2530
+PROD0300,Daily Essentials_Item_300,Grocery,Daily Essentials,Philips,15364
+PROD0301,Beverages_Item_301,Grocery,Beverages,Dabur,17052
+PROD0302,Beverages_Item_302,Grocery,Beverages,Adidas,4305
+PROD0303,Beverages_Item_303,Grocery,Beverages,LG,19360
+PROD0304,Beverages_Item_304,Grocery,Beverages,Boat,4328
+PROD0305,Beverages_Item_305,Grocery,Beverages,Puma,16577
+PROD0306,Beverages_Item_306,Grocery,Beverages,Samsung,4168
+PROD0307,Beverages_Item_307,Grocery,Beverages,LG,5114
+PROD0308,Beverages_Item_308,Grocery,Beverages,Nike,5495
+PROD0309,Beverages_Item_309,Grocery,Beverages,Boat,10672
+PROD0310,Beverages_Item_310,Grocery,Beverages,ITC,7488
+PROD0311,Beverages_Item_311,Grocery,Beverages,Adidas,17103
+PROD0312,Beverages_Item_312,Grocery,Beverages,Nike,2684
+PROD0313,Beverages_Item_313,Grocery,Beverages,Nike,6532
+PROD0314,Beverages_Item_314,Grocery,Beverages,Dabur,18149
+PROD0315,Beverages_Item_315,Grocery,Beverages,Nike,4201
+PROD0316,Beverages_Item_316,Grocery,Beverages,Dabur,10022
+PROD0317,Beverages_Item_317,Grocery,Beverages,Nestle,17581
+PROD0318,Beverages_Item_318,Grocery,Beverages,Apple,16568
+PROD0319,Beverages_Item_319,Grocery,Beverages,Dabur,5625
+PROD0320,Beverages_Item_320,Grocery,Beverages,Nestle,19126
